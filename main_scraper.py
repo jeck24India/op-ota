@@ -5,7 +5,7 @@ import re
 import time
 import os
 
-# --- 1. CONFIGURATION MAPPINGS FROM YOUR MAIN.PY ---
+# --- 1. CONFIGURATION MAPPINGS ---
 REGION_MAP = {
     "GLO": ["10100111", 0, ""], "CN":  ["10010111", 1, ""], "IND": ["00011011", 2, ""],
     "IN":  ["00011011", 2, "IN"], "EU":  ["01000100", 3, "EU"], "EEA": ["01000100", 3, "EEA"],
@@ -16,7 +16,6 @@ REGION_MAP = {
     "SG":  ["00101100", 0, ""], "VN":  ["00111100", 0, ""], "OCA": ["10100101", 0, ""],
 }
 
-# Mapping character to OTA major version
 OS_VERSION_MAP = {"A": "11.A.01", "C": "11.C.01", "F": "11.F.01", "H": "11.H.01"}
 
 BASE_URL = "https://oosdownloader-gui.fly.dev/api"
@@ -24,12 +23,11 @@ OUTPUT_FILE = "oneplus_ota_final.json"
 
 # --- 2. CORE LOGIC FUNCTIONS ---
 
-def get_permanent_url(base_code, os_char, region):
-    """Executes func.exe to fetch the unsigned manualUrl for A16"""
+def get_permanent_url_and_size(base_code, os_char, region):
+    """Executes func.exe to fetch the unsigned manualUrl and the REAL size in MB"""
     region_key = region.upper()
     nv_id, server_id, suffix = REGION_MAP.get(region_key, REGION_MAP["GLO"])
     
-    # Construct identifiers
     model_flag = base_code.upper() + suffix
     os_suffix = OS_VERSION_MAP.get(os_char.upper(), "11.A.01")
     complex_arg = f"{base_code.upper()}_{os_suffix}_0001_100001010000"
@@ -41,19 +39,31 @@ def get_permanent_url(base_code, os_char, region):
     ]
 
     try:
-        # shell=True required if 'func' is a script/cmd alias on Windows
         result = subprocess.run(command, capture_output=True, text=True, shell=True, encoding='utf-8')
         data = json.loads(result.stdout.strip())
         
         if data.get('responseCode') == 200:
-            return data['body']['components'][0]['componentPackets']['manualUrl']
+            body = data.get('body', {})
+            packet = body['components'][0]['componentPackets']
+            
+            url = packet['manualUrl']
+            # Get actual size in bytes from the tool and convert to MB
+            raw_bytes = int(packet.get('size', 0))
+            size_mb = f"{round(raw_bytes / (1024**2), 2)} MB"
+            
+            return url, size_mb
     except Exception as e:
         print(f"      [!] Func.exe error: {e}")
-    return None
+    return None, None
 
 def main_scraper():
     print("[+] Fetching Device List...")
-    devices = requests.get(f"{BASE_URL}/devices").json()
+    try:
+        devices = requests.get(f"{BASE_URL}/devices").json()
+    except:
+        print("[-] Could not connect to API.")
+        return
+
     final_data = []
 
     for device in devices:
@@ -74,14 +84,18 @@ def main_scraper():
                 region = region_match.group(1) if region_match else "Global"
                 codename = version.split("_")[0] if "_" in version else version[:8]
 
-                # A16 BRANCH: Fetch permanent URL if version is 16.0
+                # A16 BRANCH: Fetch permanent URL + Real Size via func.exe
                 if "_16.0." in version:
-                    print(f"    [>] A16 Detected. Fetching permanent link...")
-                    # Assuming A16 uses 'F' or 'H' OS char; adjust if needed
+                    print(f"    [>] A16 Detected. Fetching permanent link and real size...")
                     os_char = "F" if "F." in version else "A" 
-                    url = get_permanent_url(codename, os_char, region)
+                    url, size = get_permanent_url_and_size(codename, os_char, region)
+                    # Fallback to API size if tool fails
+                    if not size:
+                        size = f"{round(info.get('download_size', 0) / (1024**2), 2)} MB"
                 else:
                     url = info.get("download_url")
+                    # Calculate MB from the standard API result
+                    size = f"{round(info.get('download_size', 0) / (1024**2), 2)} MB"
 
                 if url:
                     final_data.append({
@@ -89,12 +103,12 @@ def main_scraper():
                         "version": version,
                         "codename": codename,
                         "rom_type": "OTA",
-                        "size": f"{round(info.get('download_size', 0) / (1024**3), 2)} GB",
+                        "size": size, # Now reports in MB (e.g., 7163.04 MB)
                         "md5": info.get("md5sum"),
                         "url": url,
                         "region": region
                     })
-                    print(f"    [OK] Added {codename}")
+                    print(f"    [OK] Added {clean_model} ({region}) - {size}")
 
             time.sleep(0.3)
         except Exception as e:
