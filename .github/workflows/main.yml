@@ -1,0 +1,31 @@
+name: OTA Database Auto-Update
+on:
+  schedule:
+    - cron: '0 0 */3 * *' # Runs every 3 days
+  workflow_dispatch:      # Allows manual "Run" button
+
+jobs:
+  scrape_and_update:
+    runs-on: windows-latest # Required for func.exe
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Scraper
+        run: python main_scraper.py 
+
+      - name: Save JSON to Repo
+        run: |
+          git config --global user.name "OnePlus-Bot"
+          git config --global user.email "bot@yourdomain.com"
+          git add oneplus_ota_final.json
+          git commit -m "Auto-update OTA JSON" || exit 0
+          git push
