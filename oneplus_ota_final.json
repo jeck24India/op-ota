@@ -3984,16 +3984,6 @@
         "version": "CPH2521_16.0.2.403(EX01)",
         "codename": "CPH2521",
         "rom_type": "OTA",
-        "size": "6468.34 MB",
-        "md5": "c1d9e9d24be0c101ebcd95db8c54a7fd",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ead7523badb8c633e582ba65d532ebdc/component-ota/23/11/07/f1f54d93024247609dce4632baacfcc5.zip",
-        "region": "PH"
-    },
-    {
-        "model": "OPPO Reno10 Pro+",
-        "version": "CPH2521_16.0.2.403(EX01)",
-        "codename": "CPH2521",
-        "rom_type": "OTA",
         "size": "6325.82 MB",
         "md5": "129703c3f851466c7bdc7e6bdcbfe00d",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-ce09f64be4a5dadc2db16f2659a85cd8/component-ota/23/11/07/a700750d57284eb28b78019ded2a01a6.zip",
@@ -6441,11 +6431,11 @@
     },
     {
         "model": "OnePlus 15",
-        "version": "CPH2745_16.0.5.700(EX01)",
+        "version": "CPH2745_16.0.5.702(EX01)",
         "codename": "CPH2745",
         "rom_type": "OTA",
         "size": "8905.85 MB",
-        "md5": "e4ce241be961b9b132deabeeb7d7ee81",
+        "md5": "d4bd922b0f7b55021795751e74bbf009",
         "url": "https://component-ota-in.allawnos.com/downloadCheck?c=2e9a386a1b52a479ae295de774ba8fc4&p=a50845bd674e8546cc601242644971d02fd81fff4c134466507684e4f492db830d5ffec6c0c681ffe0064b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69893c31007ddc017e03e816&taste=0&supportDLTaste=0&mode=1&s=3a320761133fe5ce8e6810f47e239d1e",
         "region": "IN"
     },
