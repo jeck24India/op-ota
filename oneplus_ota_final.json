@@ -10,6 +10,26 @@
         "region": "EU"
     },
     {
+        "model": "OPPO A17",
+        "version": "CPH2477_11_A.57",
+        "codename": "CPH2477",
+        "rom_type": "OTA",
+        "size": "71.48 MB",
+        "md5": "e432b28e768e470b29d79d2b7459d653",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-da914201f1ac659698cbe768bd05597f/component-ota/25/10/08/9437db6d2dc14936b0e7f26358cec029.zip",
+        "region": "RU"
+    },
+    {
+        "model": "OPPO A17",
+        "version": "CPH2477_11_A.57",
+        "codename": "CPH2477",
+        "rom_type": "OTA",
+        "size": "194.1 MB",
+        "md5": "194d0ffc7aeab23e86dd091865a54a97",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e7a8da171a4c96255aaac2e4f81af361/component-ota/25/10/08/79841a75831240afb1a64ba57b9e8696.zip",
+        "region": "TR"
+    },
+    {
         "model": "OPPO A17k",
         "version": "CPH2471_11_A.57",
         "codename": "CPH2471",
@@ -38,6 +58,16 @@
         "md5": "43ddf4b58ae51f2e137cac2db43a085d",
         "url": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-fbe60f5202b20f0b91b7236b6982dfb3/component-ota/25/07/03/282fb8031a8d4e34805a56bcfe74782a.zip",
         "region": "EU"
+    },
+    {
+        "model": "OPPO A18",
+        "version": "CPH2591_15.0.0.1800(EX01)",
+        "codename": "CPH2591",
+        "rom_type": "OTA",
+        "size": "5002.95 MB",
+        "md5": "ff257d5278db3543dc82090bd2c376af",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-da8e6d70b6d17188b973687c05a341a1/component-ota/26/03/09/5240f1c9426e4ba0b114ba61d93b2724.zip",
+        "region": "KZ"
     },
     {
         "model": "OPPO A18",
@@ -181,11 +211,11 @@
     },
     {
         "model": "OPPO A3 4G",
-        "version": "CPH2669_16.0.3.501(EX01)",
+        "version": "CPH2669_16.0.5.701(EX01)",
         "codename": "CPH2669",
         "rom_type": "OTA",
         "size": "4620.63 MB",
-        "md5": "1e033096943d37433aebb9e56f2be308",
+        "md5": "d3bf7f69ec0b22f0897beb99411e1f48",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-a96c493925574eaf6467c48e286e52f5/component-ota/26/03/12/ae4c61166e1e45e083ab0e7618769aeb.zip",
         "region": "MEA"
     },
@@ -201,53 +231,43 @@
     },
     {
         "model": "OPPO A3 4G",
-        "version": "CPH2669_16.0.3.501(EX01)",
+        "version": "CPH2669_16.0.5.701(EX01)",
         "codename": "CPH2669",
         "rom_type": "OTA",
         "size": "4777.95 MB",
-        "md5": "786de5046ab89fd33cacd505bac1a050",
+        "md5": "af11605356429eb081bb636d931fef65",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-988c0ba297a0a45fb17c913d1bb0e92a/component-ota/26/03/12/bab3c5ea61984d279faab0f92213d4d9.zip",
         "region": "PH"
     },
     {
         "model": "OPPO A3 4G",
-        "version": "CPH2669_16.0.3.501(EX01)",
+        "version": "CPH2669_16.0.5.701(EX01)",
         "codename": "CPH2669",
         "rom_type": "OTA",
         "size": "5266.53 MB",
-        "md5": "019b07cbe1cccad96bacebcb9d6a73d0",
+        "md5": "34a52640723fb3e961fd9236f6c20b68",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-8f64eb1fe373687e49c5a697c3f63d44/component-ota/26/03/12/a3bfcb8a771c4da09da2a14b24af36b5.zip",
         "region": "SG"
     },
     {
         "model": "OPPO A3 4G",
-        "version": "CPH2669_16.0.3.501(EX01)",
+        "version": "CPH2669_16.0.5.701(EX01)",
         "codename": "CPH2669",
         "rom_type": "OTA",
         "size": "4733.82 MB",
-        "md5": "c5f2817c12397c3c6d4bb5a03b96e1c6",
+        "md5": "04cc06c142f1685f2e4bf406367b5714",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-7b6b3dba52fcba33a60fc20ee5e17ff8/component-ota/26/03/12/0187b0b7515e412c94f875718ed22fe7.zip",
         "region": "TH"
     },
     {
         "model": "OPPO A3 4G",
-        "version": "CPH2669_16.0.3.501(EX01)",
+        "version": "CPH2669_16.0.5.701(EX01)",
         "codename": "CPH2669",
         "rom_type": "OTA",
         "size": "4748.43 MB",
-        "md5": "2fbf767f288db2db6348c75ceabe34a0",
+        "md5": "9db2b2445f04566e01e2e44d51d86bb2",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-0333e2e95e5ef93d83452e4bd3022e0e/component-ota/26/03/12/a98caaa058c84050bb9b7efd032c90a8.zip",
         "region": "VN"
-    },
-    {
-        "model": "OPPO A3 Pro",
-        "version": "CPH2639_15.0.0.1602(EX01)",
-        "codename": "CPH2639",
-        "rom_type": "OTA",
-        "size": "50.28 MB",
-        "md5": "4f9f36c76b9d28fb7f24dcb8f473b789",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c04770b24c6e4bfb40a01b580efa352f/component-ota/26/01/30/da332637e29d499792c306a383555439.zip",
-        "region": "EU"
     },
     {
         "model": "OPPO A3 Pro",
@@ -321,12 +341,12 @@
     },
     {
         "model": "OPPO A3 Pro",
-        "version": "CPH2639_15.0.0.1600(EX01)",
+        "version": "CPH2639_16.0.3.503(EX01)",
         "codename": "CPH2639",
         "rom_type": "OTA",
-        "size": "1386.17 MB",
-        "md5": "e14e5ce8fa85a6d5a8fc74302f2ac505",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d5af9c9d6ade541e8d6f42bb3afa19d3/component-ota/26/01/06/3852030bcccc4f1db931a5dae8a46c6e.zip",
+        "size": "5388.07 MB",
+        "md5": "c85f9082fd0b2129985c02474260f25d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-de8484c53b154af9eb457f04ca0c0f5e/component-ota/24/11/05/f03cde8091c142539d756c8a931829ef.zip",
         "region": "SG"
     },
     {
@@ -388,6 +408,16 @@
         "md5": "ca0ffcdb65ccb1f5ab48cd1805743b1b",
         "url": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-2a26a385dc3cb543bb3f3b0baf0d86cc/component-ota/25/07/03/06d0582a2cf747eeab01108b8cc3363c.zip",
         "region": "IN"
+    },
+    {
+        "model": "OPPO A38",
+        "version": "CPH2579_15.0.0.1800(EX01)",
+        "codename": "CPH2579",
+        "rom_type": "OTA",
+        "size": "5011.37 MB",
+        "md5": "4459279048556d9167710c88254a6fa1",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4f4fe77baa89685fa43ada261d1e973d/component-ota/26/03/09/98df41e7461e44b7a69a381cf7280fd6.zip",
+        "region": "KZ"
     },
     {
         "model": "OPPO A38",
@@ -478,6 +508,16 @@
         "md5": "2b622947760a4895bcaee63c6c849c82",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-e1a9b9f4b74f153054e21d899d14b9f0/component-ota/26/03/12/4952b0e9fe994f1c8b011d619373e6ed.zip",
         "region": "IN"
+    },
+    {
+        "model": "OPPO A3x 4G",
+        "version": "CPH2641_14.0.1.2250(EX01)",
+        "codename": "CPH2641",
+        "rom_type": "OTA",
+        "size": "4580.15 MB",
+        "md5": "775edd5fd322d537851bb4a4f2d57bab",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-bc611d651b061cac0dba82182e84a48b/component-ota/26/03/12/919f518724b44df48d78671210e92b98.zip",
+        "region": "KZ"
     },
     {
         "model": "OPPO A3x 4G",
@@ -608,16 +648,6 @@
         "md5": "75568e382eba65e3c49a480d59451c3f",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-7cdbc30173af0e578acb6063a5dc8cb4/component-ota/26/03/03/a6de98f9322e4f558d401dcc6464b416.zip",
         "region": "IN"
-    },
-    {
-        "model": "OPPO A40",
-        "version": "CPH266923317_15.0.0.1710(EX01)",
-        "codename": "CPH266923317",
-        "rom_type": "OTA",
-        "size": "163.89 MB",
-        "md5": "83f97c625d2f0190656356ef8af1b74d",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cc89ae3f22ee8a140cbaf83b28a2363e/component-ota/26/03/04/76b9ffd0d3c44de983ea54567fdce132.zip",
-        "region": "EU"
     },
     {
         "model": "OPPO A40",
@@ -1081,6 +1111,16 @@
     },
     {
         "model": "OPPO A58",
+        "version": "CPH2577_15.0.0.1800(EX01)",
+        "codename": "CPH2577",
+        "rom_type": "OTA",
+        "size": "5032.76 MB",
+        "md5": "c05e3309a904a3174624b6b801e56e75",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-aa488d3fb1dcc7d622058375eb3a0cb1/component-ota/26/03/12/05c73f31b4f14f21836cb4ff64a126a8.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO A58",
         "version": "CPH2577_15.0.0.1302(EX01)",
         "codename": "CPH2577",
         "rom_type": "OTA",
@@ -1491,12 +1531,12 @@
     },
     {
         "model": "OPPO A60 5G",
-        "version": "CPH2683_15.0.0.1701(EX01)",
+        "version": "CPH2683_16.0.3.501(EX01)",
         "codename": "CPH2683",
         "rom_type": "OTA",
-        "size": "711.54 MB",
-        "md5": "c2a9f059d43b21738077e673aa1fd5a8",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-13585bd33548a17d64a9c3d30c7b6425/component-ota/26/03/03/39962907a8954f6aad6f8060a100c3a1.zip",
+        "size": "4838.86 MB",
+        "md5": "667aeed50402d9449546f4e9eef7c9f8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8fc6d550f8499ef1471887dda0583aec/component-ota/25/03/24/caff03ab22264212abeef2283f5fa5b6.zip",
         "region": "SA"
     },
     {
@@ -1844,6 +1884,16 @@
         "version": "CPH2565_15.0.0.1800(EX01)",
         "codename": "CPH2565",
         "rom_type": "OTA",
+        "size": "5599.74 MB",
+        "md5": "f321e14bc9745652e8b9c51999dd9f71",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d729ce95dc361be0fbc588881ee76d16/component-ota/26/03/09/4d811c0170134662b9a6fdf57751cf32.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO A78 4G",
+        "version": "CPH2565_15.0.0.1800(EX01)",
+        "codename": "CPH2565",
+        "rom_type": "OTA",
         "size": "678.59 MB",
         "md5": "7d8a081ee5efa32b724363665877aeec",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-352e92a7afe8a425f3858ac4cfe6be81/component-ota/26/03/09/408e47460dfc45c181d77c9525a3587d.zip",
@@ -2114,6 +2164,16 @@
         "version": "CPH2529_15.0.0.1800(EX01)",
         "codename": "CPH2529",
         "rom_type": "OTA",
+        "size": "6286.78 MB",
+        "md5": "5e1caba93f1f9ec17229f7796a0cf9b1",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-44c51bb8ed7018150c4d3a81d9f097bd/component-ota/26/03/06/5bdab51b969f4b11ab9da9a58a19182d.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO A98",
+        "version": "CPH2529_15.0.0.1800(EX01)",
+        "codename": "CPH2529",
+        "rom_type": "OTA",
         "size": "694.24 MB",
         "md5": "f822f771412ded2b1f03726a23465a5c",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-49033b531c6e268aeda551aa47b08cdd/component-ota/26/03/06/330e9cbaf1fc41d2be09b618e72c2c2b.zip",
@@ -2311,12 +2371,12 @@
     },
     {
         "model": "OPPO F21s Pro 5G",
-        "version": "CPH2455_14.0.0.2700(EX01)",
+        "version": "CPH2455_14.0.0.2900(EX01)",
         "codename": "CPH2455",
         "rom_type": "OTA",
-        "size": "466.31 MB",
-        "md5": "355d63209dedec1d70f92193e1042f10",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8ea9ab8f8429bd9b000e377a2e0036b8/component-ota/25/12/12/6f778b9e76f04adcbb31d2d72dfc43e3.zip",
+        "size": "504.53 MB",
+        "md5": "922da3e081994654b626c65885cd04d4",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-704376de50bb8d38300c10ea74480546/component-ota/26/04/14/628c1afceecc4ae5855ede760c2f9d36.zip",
         "region": "IN"
     },
     {
@@ -2341,11 +2401,11 @@
     },
     {
         "model": "OPPO F25 Pro",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "6291.98 MB",
-        "md5": "cb2ff1dd10e8fac1b870c0aee6a69a0c",
+        "md5": "df25f9c584238a9fce5e05e38ce6e454",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-6a080aef4c129c468e9aabecc7245888/component-ota/24/12/12/a1e0694bf55b42c2a4d580add2abd919.zip",
         "region": "SG"
     },
@@ -2411,12 +2471,12 @@
     },
     {
         "model": "OPPO F31",
-        "version": "CPH2781_15.0.0.900(EX01)",
+        "version": "CPH2781_16.0.5.700(EX01)",
         "codename": "CPH2781",
         "rom_type": "OTA",
-        "size": "1157.65 MB",
-        "md5": "0fa337dd5737910730ad51c831334fe9",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e68aa52fe8714dc2c4b724981fc89dfa/component-ota/26/01/30/0317ed6dd416489395a49dae033895b3.zip",
+        "size": "5764.77 MB",
+        "md5": "179454171c87260b98ab930f052bd2b3",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cc2072bef900e1a3582a406eb245766d/component-ota/26/02/07/09f542dbad21455d847f33f769e84f28.zip",
         "region": "IN"
     },
     {
@@ -2451,12 +2511,12 @@
     },
     {
         "model": "OPPO F31",
-        "version": "CPH2781_15.0.2.901(EX01)",
+        "version": "CPH2781_16.0.5.700(EX01)",
         "codename": "CPH2781",
         "rom_type": "OTA",
-        "size": "1159.34 MB",
-        "md5": "5cd504ab54b37cfd1c359589412a2d8e",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1160adad665a9923839fc099896032ea/component-ota/26/02/07/f221a364a2964ce6961781214fafabcd.zip",
+        "size": "6501.98 MB",
+        "md5": "4d85dd90ddd4d81fb71130bd34a521e0",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-2e565da6b4b1eb64444e28142aeadb45/component-ota/26/02/07/574344594ec6406eb3413351f65bd1af.zip",
         "region": "SG"
     },
     {
@@ -2521,31 +2581,31 @@
     },
     {
         "model": "OPPO Find N2 Flip",
-        "version": "CPH2437_16.0.3.500(EX01)",
+        "version": "CPH2437_16.0.5.701(EX01)",
         "codename": "CPH2437",
         "rom_type": "OTA",
         "size": "6326.41 MB",
-        "md5": "c4ffd93592cba2717a01d0fbc76d6a08",
+        "md5": "61fbec3219fdb562ff51a3ba60a0e944",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-e8921939759313d007cc445631b1ef2b/component-ota/23/10/23/4d86005ab63840f1990e47f0c971b980.zip",
         "region": "OCA"
     },
     {
         "model": "OPPO Find N2 Flip",
-        "version": "CPH2437_16.0.3.500(EX01)",
+        "version": "CPH2437_16.0.5.701(EX01)",
         "codename": "CPH2437",
         "rom_type": "OTA",
         "size": "6361.96 MB",
-        "md5": "37823658d4bbe309d7f9b895e0d98f89",
+        "md5": "253b27c9e4606b07cbed54375afe5786",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-85eafed4154a89f5dc4330978eac58d7/component-ota/23/10/23/f9c94ceaffc6446b95973eacde43f6ae.zip",
         "region": "PH"
     },
     {
         "model": "OPPO Find N2 Flip",
-        "version": "CPH2437_16.0.3.500(EX01)",
+        "version": "CPH2437_16.0.5.701(EX01)",
         "codename": "CPH2437",
         "rom_type": "OTA",
         "size": "6629.69 MB",
-        "md5": "217fcfe175325e344df5c1cd901cf50b",
+        "md5": "7f989609165c576d1b39ac9e57171056",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-4f4ad5bd8e3a8b74045348bfe047b6eb/component-ota/23/10/23/bc899d71443d42f99af4da71f047317c.zip",
         "region": "SG"
     },
@@ -2561,21 +2621,21 @@
     },
     {
         "model": "OPPO Find N2 Flip",
-        "version": "CPH2437_16.0.3.500(EX01)",
+        "version": "CPH2437_16.0.5.701(EX01)",
         "codename": "CPH2437",
         "rom_type": "OTA",
         "size": "6211.24 MB",
-        "md5": "0a68f1a812ff92ea7f2d5aea09adfba6",
+        "md5": "f71f7c0d118ccc50f664bda563908b1c",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-38a94ad6b73a4f09022cc5cbdb49de78/component-ota/23/10/23/7d60edaa26aa49a7adda99b4fb4f3705.zip",
         "region": "TW"
     },
     {
         "model": "OPPO Find N2 Flip",
-        "version": "CPH2437_16.0.3.500(EX01)",
+        "version": "CPH2437_16.0.5.701(EX01)",
         "codename": "CPH2437",
         "rom_type": "OTA",
         "size": "6337.14 MB",
-        "md5": "335cad20c42e86d23c218df4159bcb88",
+        "md5": "729401a14d77c6ca63dd8999d7ff2f64",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c678b85162f1bf0a4b044b1e7912e4b0/component-ota/23/10/23/c1156a52d9384c94b5fe5bee48b454a9.zip",
         "region": "VN"
     },
@@ -2761,12 +2821,12 @@
     },
     {
         "model": "OPPO Find N6",
-        "version": "CPH2765_16.0.5.704(EX01)",
+        "version": "CPH2765_16.0.5.705(EX01)",
         "codename": "CPH2765",
         "rom_type": "OTA",
-        "size": "9340.62 MB",
-        "md5": "909bf01fcf5764d15fdaa6c04e1ce1f6",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=000a6237236ad5afef50c644b332a57a&p=f088224e0068138ba5bcc7011533d764422914962f30c0e87a4bc6879ec68b6014b76218fe557bbc130e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69cb0ed5007ddc01813d89b3&taste=0&supportDLTaste=0&mode=1&s=75b7782f2794519978a33e5f7eac0c31",
+        "size": "9352.47 MB",
+        "md5": "40c7953f5f9a647372a8f748cb8e5ebe",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=1785d7bc5b17fe895fe4b10b859bb4e2&p=f088224e006f1389a4bcc701406fd166417513c72735c0ea78499d819894803012e7361ef4017ab7405f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e8&taste=0&supportDLTaste=0&mode=1&s=18bbfd5aa3735aec16eb5c4b53bf0133",
         "region": "SA"
     },
     {
@@ -2781,12 +2841,12 @@
     },
     {
         "model": "OPPO Find N6",
-        "version": "CPH2765_16.0.5.704(EX01)",
+        "version": "CPH2765_16.0.5.705(EX01)",
         "codename": "CPH2765",
         "rom_type": "OTA",
-        "size": "9340.62 MB",
-        "md5": "0f72ed42b4ace662b71ae1e1e37c7ab7",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=136c113f94f906d174a0190481e5ddf7&p=f088224e0068138ba5bcc0014a638733452e10c22637c0e02d4f9e809997863216e66d1ff8002bb3420c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69cb0ed49e207b01827bf78c&taste=0&supportDLTaste=0&mode=1&s=c08efc556c7a1840f25e3b1a905f8558",
+        "size": "9352.47 MB",
+        "md5": "1d69675d5f818f65654b84ff6ca84999",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2920ca62927102490487f4b608c33b17&p=f088224e006f1389a4bc90014765d166127e10942e32c0eb2b1dc684c9918a6047b46718ff5c27e71408452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e5&taste=0&supportDLTaste=0&mode=1&s=ca4342f9e41e27ba12e4438506327b4e",
         "region": "TH"
     },
     {
@@ -3271,12 +3331,12 @@
     },
     {
         "model": "OPPO K10",
-        "version": "CPH2337_14.0.0.2700(EX01)",
+        "version": "CPH2337_14.0.0.2900(EX01)",
         "codename": "CPH2337",
         "rom_type": "OTA",
-        "size": "499.06 MB",
-        "md5": "642fc3d7a6177f1a918d187cd176fcf8",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8e2d57922105b21acdaa534a43be35ed/component-ota/26/01/15/dcc55e69eaa047358465b5b8763e3a9c.zip",
+        "size": "435.88 MB",
+        "md5": "ca5900f127b2cd8fd2596fe9c0ad6259",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f6360d44a5f712be04d66489c5298b74/component-ota/26/04/16/731a561c0a6f4e2cab80657608c7dc6e.zip",
         "region": "IN"
     },
     {
@@ -3464,6 +3524,16 @@
         "version": "OPD2303_14.0.0.2701(EX01)",
         "codename": "OPD2303",
         "rom_type": "OTA",
+        "size": "4681.2 MB",
+        "md5": "258f318fbb50002ad96c60cc44d95ebe",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e81d80eefe5b9eeb76b0fb88944d8f93/component-ota/26/01/06/821507feabcc4c32acf2d9bc053389b8.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO Pad Neo LTE",
+        "version": "OPD2303_14.0.0.2701(EX01)",
+        "codename": "OPD2303",
+        "rom_type": "OTA",
         "size": "323.31 MB",
         "md5": "094fa90e337939431f44195b3c11e7db",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-a0844a54e4bbedd333bdd81e1ef5d478/component-ota/26/01/06/377607919a8045b58c6f65a73e7ec024.zip",
@@ -3558,6 +3628,16 @@
         "md5": "036fbc071ffec1b9485abb96c48a14a9",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-afe4e6aa5f52013f0eb381df1ba2062f/component-ota/26/01/06/9eb4f53ae7f84c229f57ad19b3819401.zip",
         "region": "JP"
+    },
+    {
+        "model": "OPPO Pad Neo WiFi",
+        "version": "OPD2302_14.0.0.2701(EX01)",
+        "codename": "OPD2302",
+        "rom_type": "OTA",
+        "size": "4624.18 MB",
+        "md5": "49c4be44c1de0c3b67c7f8903403114d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-848d7b0199223cba31a5ec1a00722b64/component-ota/26/01/06/33ceb2011427406fb94f23bf88ae6b17.zip",
+        "region": "KZ"
     },
     {
         "model": "OPPO Pad Neo WiFi",
@@ -3764,6 +3844,16 @@
         "version": "CPH2531_15.0.0.1800(EX01)",
         "codename": "CPH2531",
         "rom_type": "OTA",
+        "size": "6286.41 MB",
+        "md5": "9999f0caee5f1e4cf3255755093557ca",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-646f3e95bd04e06aef03650cd7ddf00c/component-ota/26/03/12/dfabff8bf7d3438d9813dc6f44163ace.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO Reno10",
+        "version": "CPH2531_15.0.0.1800(EX01)",
+        "codename": "CPH2531",
+        "rom_type": "OTA",
         "size": "658.3 MB",
         "md5": "b1f57cacabaa72296fdb26aba90babe7",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-b5ffeee1c501af8c8bc4128d0a930bdb/component-ota/26/03/12/a65df05bec5d4f849fc6ed0c0bad5d53.zip",
@@ -3897,7 +3987,7 @@
         "size": "107.31 MB",
         "md5": "5adaa4a4e734b949799065c8eca42b84",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-34d27f8cb2504a0dab968fbc4882c272/component-ota/26/03/19/ee38514d7d204728af16b03bd26fd276.zip",
-        "region": "EEA"
+        "region": "EU"
     },
     {
         "model": "OPPO Reno10 Pro",
@@ -3918,6 +4008,16 @@
         "md5": "abb2a1ef3450621de3073f48d5215b19",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-0c20ad47ef195b14b5fcc33570864776/component-ota/23/08/05/d90f11b594b44c87ae716fc7e8a04754.zip",
         "region": "IN"
+    },
+    {
+        "model": "OPPO Reno10 Pro",
+        "version": "CPH2525_15.0.0.1603(EX01)",
+        "codename": "CPH2525",
+        "rom_type": "OTA",
+        "size": "6771.56 MB",
+        "md5": "cade3f9512cc2bacadcba93369c424bb",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e21f738d2ed13a5005d1f0639c3cc285/component-ota/26/03/19/abcf1e930e674fb3bc97f68050ca2a8b.zip",
+        "region": "KZ"
     },
     {
         "model": "OPPO Reno10 Pro",
@@ -4111,11 +4211,11 @@
     },
     {
         "model": "OPPO Reno11",
-        "version": "CPH2599_16.0.2.420(EX01)",
+        "version": "CPH2599_16.0.5.700(EX01)",
         "codename": "CPH2599",
         "rom_type": "OTA",
         "size": "5847.49 MB",
-        "md5": "324f5acfcfb678cc961e924edb6a776e",
+        "md5": "4d2b6dc0ab2d11031bb4bcc59260ca95",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-d101e6f41574d07246941373546e8792/component-ota/24/12/12/3ef4f6bd44f24b14a4310436f5d6ddb3.zip",
         "region": "IN"
     },
@@ -4221,11 +4321,11 @@
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5855.26 MB",
-        "md5": "62b8ca0dd674fb23e5698ec588653ce2",
+        "md5": "56e5fb42e2b6189a770ad4ce22b15ec8",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-f3be806b8ff58c1c2e6bdbb34ac0ed45/component-ota/24/11/20/e340faefc6e24fb6917b5d8023ea65b5.zip",
         "region": "ID"
     },
@@ -4241,81 +4341,81 @@
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5723.97 MB",
-        "md5": "9e1a8efcfc09dce78e2dfeb2a0afab75",
+        "md5": "55e14671d1e7fbc3d30592e0116fd2e0",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-f5332ba0f59ea8ce3ef934256d43c6b1/component-ota/24/11/20/08f61ebb1ca342c7bb7d1707f822a381.zip",
         "region": "MEA"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "6074.76 MB",
-        "md5": "58331d097b552254d7cf1f094c55d0f0",
+        "md5": "5b6bfe90b74dd642906039993d1dcf7a",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-204296bc07b1f0929ee4c8b729b5bc69/component-ota/24/11/20/37ed21c2447946c287fb56dcbbf4c749.zip",
         "region": "MY"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5641.66 MB",
-        "md5": "64a35b12d1ceec17bc11554e3c57612b",
+        "md5": "26930cfcb6202b1ab2821f192c6223ab",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-29f69dda12d0edcf726a901dab04984d/component-ota/24/11/20/c7eab420be254c278217518c4ac21828.zip",
         "region": "OCA"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5831.22 MB",
-        "md5": "cac559af14c0f55a37a8c7305ce7ffd8",
+        "md5": "3815e0f869a3078f7cd7c2d070368283",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-7ff1cb0b291cff5ce04fad5757dd8a1d/component-ota/24/11/20/881a4f91cd2b4608a785af9fc6415c08.zip",
         "region": "PH"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5720.98 MB",
-        "md5": "87483f9c91696a4bffb3c15fd733f8b7",
+        "md5": "00a4c472925b5f4c0e7424b0b4a143b4",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c1a96daf8b390fe319c6c2b080c04e74/component-ota/24/11/20/9bc6efeff3024ef58236038f055df272.zip",
         "region": "SA"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5851.2 MB",
-        "md5": "e77d37ef414b4c3fd3f8895a62efaf67",
+        "md5": "cd15e0803048fc944610c86930a31654",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-31054136d50237f98feb30bcb19019d6/component-ota/25/01/16/ea43af964d4847dc9c1bb242b0b071eb.zip",
         "region": "TH"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5725.72 MB",
-        "md5": "c5b7cde779e9bb06b2499b1a0d80015e",
+        "md5": "c210efedf7443942cdf08d3f629d677e",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-6c2e2ef1f2ab21479ed742f1ccfece6a/component-ota/24/12/12/4345b40e0e15435a91fd301b8fcc03cd.zip",
         "region": "TW"
     },
     {
         "model": "OPPO Reno11 F",
-        "version": "CPH2603_16.0.2.420(EX01)",
+        "version": "CPH2603_16.0.2.440(EX01)",
         "codename": "CPH2603",
         "rom_type": "OTA",
         "size": "5801.95 MB",
-        "md5": "6b83100608a8b507a9569a9b55045de5",
+        "md5": "5a3a7d41dcb02d999e6838b72ec2ab7b",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-82f4c915efb79fcbc408f6bededd0be7/component-ota/24/11/20/f63d6f1e17da4c0ea4d56d2f254b4c7f.zip",
         "region": "VN"
     },
@@ -4351,11 +4451,11 @@
     },
     {
         "model": "OPPO Reno11 Pro",
-        "version": "CPH2607_16.0.3.500(EX01)",
+        "version": "CPH2607_16.0.5.700(EX01)",
         "codename": "CPH2607",
         "rom_type": "OTA",
         "size": "6889.0 MB",
-        "md5": "e1af6116b34bc8d454a955493f9e2efa",
+        "md5": "4958c310d959719ebd3b48a60535bc65",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c2a35ad9e9bdd603502ad67b965c8059/component-ota/24/10/18/e4d6c8b845d54ffb8e413ecce02817bf.zip",
         "region": "MY"
     },
@@ -4554,9 +4654,19 @@
         "version": "CPH2687_15.0.0.1600(EX01)",
         "codename": "CPH2687",
         "rom_type": "OTA",
-        "size": "1401.91 MB",
-        "md5": "c52d4002a5789f70186c0845a20a193f",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-192f2c126cb3e3085b64004e1959f401/component-ota/26/01/05/5a4cb48aebef440fb5de047cffe5e7f7.zip",
+        "size": "5514.97 MB",
+        "md5": "9a37477835d89021e66552f2e7d6fb44",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a4c7557a0d3c4457155b5d6a8b4ebfdb/component-ota/26/01/05/f3c964241d76473fa457476014675678.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO Reno12 F",
+        "version": "CPH2687_16.0.5.701(EX01)",
+        "codename": "CPH2687",
+        "rom_type": "OTA",
+        "size": "4706.34 MB",
+        "md5": "bac57845273252f7a9abf7236427567e",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-33a94234574cae6893693a494825b53b/component-ota/25/02/27/3d5949f7daee4c279a141705369a651f.zip",
         "region": "MEA"
     },
     {
@@ -4571,11 +4681,11 @@
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5707.79 MB",
-        "md5": "50f03867eeba3e664d6efb5f31b61502",
+        "md5": "925e6a8bff40adb13bb8d22ae794fbff",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-64a2bd92e6f1baf3712ed6c90fca9a25/component-ota/24/10/30/3c119d644723498ea2018f9a748a43ae.zip",
         "region": "ID"
     },
@@ -4601,11 +4711,11 @@
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5928.66 MB",
-        "md5": "f2dd4b29cf3790539e394570bc1cfe8d",
+        "md5": "add8eda1410c91cee52c5b0c10fb5668",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-1a2a30812c8c9a6d7bfed8aee9466866/component-ota/24/10/30/affe8ba338d541ac8f9d510d59f3ccac.zip",
         "region": "MY"
     },
@@ -4621,41 +4731,41 @@
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5685.08 MB",
-        "md5": "c05c3e1879b39707e5fd0c68d155cd65",
+        "md5": "86aa0a7614259edc964335a8ded76532",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-857ff8c523e651577558b83fc2c6ad20/component-ota/24/10/30/7beb3bff6a13481197edc5024134306d.zip",
         "region": "PH"
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5573.26 MB",
-        "md5": "cafaa1ece58f1c23b7744bc0a9f961f1",
+        "md5": "85f983f006a0346992d6b89248519234",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-94578755e17e2a35dc8296f2e55723a8/component-ota/24/10/30/787013381fc543b2abb04f805120cae9.zip",
         "region": "SA"
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5683.65 MB",
-        "md5": "d0adaf88aa1778bfb52d8e7d2f75a3d2",
+        "md5": "101d963aeae87965c62bb47112491897",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-7750a5d40a6d72d2dfd1df9f756b592e/component-ota/24/10/30/1f24708a56a94368b92a813ddaeafece.zip",
         "region": "TH"
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5578.98 MB",
-        "md5": "dca6076c7e6529f2016b33f249371e9c",
+        "md5": "4f074ccb1c743d853758b846b3d52a52",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-fdbb33beb2b9eee9ffea431b09160985/component-ota/24/10/30/12124852b7f440a1bc0b0b909a2cca48.zip",
         "region": "TW"
     },
@@ -4801,11 +4911,11 @@
     },
     {
         "model": "OPPO Reno13",
-        "version": "CPH2689_16.0.5.700(EX01)",
+        "version": "CPH2689_16.0.5.701(EX01)",
         "codename": "CPH2689",
         "rom_type": "OTA",
         "size": "6779.82 MB",
-        "md5": "742e6453f8eb48c8dfbfc6c39e7142cd",
+        "md5": "2624b9128d84eba2534d7521cc045e4d",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c7413ffbeaa8c2e4a7f6a4338aff4657/component-ota/25/04/01/d27ef93b0e38410ba05619d1106197df.zip",
         "region": "IN"
     },
@@ -4848,6 +4958,16 @@
         "md5": "721a306e29b5b3f5946dd19d7f1a14ca",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-fb206b6536c8c11d773e1d2eb16d2a0c/component-ota/25/04/01/627d5097170d4436976a9da921f412e3.zip",
         "region": "MY"
+    },
+    {
+        "model": "OPPO Reno13",
+        "version": "CPH2689_16.0.3.500(EX01)",
+        "codename": "CPH2689",
+        "rom_type": "OTA",
+        "size": "6750.83 MB",
+        "md5": "9c9dc02a613cfb327c54053eee4fd57b",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-118e9fb44ad79fdd39484f7a10e6e2bc/component-ota/25/04/01/df13df05834b4326acdbdcf03a8ae7f2.zip",
+        "region": "OCA"
     },
     {
         "model": "OPPO Reno13",
@@ -5031,11 +5151,11 @@
     },
     {
         "model": "OPPO Reno13 F 4G",
-        "version": "CPH2701_16.0.3.501(EX01)",
+        "version": "CPH2701_16.0.5.700(EX01)",
         "codename": "CPH2701",
         "rom_type": "OTA",
         "size": "5766.7 MB",
-        "md5": "25f99e1af11213e89ec743990396918e",
+        "md5": "fdc11142c4b46558b36723fcc5c6a817",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-9445d813276b02f1d129799295c87857/component-ota/25/10/11/b0333f7320e64e8c8dd7c624f93ce035.zip",
         "region": "ID"
     },
@@ -5081,11 +5201,11 @@
     },
     {
         "model": "OPPO Reno13 Pro",
-        "version": "CPH2697_16.0.5.700(EX01)",
+        "version": "CPH2697_16.0.5.701(EX01)",
         "codename": "CPH2697",
         "rom_type": "OTA",
         "size": "6784.54 MB",
-        "md5": "686d7819fa042e66dac2c33aa9254448",
+        "md5": "2cf901380bafaa42d8b3b7e9748fbd63",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-b9ac3a1f22099e3c0c0bfed358ea21bc/component-ota/25/03/29/8cb04fb917d0425d9b40061be0f85bb1.zip",
         "region": "IN"
     },
@@ -5211,11 +5331,11 @@
     },
     {
         "model": "OPPO Reno14",
-        "version": "CPH2737_16.0.5.700(EX01)",
+        "version": "CPH2737_16.0.5.701(EX01)",
         "codename": "CPH2737",
         "rom_type": "OTA",
         "size": "7802.03 MB",
-        "md5": "9f624333a93457aace1ee6f686baf3f8",
+        "md5": "939503432bfabe20ccf0477909b87c2c",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-0a553de623da10a9b754aa837648bfa3/component-ota/25/09/07/4c72a2be641841eab5a9872c218142ed.zip",
         "region": "IN"
     },
@@ -5491,12 +5611,12 @@
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "8535.98 MB",
-        "md5": "52cab79fa393c41dcbdfa6dc906bb408",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=214117e891920a56ec12dcbd8a53e697&p=f088224e00681389a7bcc7074b618230467912912637c0ee2b1cc6d4c493873641e33748a95628b24359452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c1007ddc017e040c1e&taste=0&supportDLTaste=0&mode=1&s=82eee12f24335e7a03b184d3548e9c08",
+        "size": "8538.56 MB",
+        "md5": "9901ce0e5ca832740fc9761d21d98e81",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=356a1dd59491c132aa5dcb632ec93823&p=f088224e006f1388a3bc94044666de66467412927f33c0ee2b48c6899b92853412e5601fff572fbd475e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f549e207b01827bff1e&taste=0&supportDLTaste=0&mode=1&s=a93d79a6fa426780474c8ec6d2082814",
         "region": "ID"
     },
     {
@@ -5511,22 +5631,22 @@
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "8503.28 MB",
-        "md5": "b0850108a8f486ccb0e37d945386c05f",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=f188a3790ad3817612518391d21e43c7&p=f088224e00681389a7bc9650166fde334e7a169d2c3ec0ef2b4e9d83c590d13241eb3544fd0526e7145f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c19e207b017bab095d&taste=0&supportDLTaste=0&mode=1&s=1a18bdf7ebd5dc61f29e76531db1deda",
+        "size": "8505.86 MB",
+        "md5": "e03e226182e9d3cb39c06861f2250527",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d2fe750790b40a445c75b1ab4e4c13d5&p=f088224e006f1388a3bc950310618537437d16c12a60c0ef2d1a9dd29cc1866010b1324caf562ce14c5a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d912a&taste=0&supportDLTaste=0&mode=1&s=a5ba19cda2a76fc1414fc952fde76c0a",
         "region": "MEA"
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "8732.2 MB",
-        "md5": "d7bb574b697ce118e5fde00baa1aa15c",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=294d01c3406e560471279d6db544120a&p=f088224e00681389a7bcc6024761d6664f2940c02d33c0eb7913c7d3cb92d7621ae53219fc557bb6470e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c29e207b017bab0960&taste=0&supportDLTaste=0&mode=1&s=6aac97684a4c4fc8fcaf9802e61ea092",
+        "size": "8734.78 MB",
+        "md5": "be38b71de362874ba62ce23c5a80d1f5",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d6e8ca01d921a9c4ad6764b847b9b69f&p=f088224e006f1388a3bc91004a6f8366162f10962931c0eb78499e87c59386651bb06d45f4577cb1470b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f569e207b01827bff2e&taste=0&supportDLTaste=0&mode=1&s=e6e10b3aa7d4131e14a40dd24d40420d",
         "region": "MY"
     },
     {
@@ -5541,22 +5661,22 @@
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "8500.9 MB",
-        "md5": "4aafc1e4d44a04630e244ddf9f9f2963",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=617f2354df00dd839c3c3fa3d2814fcf&p=f088224e00681389a7bc92564b348430417e13902a37c0e1771fc684c590836415e6601fac5728bd175d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c29e207b017bab0961&taste=0&supportDLTaste=0&mode=1&s=cfaad90e50dc344a5f9e83b049cbbb76",
+        "size": "8503.48 MB",
+        "md5": "2cf190b1580f8836689ca33b47253229",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=074d2904243f5e6a1c21db43b720c375&p=f088224e006f1388a3bcc6001265d565162e15c12a63c0e92d18c6d4c992866410eb6149f8577fb6140e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f54007ddc01813d9126&taste=0&supportDLTaste=0&mode=1&s=0f8381f0ab1e722d761ffd4103d1444b",
         "region": "SA"
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "9143.97 MB",
-        "md5": "056a0ce0d055106d6e5967185ad0522b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=26d1727efd942a22a878341072beb73c&p=f088224e00681389a7bc93044a36d260452817c17d67c0e87649c686cdc1813010e5654ffa5c78bc470d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c19e207b017bab095e&taste=0&supportDLTaste=0&mode=1&s=677d1342422113222bc130854344d344",
+        "size": "9146.55 MB",
+        "md5": "dcd383969dd2d7a37cfdac08512f022b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3bd307b72d717dba21598312ab482e41&p=f088224e006f1388a3bc900312658432417b139c2834c0bc7e1ac7879e938b621bb3654ef4502ab3420a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f559e207b01827bff25&taste=0&supportDLTaste=0&mode=1&s=1e16e33274e329f4b1356576cf7ef345",
         "region": "SG"
     },
     {
@@ -5571,12 +5691,12 @@
     },
     {
         "model": "OPPO Reno15",
-        "version": "CPH2825_16.0.5.701(EX01)",
+        "version": "CPH2825_16.0.5.702(EX01)",
         "codename": "CPH2825",
         "rom_type": "OTA",
-        "size": "8569.82 MB",
-        "md5": "85a8ab94736bf74fafe4a99832602d49",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3e19e9872aa395515dc08d73085b82db&p=f088224e00681389a7bc94061661df63422944c62c32c0eb2e4cc680ca91836047b4374efd5629e1175a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69b2e9c2007ddc017e040c2d&taste=0&supportDLTaste=0&mode=1&s=3f578a93bd3e67c8dcc42676b9d1e951",
+        "size": "8572.41 MB",
+        "md5": "c42dbea779757d3949d1b86ab078f6ef",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2d7694504887d12bd67635025c40d0ab&p=f088224e006f1388a3bcc105176f8460167844c02665c0e12d499e82cbc4873543eb371eff537db74102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d9130&taste=0&supportDLTaste=0&mode=1&s=92a905acf3659fb839c87fd1a7ede8c0",
         "region": "TW"
     },
     {
@@ -5591,81 +5711,81 @@
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7046.03 MB",
-        "md5": "1528a4698f538d27ff50ecb4cf9c84e1",
+        "md5": "c40cf0c67183b4bf211dbb0fb007d7eb",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ab2b93c1e6285ae149dddd5109e799ff&p=f088224e00681388adbcc1531066d564407e10c77b30c0ea7f1c9d83ce91d26514e46d4cf85d28b2440a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c689a9007ddc017e042644&taste=0&supportDLTaste=0&mode=1&s=13de50a597b7b8949e58f250bb8ea906",
         "region": "ID"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7242.26 MB",
-        "md5": "63acecb04947fbcf0ab017bc7e7a806b",
+        "md5": "697c7b14a5766b997c2950f9228c375c",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=645675ecaecc552bf2242f31df8b064e&p=f088224e00681388adbc9500103180614f7912972b64c0bb781d9e85c596d03311e66c1ff85c28e54103452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c689a59e207b017bab2365&taste=0&supportDLTaste=0&mode=1&s=8b57847d8320dded3edbc923da363df2",
         "region": "MY"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
-        "size": "7011.69 MB",
-        "md5": "f95c56e31685306f1ae206035466b248",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7d20b5812f5469711aa2f7bd25d69747&p=f088224e00681388adbc920d416085654e75179d7c34c0ea2c189d869b95d16513e63619f85226b6405d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aeb443007ddc017e040498&taste=0&supportDLTaste=0&mode=1&s=85ccdd222857cf7f33e2ef508bcce2ed",
+        "size": "7007.51 MB",
+        "md5": "3a227b31f6493cbdce2371bc47927977",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6225c51a7002f90961da08bc0aef20eb&p=f088224e006f1389a5bcc6574767d4604f7e439d2736c0bf7b4b9d83c8978a361be46144f8527cbc4c58452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d9b1ea9e207b01827c0840&taste=0&supportDLTaste=0&mode=1&s=bdc35bc5a21e144fb821f90cada61bfc",
         "region": "OCA"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7010.96 MB",
-        "md5": "228573cb1d6ef7c2fc556cfb5e955dd5",
+        "md5": "7876c8f96e81a2d88e009937ca1d1f3e",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5bbeda133680cde7feef26e504878f91&p=f088224e00681388adbcc20311658530412815922b65c0ee2e48c688cc92d0651ae06c4dac5d2abd130e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c689a89e207b017bab2366&taste=0&supportDLTaste=0&mode=1&s=4b5b35102023c8765d7f843ca0582aba",
         "region": "PH"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7010.96 MB",
-        "md5": "ab0051747d1d5af7c23f2dc85fd49b5a",
+        "md5": "cfdc903740419e4e64e0e88a4d689acd",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e0a399e99736bebbf16de258a90438b1&p=f088224e00681388adbcc6511235d661477915962f35c0e07c4c9dd1cb92d03543b7354ff8577be51708452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c689a6007ddc017e042642&taste=0&supportDLTaste=0&mode=1&s=ec0b9c0c466ff7f78f107a07c1b0356c",
         "region": "SA"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7654.03 MB",
-        "md5": "cb22ec212d9e4a981099226f771c0dd0",
+        "md5": "22ae6a8e6c4a5083f8cce29260799dbb",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d4f29de966226e7c6181aed4c42f8975&p=f088224e00681388adbc90511036d365147910952a33c0ed2e4b9d89c895846415b7324da8057bb41702452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aeb4439e207b017bab0192&taste=0&supportDLTaste=0&mode=1&s=7a664ce7b81547e33c3c2ba7ee1a107a",
         "region": "SG"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7010.96 MB",
-        "md5": "dd77b17393149bc0faa3c9142377c406",
+        "md5": "9a7ae12f7c93e635cc2bc5c608748270",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d48321e72fff0c72a33886d5c01fe6e3&p=f088224e00681388adbc970d1261d4614e7843932c62c0e07d129dd5c89ed6321ae16644fa5d7fb5425a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c689aa007ddc017e042645&taste=0&supportDLTaste=0&mode=1&s=336782558b13cc76749a319f134230c0",
         "region": "TH"
     },
     {
         "model": "OPPO Reno15 F",
-        "version": "CPH2801_16.0.5.701(EX01)",
+        "version": "CPH2801_16.0.5.703(EX01)",
         "codename": "CPH2801",
         "rom_type": "OTA",
         "size": "7079.88 MB",
-        "md5": "8a4b3309c08c3f9308d17f4e2caa6db0",
+        "md5": "4569e4a4253c4fa6239c502810c7cd7c",
         "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dd62c62049f7040f7b691924fc46b209&p=f088224e00681388adbc930317658269477442957b32c0bb7d1bc780cd92836411eb6649ab5d2ab14008452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aeb444007ddc017e04049c&taste=0&supportDLTaste=0&mode=1&s=891a47057c449c6f3502a43a27b301ba",
         "region": "TW"
     },
@@ -5791,12 +5911,12 @@
     },
     {
         "model": "OPPO Reno15 Pro Max",
-        "version": "CPH2811_16.0.5.702(EX01)",
+        "version": "CPH2811_16.0.5.703(EX01)",
         "codename": "CPH2811",
         "rom_type": "OTA",
-        "size": "8356.79 MB",
-        "md5": "918f88bc1b5710783294ace7bf01da8b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=49bc12c2258224dde0722012772540ec&p=f088224e0068138aa0bcc206436684301128199c2d32c0e0784e9e87c89fd23447b1314aa9067abc1602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c2169a9e207b017bab1c78&taste=0&supportDLTaste=0&mode=1&s=b0247be1e1428fedfbd8e61181feb513",
+        "size": "8356.85 MB",
+        "md5": "854c1bcd2c0f88fdd4c59cf3f8bd0958",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c38dee5b048d1e80f18127fdeb111d4b&p=f088224e006f1388a0bc9a0217318063117c40902b65c0b87713c7d69b91d0631aea664af5072cbc4c5d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d07f4e9e207b01827bfe92&taste=0&supportDLTaste=0&mode=1&s=5f878fa704bd31d96ce1045a69c4a447",
         "region": "TW"
     },
     {
@@ -5941,12 +6061,12 @@
     },
     {
         "model": "OPPO Reno8",
-        "version": "CPH2359_14.0.0.2900(EX01)",
+        "version": "CPH2359_14.0.0.2901(EX01)",
         "codename": "CPH2359",
         "rom_type": "OTA",
-        "size": "425.54 MB",
-        "md5": "591ef335b1036d372b84bf597d9282fb",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-72e0686112037375ee09077a1a97e4a1/component-ota/26/03/02/10d9dc003d6b415c8e503bcd7a6f9ca0.zip",
+        "size": "2.94 MB",
+        "md5": "676886c2cfc499e28a219bb4af8e7a30",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cb2a1f52624cb215fbfd3c7e7b1ccdd6/component-ota/26/04/13/3bf30d5c9b034df58a3cf7348ee90bb3.zip",
         "region": "IN"
     },
     {
@@ -6091,12 +6211,12 @@
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1442.14 MB",
-        "md5": "3a9481f3a7c4c9943f3412ef3e9d70aa",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d576dc2a725326f0c06d1a763250c58c/component-ota/26/01/12/0519df0a2f7d42f1ad4ad22a33ec65e3.zip",
+        "size": "705.58 MB",
+        "md5": "c8d69690a521a1468f35152b9ca32d61",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f046b09c02c696eea5c46d6d89c37a28/component-ota/26/03/25/0c12070c43734a4fa604dd8165c6b04f.zip",
         "region": "APC"
     },
     {
@@ -6124,9 +6244,19 @@
         "version": "CPH2505_15.0.0.1600(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1442.14 MB",
-        "md5": "1c14ebd5d04c094038ff8fa44330ef6f",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3cbcb32ffda8f64095c48c983e2e71a2/component-ota/26/01/12/f2df22d9beec4a3e9f2dd9b9500edb6f.zip",
+        "size": "6252.11 MB",
+        "md5": "7d52e1b194f2e5fa8dc85ceb1ee17dad",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e4493c32f19e2f19fde43ccdf51a410d/component-ota/26/01/12/570e20a2939344f8b5e5c62bec6974c6.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "OPPO Reno8 T",
+        "version": "CPH2505_15.0.0.1800(EX01)",
+        "codename": "CPH2505",
+        "rom_type": "OTA",
+        "size": "705.58 MB",
+        "md5": "163ede0afec630349af145ad69b893cd",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-7cff3efdee8a40029b611ca593e3dee9/component-ota/26/03/25/6d171c1b61dd4a638dd98968a5c92aaa.zip",
         "region": "MEA"
     },
     {
@@ -6141,12 +6271,12 @@
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1454.76 MB",
-        "md5": "8403f9148c2e2db1c8103bfe0d0c7c98",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8c258aca7d233fb2240c1108413c7511/component-ota/26/01/12/1a95246b82ef4429a45627bcf4835eb6.zip",
+        "size": "705.58 MB",
+        "md5": "254abc9a8e674b6e1a8b5798e5d44056",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-01cb4d66492be98ef21d5faf8070f88a/component-ota/26/03/25/9dbdbb25326248738cc60f8cb512e9f4.zip",
         "region": "PH"
     },
     {
@@ -6161,52 +6291,52 @@
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1442.15 MB",
-        "md5": "390320f2dfd28d7888bf533181fecdd5",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4888461a107e66c05f53653be7ce616b/component-ota/26/01/12/057a17b0dc094495902f9f717156df16.zip",
+        "size": "705.58 MB",
+        "md5": "783db3754b88575fc4efb8268970d6e6",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a3fef295ea05a86b3c82f0913d54c4f8/component-ota/26/03/25/eeca717b77cf41788519b009eeeb9042.zip",
         "region": "SA"
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1442.39 MB",
-        "md5": "5079dd635288b782417078c9c502d265",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b465f1fd63a01ba51458304593fd1190/component-ota/26/01/12/f4fb461df9184d789cd2ef626026a7cb.zip",
+        "size": "705.82 MB",
+        "md5": "4315e3afa10690492b6bcbc6c772e179",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4484b775ba4f934783610055c3300896/component-ota/26/03/25/e59dae78cd6e452cb0b55126b2c3cf1a.zip",
         "region": "SG"
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1425.62 MB",
-        "md5": "e47aa6bda4b762d1898d45981c5998dd",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b2f0a3409376c4378845cf26dc635d44/component-ota/26/01/12/aab44e25e46a4005ae30d662a150ffc9.zip",
+        "size": "705.56 MB",
+        "md5": "ff6937dde262327e2aa7ec281fdc7257",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0b1d951ee83208088c3800c21911ddee/component-ota/26/03/25/9a10465d14ff436c928a2eb3fcdae6a8.zip",
         "region": "TH"
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1442.15 MB",
-        "md5": "ba64560dab3f9cd75053ed50b5ba42e4",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c6334e81b49cca159929d4496c539888/component-ota/26/01/12/c3bbf17261124db7824ff560136aa0b6.zip",
+        "size": "705.59 MB",
+        "md5": "607e62fcb0fc05f840ee9be9483e4584",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ece1db52a59ab8fa693ccc479e259ae2/component-ota/26/03/25/af45748c38ae4f2fb808cf794f366629.zip",
         "region": "TW"
     },
     {
         "model": "OPPO Reno8 T",
-        "version": "CPH2505_15.0.0.1600(EX01)",
+        "version": "CPH2505_15.0.0.1800(EX01)",
         "codename": "CPH2505",
         "rom_type": "OTA",
-        "size": "1454.76 MB",
-        "md5": "bf8061fe5bc0a0e82e4986ace8527770",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4476f0a99bfc93615d59e3257c6be4b2/component-ota/26/01/12/8252370ccb1c46ed8a72bb416e9a8404.zip",
+        "size": "705.58 MB",
+        "md5": "aa925211c3386ec3176d7245a77a6985",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-bd1f4e643b8b8e305b07512a0df44876/component-ota/26/03/25/dfb5c71bfcbe4f42b97cb35e989f5bb4.zip",
         "region": "VN"
     },
     {
@@ -6231,12 +6361,12 @@
     },
     {
         "model": "OPPO Reno8 T 4G",
-        "version": "CPH248122282_15.0.0.1600(EX01)",
+        "version": "CPH248122282_15.0.0.1800(EX01)",
         "codename": "CPH248122282",
         "rom_type": "OTA",
-        "size": "1566.26 MB",
-        "md5": "8277fd723ea9b09a859c704e44ded427",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1d9301ecbb868ba0398dadb621c63e31/component-ota/26/01/06/f8593a90b4cf4afd95bc1c98ff9052f3.zip",
+        "size": "722.2 MB",
+        "md5": "31a901b11383e15e71caa78a827c8ee4",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-49ad251adb13c1acfc46ca4fa50241a0/component-ota/26/04/13/a151a35c01f849a487958cc2411ef5c6.zip",
         "region": "ID"
     },
     {
@@ -6361,12 +6491,12 @@
     },
     {
         "model": "OnePlus 10T",
-        "version": "CPH2413_15.0.0.1603(EX01)",
+        "version": "CPH2413_15.0.0.1800(EX01)",
         "codename": "CPH2413",
         "rom_type": "OTA",
-        "size": "176.04 MB",
-        "md5": "c2e05320e34081e6217c53312498b600",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-161310d32324f7dde77ec311880287b9/component-ota/26/01/29/0a7fe59dca264bfcad8b5eead3ba67c5.zip",
+        "size": "610.69 MB",
+        "md5": "5455e1fd4aee86784a08f9b694903dff",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-72fe1d1f6ea256c2bda94f0afbb70350/component-ota/26/04/14/e5328f2e35e44e25931faac2512e452e.zip",
         "region": "IN"
     },
     {
@@ -6401,11 +6531,11 @@
     },
     {
         "model": "OnePlus 12R",
-        "version": "CPH2609_16.0.3.500(EX01)",
+        "version": "CPH2609_16.0.5.701(EX01)",
         "codename": "CPH2609",
         "rom_type": "OTA",
         "size": "5740.68 MB",
-        "md5": "2dc76796d081cb121c5ef20768354181",
+        "md5": "08902afc49831a901bfafc64a996b7ef",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-96984767ec57fe86a9b6739651801f66/component-ota/24/09/20/2297b895e92144ee87b7cf55126d56c4.zip",
         "region": "GLO"
     },
@@ -6471,12 +6601,12 @@
     },
     {
         "model": "OnePlus 15",
-        "version": "CPH2747_16.0.5.700(EX01)",
+        "version": "CPH2747_16.0.5.703(EX01)",
         "codename": "CPH2747",
         "rom_type": "OTA",
-        "size": "8584.02 MB",
-        "md5": "9125f4e764f3c0f5442bf8ebb26d5c1d",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=efb50d28fb5dbc5db4de17c3faa6afff&p=f088224e006a138aacbcc5074566d6304f7e44952832c0ec2c48c7889e92826544b1621dab502ae14658452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69797d61007ddc017e03d2c1&taste=0&supportDLTaste=0&mode=1&s=e844490b489c32bd3c5bb065967d95b1",
+        "size": "8647.94 MB",
+        "md5": "8f4705a5a6d88c01911ee7f6a0d6883a",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3a6d1325b70a7bcff58d4ba76fe90a31&p=f088224e006f1389a7bc955647348068127f15c72f35c0b87c129d89cec1873647e76c18fc547bb4400f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69dcea47007ddc01813d9da3&taste=0&supportDLTaste=0&mode=1&s=3c9957aced7f48157591db0822377790",
         "region": "GLO"
     },
     {
@@ -6941,12 +7071,12 @@
     },
     {
         "model": "OnePlus Nord 2T",
-        "version": "CPH2401_14.0.0.2900(EX01)",
+        "version": "CPH2401_14.0.0.2901(EX01)",
         "codename": "CPH2401",
         "rom_type": "OTA",
-        "size": "264.48 MB",
-        "md5": "c67768f18495e18c9697bcb93613005b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e347eb241ce23af069d1259613f44475/component-ota/26/03/16/69c0b57a3f554e77ba9c55e348ecfb34.zip",
+        "size": "2.86 MB",
+        "md5": "21227036541c101da5d240059432dc78",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-76f8daeac7177a63d0b3c7bd31d414a7/component-ota/26/04/13/acd98b81578844be912d415a6d8b8361.zip",
         "region": "IN"
     },
     {
@@ -7191,11 +7321,11 @@
     },
     {
         "model": "OnePlus Nord CE5",
-        "version": "CPH2719_16.0.3.500(EX01)",
+        "version": "CPH2719_16.0.5.700(EX01)",
         "codename": "CPH2719",
         "rom_type": "OTA",
         "size": "6741.98 MB",
-        "md5": "e446623e3130731db1d7c79a1522d47c",
+        "md5": "6ec618ae0b22a755da4ead95f0f520c5",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-30dc32b2f1c352fc364fe8d270e4edaa/component-ota/25/10/10/4b2fc2e631bf4532bd27280caeb22da2.zip",
         "region": "GLO"
     },
@@ -7451,12 +7581,12 @@
     },
     {
         "model": "OnePlus Pad Go 2 5G",
-        "version": "OPD2505_16.0.2.412(EX01)",
+        "version": "OPD2505_16.0.5.701(EX01)",
         "codename": "OPD2505",
         "rom_type": "OTA",
-        "size": "6217.12 MB",
-        "md5": "c4c652735db8b23a203f76db988ca7d7",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=e7455d8e30d0d0d45e4a3cef6647d6d0&p=a50845bd674e8546c360414f6d4970d17bdc4aac174344625422debff490d5d25f58a2c7c6c7d1afb05b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=6989cad79e207b017baae5c6&taste=0&supportDLTaste=0&mode=1&s=3d36e2117522a7d86b2e0568cacac0c6",
+        "size": "6291.82 MB",
+        "md5": "d341aa9df43071fe707267a73fe58df9",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3bc25245591c4ca10c5de60d40b6e66e&p=a50845bd674c8545cc604345651d728478df10f511424430577085b8a1c3da835c0bf3c696c785abb55d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e8826e9e207b01827c1b6c&taste=0&supportDLTaste=0&mode=1&s=a85432a860cd4c1c62b9dd44f4ac9ec9",
         "region": "IN"
     },
     {
@@ -7471,12 +7601,12 @@
     },
     {
         "model": "OnePlus Pad Go 2 WiFi",
-        "version": "OPD2504_16.0.2.412(EX01)",
+        "version": "OPD2504_16.0.5.701(EX01)",
         "codename": "OPD2504",
         "rom_type": "OTA",
-        "size": "6126.37 MB",
-        "md5": "1edfe0cf65076b72dfc4808e3e54d8c6",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=12a87527f1b33c21a5367a6302fc7247&p=a50845bd674e8546c3604442684c72d17fdc4cfb45474464517b84eff098d4875859f0c6979d89fbec5b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=6989cad89e207b017baae5c7&taste=0&supportDLTaste=0&mode=1&s=e3f2f5265ee3e127e1d27eea95ba06eb",
+        "size": "6200.56 MB",
+        "md5": "a8a2ed95c00038574a3dd8e295c65861",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=47ba026fb59889a00cbfc5efecb179f8&p=a50845bd674c8545cc6044406c4f7cd97bd11ff94c1744600576deb8a5c1dad70d0dfe94c7cbd1f6e60f4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e8826f007ddc01813dad30&taste=0&supportDLTaste=0&mode=1&s=821ee4938573b6ca4e397abf3bfb4225",
         "region": "IN"
     },
     {
