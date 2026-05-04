@@ -1,16 +1,6 @@
 [
     {
         "model": "OPPO A17",
-        "version": "CPH2477_11_A.54",
-        "codename": "CPH2477",
-        "rom_type": "OTA",
-        "size": "2963.0 MB",
-        "md5": "e73458ee77ce94d0efd42708100bd7a9",
-        "url": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-6d30f9f3f87205221c203b760c42cbb7/component-ota/25/03/24/a1a768f01ca349efb9ff7978fa956853.zip",
-        "region": "EU"
-    },
-    {
-        "model": "OPPO A17",
         "version": "CPH2477_11_A.57",
         "codename": "CPH2477",
         "rom_type": "OTA",
@@ -1981,6 +1971,16 @@
     },
     {
         "model": "OPPO A79",
+        "version": "CPH2553_15.0.0.1800(EX01)",
+        "codename": "CPH2553",
+        "rom_type": "OTA",
+        "size": "647.69 MB",
+        "md5": "ba3569088a9fea5a71bb8f77364db225",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-14791a5bdf2ff62bf130d7155b20b022/component-ota/26/03/12/5e15e13735784480853d4a09b131f92e.zip",
+        "region": "IN"
+    },
+    {
+        "model": "OPPO A79",
         "version": "CPH2557_14.0.0.2710(EX01)",
         "codename": "CPH2557",
         "rom_type": "OTA",
@@ -3310,6 +3310,66 @@
         "region": "VN"
     },
     {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "9432.18 MB",
+        "md5": "3381486bf7481acb06a91478007d4d0c",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=674baf93274d4c296b2498bba6e4ca97&p=f088224e006f138aa3bc920415318569467844c72c60c0eb794b9ed3c594836740eb351aab012db21102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b4&taste=0&supportDLTaste=0&mode=1&s=0ecdd62a49ecb63fb405e121fe775577",
+        "region": "ID"
+    },
+    {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "9402.12 MB",
+        "md5": "09cc87f40261fe8066654f06e2bccc7a",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=fea2364feeaf52fa97f2ba4d2840c30a&p=a50845bd674b8546c3604341381e22d5788c4cfe44174437067bdebea295d4d50e5ba4c1c09dd6feb5074b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f6c8a3007ddc01813db67e&taste=0&supportDLTaste=0&mode=1&s=2dd6e961965a7b578697542710978c7a",
+        "region": "IN"
+    },
+    {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "9505.1 MB",
+        "md5": "4d78bb996e5d3f4cb999fa2f18a7fdf4",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=15330857a2ac7550e89632e623c76a6b&p=f088224e006f138aa3bc9b06406e8363447810917a31c0ef7a4b9e86ce9e82331ab66219a80078b5455e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b5&taste=0&supportDLTaste=0&mode=1&s=c64908702251edce94838be0cfda3ddb",
+        "region": "MY"
+    },
+    {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "10040.09 MB",
+        "md5": "4fa0777daf838d2fd01787d5d03f3cf3",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d376b8a6b890b0590df4ecac37dfb017&p=f088224e006f138aa3bc97564564d663442812972d63c0bf7818c78599c3d73747ea661daf5329b41402452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa007ddc01813db372&taste=0&supportDLTaste=0&mode=1&s=700d40771ccbe9fe25e4135f1d3cb296",
+        "region": "SG"
+    },
+    {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "9397.11 MB",
+        "md5": "fda2a2ee63e1704a350bd01c73a33257",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c6d96169ecf9ddee8f5a0e7d10acd5da&p=f088224e006f138aa3bc9507456ed337437a10912d33c0b87a129ed1cac381351bea614da95c7db2455d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b8&taste=0&supportDLTaste=0&mode=1&s=f4a2fd1b9346f2e89ae01955b7ca35aa",
+        "region": "TH"
+    },
+    {
+        "model": "OPPO Find X9 Ultra",
+        "version": "CPH2841_16.0.7.204(EX01)",
+        "codename": "CPH2841",
+        "rom_type": "OTA",
+        "size": "9397.11 MB",
+        "md5": "0b8a590c0e2d0bbcf735d0fa9026aa23",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=bb6e9ae5733b43a666713f4366724941&p=f088224e006f138aa3bcc656466082344f2e449c7b31c0e17d1dc781ce94836517b0321df4557de1410f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87ab9e207b01827c21bb&taste=0&supportDLTaste=0&mode=1&s=639519c06371bd6aa461a89adca7919e",
+        "region": "VN"
+    },
+    {
         "model": "OPPO K10",
         "version": "CPH2337_14.0.0.2900(EX01)",
         "codename": "CPH2337",
@@ -4551,16 +4611,6 @@
     },
     {
         "model": "OPPO Reno12",
-        "version": "CPH2625_15.0.0.890(EX01)",
-        "codename": "CPH2625",
-        "rom_type": "OTA",
-        "size": "55.75 MB",
-        "md5": "b5fc63414f7e70366bc59c3a10377d9a",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e24f71ca1a0de91a2f8c51a543257eeb/component-ota/25/10/31/9d1ed4c4e83e4414870e42fecf22d664.zip",
-        "region": "OCA"
-    },
-    {
-        "model": "OPPO Reno12",
         "version": "CPH2625_16.0.5.700(EX01)",
         "codename": "CPH2625",
         "rom_type": "OTA",
@@ -5388,16 +5438,6 @@
         "md5": "474f1959fafa72e339507accab8bdb25",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-5b25ecb2a045f87bb68d8ad9f8a86b70/component-ota/25/10/07/b6a1f86705974cb28ddfbba5ce1c57d1.zip",
         "region": "TH"
-    },
-    {
-        "model": "OPPO Reno14",
-        "version": "CPH2737_16.0.5.700(EX01)",
-        "codename": "CPH2737",
-        "rom_type": "OTA",
-        "size": "7848.44 MB",
-        "md5": "5360c9b6f413175ce676241b443e0d12",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0d344925f6020b09d5d7aa2ba332da83/component-ota/25/10/07/429dba4b61994d9a92c606f732d2467e.zip",
-        "region": "TW"
     },
     {
         "model": "OPPO Reno14",
@@ -6551,6 +6591,16 @@
     },
     {
         "model": "OnePlus 13R",
+        "version": "CPH2645_16.0.5.701(EX01)",
+        "codename": "CPH2645",
+        "rom_type": "OTA",
+        "size": "6491.63 MB",
+        "md5": "7eca7e85944d16c7d6244fbdc4874432",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-abeb30e7d0e0c5bc1bb60018d467c8aa/component-ota/25/05/09/7b73ad2a06034d6fa3fb6ae7c3f78d2a.zip",
+        "region": "GLO"
+    },
+    {
+        "model": "OnePlus 13R",
         "version": "CPH2691_16.0.5.701(EX01)",
         "codename": "CPH2691",
         "rom_type": "OTA",
@@ -6887,6 +6937,36 @@
         "size": "88.72 MB",
         "md5": "69dc34105a36e1807ccf64346dd41f91",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-960b1752abf78e8a154e4f1effeed21f/component-ota/25/10/04/385bf13992914a48ac2c71b7ea0105bc.zip",
+        "region": "EU"
+    },
+    {
+        "model": "OnePlus 8T",
+        "version": "KB2001_14.0.0.1311(EX01)",
+        "codename": "KB2001",
+        "rom_type": "OTA",
+        "size": "89.07 MB",
+        "md5": "ad4669b4642f133c5c73eebf9f85bb81",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a58c022716d8010c4e1ca4e7ffeebbc4/component-ota/25/10/04/d89f403dabc24cf18284232776e1a3f6.zip",
+        "region": "IN"
+    },
+    {
+        "model": "OnePlus 8T",
+        "version": "KB2005_11_H.26",
+        "codename": "KB2005",
+        "rom_type": "OTA",
+        "size": "1316.0 MB",
+        "md5": "87d85da1c6f67561034d2f712350a774",
+        "url": "https://android.googleapis.com/packages/ota-api/package/317e5844aed2a7354f33e6a601f5b72f3746956d.zip",
+        "region": "NA"
+    },
+    {
+        "model": "OnePlus 9",
+        "version": "LE2113_14.0.0.1902(EX01)",
+        "codename": "LE2113",
+        "rom_type": "OTA",
+        "size": "10.54 MB",
+        "md5": "3cd5258a453391d7642e79415d819c4e",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b3feeb09857cc38f83525a70b83cb55d/component-ota/25/11/03/a4656b1f93ae4964abfebec9c1b945a1.zip",
         "region": "EU"
     },
     {
@@ -7634,16 +7714,6 @@
         "version": "RMX3630_14.0.0.2710(EX01)",
         "codename": "RMX3630",
         "rom_type": "OTA",
-        "size": "5687.33 MB",
-        "md5": "748c07a109319b34faef4972e70323a6",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a639056b9d3fba514375316b99a2142d/component-ota/26/01/05/5541dbade44740529d3def1ad02b72ed.zip",
-        "region": "IN"
-    },
-    {
-        "model": "realme 10 4G",
-        "version": "RMX3630_14.0.0.2710(EX01)",
-        "codename": "RMX3630",
-        "rom_type": "OTA",
         "size": "5372.14 MB",
         "md5": "d5cc52e2e68aea18ef62219e94747133",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c4c8068eb66d5fbe5352c615904511c1/component-ota/26/01/05/7c39760c00f345029fc4c475d3c6cfc9.zip",
@@ -8038,16 +8108,6 @@
         "md5": "bae8877c69a244deef77318c914650b7",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-5e76020ded21a246fa2e9ebf5527bccd/component-ota/26/03/24/837bf44dac004084b9c0074b77ab33aa.zip",
         "region": "MEA"
-    },
-    {
-        "model": "realme 11 4G",
-        "version": "RMX3636_15.0.0.1631(EX01)",
-        "codename": "RMX3636",
-        "rom_type": "OTA",
-        "size": "6487.55 MB",
-        "md5": "1b0a41c87adfe5f9b9a0388074e15553",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-262247274fdbea61a75403daa7daee5b/component-ota/26/03/24/ede801542d0e47ff933461d04fdcf0e9.zip",
-        "region": "PH"
     },
     {
         "model": "realme 11 4G",
@@ -8550,6 +8610,256 @@
         "region": "VN"
     },
     {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6837.67 MB",
+        "md5": "fd66cc14062bf7ae05b9e42d403ad5e0",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8973f708c9a84528e8e49f0152b1ff6b/component-ota/25/05/22/24597460379b4f6d98ed4a0fcd3ede52.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6901.97 MB",
+        "md5": "f302b5849aec151e73e681eb7506aa7f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6e6c16c87ac4f699c37db726745810ab/component-ota/25/05/22/3890a3ccb74248c0b0d5f81c6313d66f.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6876.42 MB",
+        "md5": "5d305199e2bb77f1833b1f7054350b90",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-73f275a9f1dc2f7c9c0bd1fd38b78ab9/component-ota/25/05/27/7f21d33958224fd8a55f901415cc26de.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6837.67 MB",
+        "md5": "40c453724e6bfac2fba91741db6667c7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4e74fe10e77e3c57810d213a57e72a2a/component-ota/25/05/22/451e65556a1a4af1a91cd46cb6bf6572.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_15.0.0.830(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "7027.4 MB",
+        "md5": "7c431c54c2ff3273b82b39bb0c81b47a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cb007b502f433e591c07788fed8fbd9e/component-ota/25/09/25/aa6590d5bbe047108421fc1e06793fdf.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "7102.2 MB",
+        "md5": "092002e9abe09f5317c8891e1502054c",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d1e60e5275cc9706bb8cc7833b48605d/component-ota/25/05/22/7b1d5712223945e490cccf394e6fd7f4.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6870.77 MB",
+        "md5": "91f92d13501d2853d7a468cae39cb316",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-2421919ef64d645eb7bf698531e02cb6/component-ota/25/05/22/545a02e62fbd4276b8ffaf112b81ad90.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6715.62 MB",
+        "md5": "f5135455ac4acae711e0ef2281529db3",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b3c772110e9879994b4e4622beee5e17/component-ota/25/05/22/67c59f30ed8e4d34ac27f0ae96396d23.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_15.0.0.830(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "7025.03 MB",
+        "md5": "0cebc054fd5c68b026160571bce821fc",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-fccb5c8270e13a70d264f6b6b04df1ef/component-ota/25/09/25/de7d871c517549099ae3282a85b5fb20.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6829.23 MB",
+        "md5": "5baad36b100b58e23471fc63c38e6e3c",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e4faf4084f254e518100b198cd8e643b/component-ota/25/05/22/9c00e873063349239cb857dea9b7d130.zip",
+        "region": "TH"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_15.0.0.780(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6423.99 MB",
+        "md5": "4dc95b4159c310e5b7e6ecfeefccaade",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f0514c8089ea95e0bd58224df7cf31c6/component-ota/25/08/07/e9f20f9b624d44dd80b4b7e1d8cafd65.zip",
+        "region": "TR"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6887.35 MB",
+        "md5": "c221076f25f15630ec53fc9c1008f5d7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-32662bb5c0edf9d95492d4a48d92fec9/component-ota/25/05/22/f64bd07f99b84aea9395254b207e1f0f.zip",
+        "region": "TW"
+    },
+    {
+        "model": "realme 14",
+        "version": "RMX5070_16.0.5.701(EX01)",
+        "codename": "RMX5070",
+        "rom_type": "OTA",
+        "size": "6870.77 MB",
+        "md5": "b8a046eec611f9962e6d8d0bc00f53a7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3af6f75e0391c5775a1f50b0be83d1e3/component-ota/25/05/22/346a98e78d5243d9b8a025d7652a2faf.zip",
+        "region": "VN"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7125.46 MB",
+        "md5": "940b6a5d423222a732625f80790729fb",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6434cc7af219c4855c03fde1c2f04a47/component-ota/25/05/28/885c12ee83f7428ea509cf00f6c3f816.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7173.13 MB",
+        "md5": "351af1eed224ac1de780eed7d0b465d5",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ac64afe2febce64c90c1d84764e492e5/component-ota/25/05/28/1d900b0bc51847c4bf6e218f53df24f0.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7125.46 MB",
+        "md5": "ce669ca688e608fd3f6ae72446cdb473",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1b4ddd910a7d0b174f01ef4b888e688a/component-ota/25/05/28/a9c51feb730b4296aea83c6a7fe879ba.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_15.0.0.1202(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7199.58 MB",
+        "md5": "b86a02b1b1cdc8534c4a21b2c5fb8d4f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e64ddc310c0d9d838331f1ff69906b9a/component-ota/25/11/20/839115262e3f4ac7a3c2b7b8e4a8707f.zip",
+        "region": "LK"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_15.0.0.1034(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7203.21 MB",
+        "md5": "bd30b43ba7e3ea68573a85a097104ed8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4306aa912c2bd5fff1df5224f53508e3/component-ota/25/08/19/6743233d4b71495c8d9ee00aba8264a4.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7390.22 MB",
+        "md5": "5667a92e310b2bfe5ab673a1648c7d26",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1affcec9f08a3928551644385f0aa2ec/component-ota/25/05/28/ca4d56348caf4758949249b8d257a83c.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7158.76 MB",
+        "md5": "871a5404e861a57d65efb111df3ce60a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3e5a780a8ca90f43b4af5a37053a8f6e/component-ota/25/05/28/213e1f9d874d456f8afe1cc096f513dc.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7127.1 MB",
+        "md5": "32c7a950e0af70078aa5c9744099cee8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a173b1e25f27d5f0039c9c29ac92f037/component-ota/25/05/28/bba4dc4d1fee433f857ed808210f1552.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7117.21 MB",
+        "md5": "3ba3156989dbfdc2272c2ed439ff73db",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-582a754be902277d753c9c58726229cb/component-ota/25/05/28/2b17a2ef11b046ffb891ccfd0ddc1757.zip",
+        "region": "TH"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7175.14 MB",
+        "md5": "78c8ba8c453e5e915381503a1f523b0f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-7901aad33155a69956f1a7f25665716a/component-ota/25/05/28/0bb8044144c3490da39a681b0e1e30d6.zip",
+        "region": "TW"
+    },
+    {
+        "model": "realme 14 Pro",
+        "version": "RMX5056_16.0.5.710(EX01)",
+        "codename": "RMX5056",
+        "rom_type": "OTA",
+        "size": "7158.76 MB",
+        "md5": "29ad4164e9a1bfe93ca890027db2167c",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1088517a85f2e0fc1b272c081c768ca2/component-ota/25/05/28/eb1c712abf5f4a39a0a75930d8489d8c.zip",
+        "region": "VN"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.640(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7346.76 MB",
+        "md5": "0425e365ac018b5a4f7e1afff908884d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4fadf670dd8a017495ad69a97cd1e716/component-ota/25/02/10/98c48d70b5b94e529ea23833c8862b43.zip",
+        "region": "APC"
+    },
+    {
         "model": "realme 14 Pro+",
         "version": "RMX5051_15.0.0.910(EX01)",
         "codename": "RMX5051",
@@ -8558,6 +8868,36 @@
         "md5": "ca82a8d4248105f27720580ba7a427eb",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-ee237b3bcd82dafd36d5a5d1649daa8f/component-ota/25/04/29/7042339928474c9d96ebc5ceae42a761.zip",
         "region": "BR"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7314.49 MB",
+        "md5": "4c683b7b4ce6cef4046a12dd34914103",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-63021853d9ea99bc7fcfd4b20f89795d/component-ota/25/04/29/6e7a58630a4d4f34a806fb45f0e6cbdc.zip",
+        "region": "EG"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "6810.55 MB",
+        "md5": "c2538f326779cc1196c1cf9553764e54",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3d0e5bc7c9612715416b9fb83f197bcb/component-ota/25/04/28/130fcb0a1a9848dfb230418264d5f3d3.zip",
+        "region": "EU"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.640(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "6804.0 MB",
+        "md5": "52cfa1847ea8be8d1c06c8756b6e9466",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4382953175abe331b470a5af7b551b8f/component-ota/25/02/10/bec7bea1f12a498b98c58fcfea5e9f8d.zip",
+        "region": "GLO"
     },
     {
         "model": "realme 14 Pro+",
@@ -8585,9 +8925,49 @@
         "codename": "RMX5051",
         "rom_type": "OTA",
         "size": "7312.85 MB",
+        "md5": "348ca60f5a0587f0f625629efc0ec6fb",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1cba0ea9cd0af12d1ac50bfa758cfb99/component-ota/25/04/29/e14578e8afdd42a49f29879fbee218c9.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7312.85 MB",
+        "md5": "08ed15a2f4cb21c0b08e696c624c7d32",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b5171bc9c4b071c97d7080d8a1ff8660/component-ota/25/04/29/f5c982f2d6cf4fd2a3141c2c2ca19d2f.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7312.85 MB",
         "md5": "26062d39deb92b2b838b625165930057",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-4f33739f9fe883b9216f61a6a2fa38c6/component-ota/25/04/29/1ed3eb8699d744e9929931cd325b4670.zip",
         "region": "LK"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7316.87 MB",
+        "md5": "2a0378388467191b0b8618d3deb63296",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f648c61c218e789927b465a77aeb164d/component-ota/25/04/29/da9276a0fbaa4be6ad04cf51c2e18d53.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 14 Pro+",
+        "version": "RMX5051_15.0.0.910(EX01)",
+        "codename": "RMX5051",
+        "rom_type": "OTA",
+        "size": "7312.85 MB",
+        "md5": "dc275aad18b9bb2e34c7734db37642d2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-16f2a43996eb578455cd8be5d1bf0246/component-ota/25/04/29/556dbe8cd8ae4ba0a303f7614d943e7d.zip",
+        "region": "MX"
     },
     {
         "model": "realme 14 Pro+",
@@ -8608,16 +8988,6 @@
         "md5": "32d72dbab6408eb4d97e92ccc86f64b5",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-099760df570e39362e5ab1f8a958617a/component-ota/25/04/29/e532f4134f9a4ef4b5e50dc4a1d6fc19.zip",
         "region": "PH"
-    },
-    {
-        "model": "realme 14 Pro+",
-        "version": "RMX5051_15.0.0.640(EX01)",
-        "codename": "RMX5051",
-        "rom_type": "OTA",
-        "size": "6804.0 MB",
-        "md5": "52cfa1847ea8be8d1c06c8756b6e9466",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4382953175abe331b470a5af7b551b8f/component-ota/25/02/10/bec7bea1f12a498b98c58fcfea5e9f8d.zip",
-        "region": "ROW"
     },
     {
         "model": "realme 14 Pro+",
@@ -8688,6 +9058,636 @@
         "md5": "5cd40f62cd103a48a014383d4fbbd03f",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-d0376a1c22cea0b8b6d37b0d83416acd/component-ota/25/02/10/54a8edc61bbb4f408f70e1b681442382.zip",
         "region": "VN"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5810.68 MB",
+        "md5": "4fc90e38b1ef31232974697f46727fc7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cac77d2490bb416468887b398fa68ffc/component-ota/25/05/27/0d04851d53be4f019a4c4a734fe432cb.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5074_15.0.0.824(EX01)",
+        "codename": "RMX5074",
+        "rom_type": "OTA",
+        "size": "5401.53 MB",
+        "md5": "cfd55bfc0dfb9cecffd58a86d489b9a7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-56b2c2a9b151777284d1cd268eeb4a23/component-ota/25/06/23/75a6fdc6bc7e44aa9fa7cf807dc3ed9b.zip",
+        "region": "EU"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5874.99 MB",
+        "md5": "e66a44a88fd6a74d2195a344f91e55f0",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9a370d12637113496fafb405ef95fb4d/component-ota/25/05/27/bf50085da55f49ea8099c2cfadf79f12.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5814.52 MB",
+        "md5": "bd4f2e647c550b98ead2e3ce0e9aa990",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f1e15ab80e5eb8a4ec5d593fd988b82b/component-ota/25/05/27/0b4c8b1fe16a4f7b8ad9080be9e9011d.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5810.68 MB",
+        "md5": "4b19d719cb5c05314e57eb7df32c4455",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6f96654c602845beda682facffb02109/component-ota/25/05/27/034b9bb81fac4a6fbc33a0792541c541.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5814.71 MB",
+        "md5": "da8395f43e79fc77d37f95a3de172161",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-12577c8a8abbb7e37022ee7c056bab9d/component-ota/25/05/27/98f3f260d962454b96128fe983527871.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_15.0.0.1208(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5946.79 MB",
+        "md5": "5f6666b2892ca826ca3a3b176a09320d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cdafc02f19839569e9a79212775dbdcf/component-ota/25/11/12/4fdb86ab0d51499fb82be16f7bef7a7b.zip",
+        "region": "MX"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "6075.21 MB",
+        "md5": "e68b316e57de95278c34d8ca562cdaed",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-84d7e4e4f609043b5f74b206c818d254/component-ota/25/05/27/96b790c942c24a2f9083aa202ad7ff1e.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5843.79 MB",
+        "md5": "ce93460e5961cefe7373e728cd59eb41",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e24c8fccad633d0651e43cc64d60efd5/component-ota/25/05/27/4cc6ab4491324c309a9702ca8aa9dea6.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5633.93 MB",
+        "md5": "268e167048fe68e5911b1f5c67f4980d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ba181d3f3be56928fa53f633cd377eae/component-ota/25/05/27/210a8148b7054d9c9df65838dbfcdb29.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_15.0.0.1208(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5979.41 MB",
+        "md5": "2701a5172c1b648aabc9f538c3fbbe7b",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-51309b7b90a5697d9c1569a1b0627a86/component-ota/25/11/12/55042c9d189e4de4bbe0956c2eb7c435.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5832.53 MB",
+        "md5": "a7a2b15d07f94e92ad7dfb24f8e22df6",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a358b0e4caa6945ba20b5d02db465374/component-ota/25/05/27/c3e3d777e9dd4bfb90ee0de31b162f5b.zip",
+        "region": "TH"
+    },
+    {
+        "model": "realme 14T",
+        "version": "RMX5078_16.0.5.700(EX01)",
+        "codename": "RMX5078",
+        "rom_type": "OTA",
+        "size": "5843.79 MB",
+        "md5": "57c3870f20c13a0504dd7a45d2a86c7b",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-88a1eeafa59ed5bb63f7deb391b0d3af/component-ota/25/05/27/8b6074ee20644f96abc7858bda797105.zip",
+        "region": "VN"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7524.57 MB",
+        "md5": "75fed02ef70bbf4b7b8452606a21ccaf",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b76f5173d07527b7742ae2123f3910f8/component-ota/25/11/20/a6196d24d8f14f2fac444a0603349387.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7574.29 MB",
+        "md5": "678266ff489c102246046b83dabc4a3d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1a006d7a937502a089b797165bebfdb1/component-ota/25/11/20/ada80f652fc94ff0afee7913f7d7dcf9.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7458.48 MB",
+        "md5": "30aa82db496696f40199a8f76b44ea13",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-303f95f531af792f029a035a9252ce43/component-ota/25/11/20/f2905cbf24d8448f9aeca472e917d27e.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7555.56 MB",
+        "md5": "a50b3df3f50c21162af913fd747f1e46",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-279f696709d4791944de358c3f61a91c/component-ota/25/11/20/aaf1d970171545cfb3ee86dbc02364d6.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7559.59 MB",
+        "md5": "220b1f1e7d9346cc76db670ce6fdcffe",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-fb8242dbaa4567c20534778e7b4945d2/component-ota/25/11/20/49efdf4e52db45f3b532d33fe3834a54.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7770.94 MB",
+        "md5": "33ca7c905f9c5dd0b8db73f6f3f1f75d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-660979c1a7240c4fd44c8ec92d19152b/component-ota/25/11/20/80fd2889a2384903897058fe00c7eaa6.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7539.48 MB",
+        "md5": "cfab16f33219a2e43f2afef4166c3999",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1efde2ac3b34df2d58379ad88d41791f/component-ota/25/11/20/23c7fdf831a7402f977403aae52746b4.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7557.21 MB",
+        "md5": "f0cb9011c1a507e63699fdd696f5fcb7",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-811341579a5e8ac2b3ea4eaa6baa42a1/component-ota/25/11/20/0b9f35ebca57403688d5921ff4ebaa91.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7539.48 MB",
+        "md5": "c5630b3179f9ec9f5c187a6cf11a38ff",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-60170d21537fdf7a28946594748e1b04/component-ota/25/11/20/7e92a08efbba43a5a4028e9b9021887c.zip",
+        "region": "TH"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7587.14 MB",
+        "md5": "a6c17af4640d0adaff1cc782ef2f3240",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-98c9608c20277243bb549613e58e8f4f/component-ota/25/11/20/23f7f7a663804b6f9ad8a8cff81213d2.zip",
+        "region": "TW"
+    },
+    {
+        "model": "realme 15",
+        "version": "RMX5106_16.0.5.710(EX01)",
+        "codename": "RMX5106",
+        "rom_type": "OTA",
+        "size": "7539.48 MB",
+        "md5": "e0a489f288f594d7cf6fa95dec822988",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cc048c441c2463dd0fa9addad4a0f328/component-ota/25/11/20/0db3a994808b4230a98e3714c7d4dc0f.zip",
+        "region": "VN"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.5.701(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7501.54 MB",
+        "md5": "c29c8d1a448d32b92863f3549aa727c2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f78cc9f1809798560473f0fa33691d3e/component-ota/25/10/16/bca680d124794de8b9f6fb516b2a4c35.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7578.12 MB",
+        "md5": "2bb0f29c0a6fbdc580365ce599b310b4",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a0ff81a1e3479529348a11f9d701eaa2/component-ota/25/10/22/9a16941ff9304485aea8f1ea278b2540.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7508.33 MB",
+        "md5": "065d1f5f7d3490fcbe0c5ffd969ab6d2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-306d1f26fc3463c731cf396372b6537b/component-ota/25/11/11/fe46834d4317442581277a03039d2ecf.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.5.701(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7501.54 MB",
+        "md5": "b4f87ffc2910d5f812129d9f2ba87a20",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9eb56d815906ee71c8cc0835f99d833e/component-ota/25/10/16/3fbaacf72773416a8a3fba647131d01e.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_15.0.2.442(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7510.05 MB",
+        "md5": "2cc58110e26e3f0282ba677be2fa4602",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-bf4af1e86db7e821e7479f42ffd8651f/component-ota/25/10/22/d5a07f3e03e34f688db26cd9faa0caf9.zip",
+        "region": "LK"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7505.56 MB",
+        "md5": "0e66b6e37585284cac9ab69812cf27b4",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-29096cd71ddfe66ae181745feae969d4/component-ota/25/10/16/6159b55899824e498fcdbf18000c1a14.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7774.84 MB",
+        "md5": "7ea499577b98b4875375d8e6f66e23be",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0559583874fc64d57917ca8e7cd68208/component-ota/25/10/22/fad35fb52b404bd982565a97b3122f6a.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7543.34 MB",
+        "md5": "5b15c4aefff422178bf7b2406a2c3209",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e08f27fc2a435cbd095d2826d0bcdd3e/component-ota/25/10/22/ac06562a71fc41d89b98d672e72cc5c3.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7510.11 MB",
+        "md5": "a73ccf8c9f55af97d4f1cce0c5598b4d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-676db57d41b6a54538896d5f6e9540fc/component-ota/25/11/12/f6845fe14e3b4aa1b5f1e58ca7d23900.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7503.18 MB",
+        "md5": "5f97047d7d8f9e2787eddc664ac260e6",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-343635d5b5a217bf03fbcca8073ed731/component-ota/25/10/16/dc6649bb6a8444ed90738beb8197e259.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.3.500(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7543.34 MB",
+        "md5": "2be9e1c93075391055e839f1009e31ba",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-98074252119cc4866cb7c3352b2a3e2d/component-ota/25/10/22/2316ba756bf4452998e6f701e04fe166.zip",
+        "region": "TH"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.5.701(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7088.58 MB",
+        "md5": "12c25220469863c5cc5ad3611e9a81e5",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-56e8583b660d2511d42aac17725f9880/component-ota/25/10/16/f9e470a73bfa4d1d841a3aa2faa5aca0.zip",
+        "region": "TR"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.0.206(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7559.81 MB",
+        "md5": "2eb02b7c796abd2b4a44e6bcb882c3d9",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c325182c1866a471d45840f3684a9118/component-ota/25/10/22/8679e11cde204d15bf32a86568894364.zip",
+        "region": "TW"
+    },
+    {
+        "model": "realme 15 Pro",
+        "version": "RMX5101_16.0.5.701(EX01)",
+        "codename": "RMX5101",
+        "rom_type": "OTA",
+        "size": "7543.34 MB",
+        "md5": "91869e43e1cf4b85e4e7c5dfc693d6c9",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9614de0570edc26561c791401811f0e7/component-ota/25/10/22/6a7c0fd0e7994b858e89bbb6da955d1d.zip",
+        "region": "VN"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6338.89 MB",
+        "md5": "12a3587f646e219c36184e8fe46c882a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-403c3e9e24c99479e9ac297d545386c0/component-ota/26/03/11/085a52cab6aa4d64a4f9024b59bb4370.zip",
+        "region": "BR"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6341.89 MB",
+        "md5": "e5baf93f72167d6ea909b41cfdae6a49",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a24443d658d2f20e28ba9c804dfe0268/component-ota/26/03/11/e6c6fbdcffa14da3b200e65faab5ea78.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6369.89 MB",
+        "md5": "a5e3588b3f44e4cd690c1e1c2a39e743",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6d073b407098b6a62fe50348dd0a7090/component-ota/26/03/11/598aa8509e8f4416aa3f80ab6bcc0eb7.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6369.89 MB",
+        "md5": "1cebcec42d5f7ad39fb2c8576e99f45a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-330e158d71a0d35d4880dd3aaaf71b1c/component-ota/26/03/11/3d93d8107dd34b8490d2a8a4ef5a30f6.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6373.92 MB",
+        "md5": "2d5de5583c0e7649a9b390fc1aba5c7d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-030b628ba7b27c33ebfb003f0e2a61be/component-ota/26/03/11/7374458a533143779465464808e6aaeb.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 15T",
+        "version": "RMX5111_15.0.2.903(EX01)",
+        "codename": "RMX5111",
+        "rom_type": "OTA",
+        "size": "6371.54 MB",
+        "md5": "6bd3736470dae099e34f5712f1756e28",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-77f667eda11897499918f6557296bef9/component-ota/26/03/11/c7c411f35da5459390b186969c83a833.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme 15x",
+        "version": "RMX5250_15.0.2.883(EX01)",
+        "codename": "RMX5250",
+        "rom_type": "OTA",
+        "size": "6294.13 MB",
+        "md5": "0a0c1eeeb4f28ee1bebe6c21709c0742",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-853c0049ad95119cf7921dfde08ff45b/component-ota/26/03/18/d52066fa436b440bba366314b82eb543.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8295.0 MB",
+        "md5": "50a711ec383d777edfd2c7660ea7a2c8",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ca0f8af7f12b15c64ff8abe2bace40ca&p=f088224e006f1388a3bcc7004336de66457a18c72b35c0ea7e4b9e89999782331be4671aa8012ab24602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c69e207b01827c1505&taste=0&supportDLTaste=0&mode=1&s=da83107c1f7b1afac7019b0c7740a4db",
+        "region": "ID"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8223.24 MB",
+        "md5": "78874f295fbf4cccfc4a35d98f681cba",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3c89a9e09943149699f6a7cc076f3428&p=a50845bd674b8544c36016176d1e27d47edc48fb11464436042284b8a7c38dd65d5ea4c7c3c8d3afec5d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da704&taste=0&supportDLTaste=0&mode=1&s=f144127a030a848b58c046f3c58c51db",
+        "region": "IN"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.706(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8258.29 MB",
+        "md5": "a265764656e7f9bc89e39ec31745567b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=74eec731074321e5834a7704a2be730d&p=f088224e006f1389a3bc96534133d765112847967f62c0bf2d1c9d89c493d06713b6651fa8567db6420d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e965399e207b01827c1cc8&taste=0&supportDLTaste=0&mode=1&s=836d39d03b8e4b038424244f5760425b",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.706(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8262.31 MB",
+        "md5": "7dea2f19ea2bb7b7a59d5ca6793adaad",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=8958576c35bf4ac9bf56cf58c3882d0e&p=f088224e006f1389a3bc97074a608066427b10917b60c0e87a1e9ed6cac3853e12b7601fae5678b51459452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e9653a007ddc01813dae9d&taste=0&supportDLTaste=0&mode=1&s=b9b8b35592261358bbdecc034c73ea81",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8491.22 MB",
+        "md5": "9f1d36cd19ac491155c5ed33cfd99cc1",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=59914914b2fa973cfcbc96ab8cb25d2d&p=f088224e006f1388a3bc96064b64d665447e42902f30c0bb781ac6d4c5c28b6043e6304aab5129b2425a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c4007ddc01813da6fd&taste=0&supportDLTaste=0&mode=1&s=401fc6ee6589946fd007d8b2966515f3",
+        "region": "MY"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8259.92 MB",
+        "md5": "3cc59343cab416b256ee6a437cef37d9",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5d12bbf43dff278ea965720fc665de51&p=f088224e006f1388a3bc9a0c4167d233417d44932634c0ba7a1ec6d59b96d53f41eb6c1eac012fb1410c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c6007ddc01813da6ff&taste=0&supportDLTaste=0&mode=1&s=7d7e00c5dd801ec048607c194d340644",
+        "region": "PH"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8258.28 MB",
+        "md5": "1894a604abded726967bc183b29a933c",
+        "url": "https://component-ota-eu.allawnos.com/downloadCheck?c=ad6d9d22ea3050ac8298d33f2af63122&p=c25c9713dab1a25e859e65f26b69ef1553a18d4fa7db73752d62d2ad54943bd5423faca5308cd36b63aa181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da703&taste=0&supportDLTaste=0&mode=1&s=abc465eeaa1f7fee26b9b008cbdc0768",
+        "region": "RU"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8259.92 MB",
+        "md5": "37d2cfeafee4cec8c5f212e5650f5cac",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=08b272d72fd60573678b492cda1cf830&p=f088224e006f1388a3bcc0541661d465417f45c57a35c0e82d1c9d85c491d13517ea624ef90278b61058452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c9007ddc01813da702&taste=0&supportDLTaste=0&mode=1&s=6e80fbf579b1b44f5675b9d7366e372d",
+        "region": "SA"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8259.92 MB",
+        "md5": "c3a858f8b04b76fb81563bc76a69dc75",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dc9e5397d9f97b561b37107bc84b2d98&p=f088224e006f1388a3bcc60543318232137a43c02a60c0bf7e1dc6d49cc1d1641ae06244fb5c2bb6470d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c89e207b01827c1506&taste=0&supportDLTaste=0&mode=1&s=1e76254a8671eee653b7247825ce8498",
+        "region": "TH"
+    },
+    {
+        "model": "realme 16 Pro",
+        "version": "RMX5120_16.0.5.705(EX01)",
+        "codename": "RMX5120",
+        "rom_type": "OTA",
+        "size": "8259.92 MB",
+        "md5": "950998b1973026edf10809984c5ccb4b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=952e96367fbe6588e7b42284ab930c32&p=f088224e006f1388a3bc90014735d368462810957f60c0bf794fc789cec48b3116e23544fa5628e51603452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c7007ddc01813da700&taste=0&supportDLTaste=0&mode=1&s=62b1f76ad851986c57b666ece410fa88",
+        "region": "VN"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8793.3 MB",
+        "md5": "8fd25335d3252124864c596050f54f6d",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=26481de0c8ae534b9d070579e931af4f&p=f088224e006f1389a1bc9a0d4633d533127e44907a64c0e12d4cc7d2c49ed03615e7654cf5002be74c03452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba9e207b01827c235e&taste=0&supportDLTaste=0&mode=1&s=af46a6df5f7038e05d8b9a46a07015fc",
+        "region": "BR"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8830.02 MB",
+        "md5": "a3a4a45b050fea902fad87a9f509d2e4",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3722137b3723edfafba16401c89cddd4&p=f088224e006f1389a1bc95511564d261117c40967c3fc0ed291bc685cbc2d0371ae56118a9002ee6475a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bd007ddc01813db531&taste=0&supportDLTaste=0&mode=1&s=1cd698a121d77209de46e3d5bb75b51d",
+        "region": "ID"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8637.53 MB",
+        "md5": "c7d90737ad04d4eb0066a0535faf5c85",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=0fae66797b2e1e3d1d941f45973b8fb6&p=a50845bd674b8545c16041106e4b76d3288a1bac44474430042284ecf7948f870f59ffcfca9a81fbe60b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0c09e207b01827c2362&taste=0&supportDLTaste=0&mode=1&s=317972f6ec4da8f8191b4d7775e988d6",
+        "region": "IN"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8793.3 MB",
+        "md5": "10679056b57136cb3b0915ddf94ab707",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=177b7c2383c4b3f7b52f606cdd5b84e8&p=f088224e006f1389a1bc9a061164d569452940c22b3fc0e0791cc681989f876010b16444f95627b5420b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bb007ddc01813db530&taste=0&supportDLTaste=0&mode=1&s=33f19786471df044747ce49ec78e4dec",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8797.32 MB",
+        "md5": "928e73849c3f061cea056d32b2cd5373",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=35a8cb8eb6e1749624400696148627ad&p=f088224e006f1389a1bcc05712608232427e10c52c31c0e8794f9d82cd91843046b63018f90627b2460f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b8007ddc01813db52e&taste=0&supportDLTaste=0&mode=1&s=688fd59bf341fbb00774e4c81fb4ff15",
+        "region": "MEA"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "9026.24 MB",
+        "md5": "72211b2416620995160ef426eb3c28cd",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=17c874ccd354dc395160a2d8a51f2c84&p=f088224e006f1389a1bc91514365d061427819902f30c0e02d129e869e97856315b3324bf4017cb74458452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b99e207b01827c235d&taste=0&supportDLTaste=0&mode=1&s=0c87223d7945b1d189506858e1014148",
+        "region": "MY"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8794.94 MB",
+        "md5": "bab245e2d1a5ae760f2e32aa2626c120",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7235c2925dae819cd22f121ec6c6308d&p=f088224e006f1389a1bc935310628368157d10c77a64c0ea2948c7d3cf9086601ab0634df95c7ab4100b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba007ddc01813db52f&taste=0&supportDLTaste=0&mode=1&s=2b99a0286b74c58817255fc3566a0347",
+        "region": "PH"
+    },
+    {
+        "model": "realme 16 Pro+",
+        "version": "RMX5131_16.0.5.706(EX01)",
+        "codename": "RMX5131",
+        "rom_type": "OTA",
+        "size": "8794.94 MB",
+        "md5": "9a1180e53a4ae420569bb92b3350b0b9",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d3dd812f1edb56761dabada9f3d61aea&p=f088224e006f1389a1bc9b544131d333117918957d34c0b87b4cc7859fc6853613b0354bf90027e7400a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b79e207b01827c235c&taste=0&supportDLTaste=0&mode=1&s=25aae3ae38d22e5824492332e0677a86",
+        "region": "TH"
     },
     {
         "model": "realme 8",
@@ -8830,16 +9830,6 @@
         "region": "TW"
     },
     {
-        "model": "realme 8",
-        "version": "RMX3241_11_F.12",
-        "codename": "RMX3241",
-        "rom_type": "OTA",
-        "size": "5229.94 MB",
-        "md5": "4aba74824668abf8330fff26590382e8",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-dfabb3bb340b6b7bcfdf5805b26b0a08/component-ota/24/06/06/4a0d1c82aeba4785b51f702ee64c28fd.zip",
-        "region": "VN"
-    },
-    {
         "model": "realme 8 4G",
         "version": "RMX3085_11_A.26",
         "codename": "RMX3085",
@@ -8851,12 +9841,12 @@
     },
     {
         "model": "realme 8 4G",
-        "version": "RMX3241_11_F.12",
-        "codename": "RMX3241",
+        "version": "RMX3085_11_F.13",
+        "codename": "RMX3085",
         "rom_type": "OTA",
-        "size": "5392.7 MB",
-        "md5": "b876937b031b57dd6643acb9a9b6a1fd",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a648a1a433239d26ee86b9525ffc3b89/component-ota/24/06/06/93c993d9574548aea1153be7977f1789.zip",
+        "size": "4749.09 MB",
+        "md5": "07fb1090602b3d2122d82741c9e13882",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-92b49ebb8258198b56427b7c4175d8cb/component-ota/24/09/02/d906fd50a3e249f1b9ec913f89fedee7.zip",
         "region": "EU"
     },
     {
@@ -9471,16 +10461,6 @@
     },
     {
         "model": "realme GT 6",
-        "version": "RMX3851_15.0.0.1200(EX01)",
-        "codename": "RMX3851",
-        "rom_type": "OTA",
-        "size": "7616.51 MB",
-        "md5": "295ed30887da184f6aad3bd41ad3164e",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-29776c2a160868ace01e896ca07b7528/component-ota/25/09/04/b9a5829f9ea84d7aaa8dc2d50f9db311.zip",
-        "region": "IN"
-    },
-    {
-        "model": "realme GT 6",
         "version": "RMX3851_14.0.1.614(EX01)",
         "codename": "RMX3851",
         "rom_type": "OTA",
@@ -9610,6 +10590,26 @@
         "region": "TH"
     },
     {
+        "model": "realme GT 7",
+        "version": "RMX5061_15.0.1.813(EX01)",
+        "codename": "RMX5061",
+        "rom_type": "OTA",
+        "size": "8136.76 MB",
+        "md5": "40235f99f9fd744b9e42bce1ac394605",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-863656ba6f8ecacb5eb12430725130ea/component-ota/25/09/20/05e77247f2de4a30a419c88dbb722d94.zip",
+        "region": "KZ"
+    },
+    {
+        "model": "realme GT 7",
+        "version": "RMX5061_16.0.5.701(EX01)",
+        "codename": "RMX5061",
+        "rom_type": "OTA",
+        "size": "8040.07 MB",
+        "md5": "9baf2e1994d5508df7ab7d6253f8d30d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4d2298eb68679ad5804b87a4b82d67fe/component-ota/25/05/27/32defc2e10544ec198bdda132ec84f4a.zip",
+        "region": "TW"
+    },
+    {
         "model": "realme GT 7 Pro",
         "version": "RMX5011_16.0.5.700(EX01)",
         "codename": "RMX5011",
@@ -9678,6 +10678,46 @@
         "md5": "394c79ae95d84dbedd79fead0392818b",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-41e29e73e6411b5b389fa160349c1916/component-ota/25/04/29/a3b3530428a54ca4b4fcb29f0c89503f.zip",
         "region": "TW"
+    },
+    {
+        "model": "realme GT 7T",
+        "version": "RMX5085_16.0.5.700(EX01)",
+        "codename": "RMX5085",
+        "rom_type": "OTA",
+        "size": "7675.63 MB",
+        "md5": "6b95794cbec10cb391dfe83ea56e144f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-bdf8781595d4f61f3ab41959253f0174/component-ota/25/05/27/8b57c49b7a8241b682e534f19aa31367.zip",
+        "region": "LATAM"
+    },
+    {
+        "model": "realme GT 7T",
+        "version": "RMX5085_16.0.5.700(EX01)",
+        "codename": "RMX5085",
+        "rom_type": "OTA",
+        "size": "7679.66 MB",
+        "md5": "aa928583c8e212735da705d8a47d3159",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ce300d4654c9babd6e46fd69de238353/component-ota/25/05/27/6c36009f283d471ca524891f9d7527af.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme GT 7T",
+        "version": "RMX5085_16.0.5.700(EX01)",
+        "codename": "RMX5085",
+        "rom_type": "OTA",
+        "size": "7708.73 MB",
+        "md5": "ab9fdf66e0605747023505d8a275b129",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c361afdec99f2e58a2a522a3e2439989/component-ota/25/05/27/ff3cb0a46bd746d582b6da75b6b6b954.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme GT 7T",
+        "version": "RMX5085_16.0.5.700(EX01)",
+        "codename": "RMX5085",
+        "rom_type": "OTA",
+        "size": "7707.76 MB",
+        "md5": "87328a4fa17abf3401c192364672ff5c",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-38a7d73e0d9238c8d041f51d27b92d64/component-ota/25/05/27/5a4fb1d19bfb42e2b71e36482de13ab5.zip",
+        "region": "SA"
     },
     {
         "model": "realme GT 8 Pro",
@@ -9878,6 +10918,16 @@
         "md5": "b37d160f19775159f2a6ef6668b37e3d",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-22a501f09c0906e783a965584ed8720a/component-ota/24/03/22/c499faef7d9d4554a1001a57541ee7e8.zip",
         "region": "ID"
+    },
+    {
+        "model": "realme GT NEO 3",
+        "version": "RMX3561_14.0.0.2200(EX01)",
+        "codename": "RMX3561",
+        "rom_type": "OTA",
+        "size": "6649.4 MB",
+        "md5": "3f5abbc85df0d439ca54e6811b4b5e88",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ff476cb2a80814bcc2829494ffdae2b0/component-ota/25/10/18/483a10e9a9e54c02805c8fc5605730ff.zip",
+        "region": "IN"
     },
     {
         "model": "realme GT NEO 3",
@@ -10281,13 +11331,43 @@
     },
     {
         "model": "realme P3",
-        "version": "RMX5070_16.0.5.701(EX01)",
-        "codename": "RMX5070",
+        "version": "RMX5079_16.0.5.701(EX01)",
+        "codename": "RMX5079",
         "rom_type": "OTA",
-        "size": "6715.62 MB",
-        "md5": "f5135455ac4acae711e0ef2281529db3",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b3c772110e9879994b4e4622beee5e17/component-ota/25/05/22/67c59f30ed8e4d34ac27f0ae96396d23.zip",
+        "size": "6631.18 MB",
+        "md5": "5ecd92618f4b44e5cf70ffbc9084cb05",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-650d49d3e481ae4ceb018e24af02db2d/component-ota/25/05/22/b44d92f08020492fa182898a9b542bff.zip",
         "region": "RU"
+    },
+    {
+        "model": "realme P4",
+        "version": "RMX5110_16.0.5.710(EX01)",
+        "codename": "RMX5110",
+        "rom_type": "OTA",
+        "size": "7263.16 MB",
+        "md5": "d9d24dfa96d21ade76ba126755152c9d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-2bda2bde545c87ca7e6f9b02ccc8a276/component-ota/25/11/20/2c15dbdbe67c4b529504e890ecd00209.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme P4 Pro",
+        "version": "RMX5116_16.0.0.204(EX01)",
+        "codename": "RMX5116",
+        "rom_type": "OTA",
+        "size": "7563.37 MB",
+        "md5": "b7018daeeb812c853a43660168cf44b2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-db561d220466107132a6ef3903d48ae2/component-ota/25/11/11/95c484d7f8504a9a8d36869d003db93e.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme P4x",
+        "version": "RMX5108_15.0.2.1100(EX01)",
+        "codename": "RMX5108",
+        "rom_type": "OTA",
+        "size": "7506.69 MB",
+        "md5": "fbed7ec8f976799275db1bf7ef418418",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f051b13d0f72e09b6bd82b4073dc2c17/component-ota/26/02/06/7aaa16f663ba42e2b593dcfa4f02c761.zip",
+        "region": "IN"
     },
     {
         "model": "realme Pad 2",
