@@ -4,16 +4,6 @@
         "version": "CPH2477_11_A.57",
         "codename": "CPH2477",
         "rom_type": "OTA",
-        "size": "71.48 MB",
-        "md5": "e432b28e768e470b29d79d2b7459d653",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-da914201f1ac659698cbe768bd05597f/component-ota/25/10/08/9437db6d2dc14936b0e7f26358cec029.zip",
-        "region": "RU"
-    },
-    {
-        "model": "OPPO A17",
-        "version": "CPH2477_11_A.57",
-        "codename": "CPH2477",
-        "rom_type": "OTA",
         "size": "194.1 MB",
         "md5": "194d0ffc7aeab23e86dd091865a54a97",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-e7a8da171a4c96255aaac2e4f81af361/component-ota/25/10/08/79841a75831240afb1a64ba57b9e8696.zip",
@@ -301,12 +291,12 @@
     },
     {
         "model": "OPPO A3 Pro",
-        "version": "CPH2639_15.0.0.1302(EX01)",
+        "version": "CPH2639_16.0.3.503(EX01)",
         "codename": "CPH2639",
         "rom_type": "OTA",
-        "size": "83.21 MB",
-        "md5": "f5bbb3666cf4109673f14f198cd265b2",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-5cb9317dc554802c8f83a88820314fe4/component-ota/25/11/12/bfccc3a1dea14709b886f9cf783aaf4d.zip",
+        "size": "5073.45 MB",
+        "md5": "98b1148f2d7b6f3377407e8bea3dc98a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-92872d37520f3cf6009f17b18614b932/component-ota/25/01/23/5046494e6b304b9d8df356e91b53dc56.zip",
         "region": "OCA"
     },
     {
@@ -1144,16 +1134,6 @@
         "version": "CPH2577_15.0.0.1302(EX01)",
         "codename": "CPH2577",
         "rom_type": "OTA",
-        "size": "70.03 MB",
-        "md5": "ae1b971672c7707920e95e21ff150b7b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9209c93c0d6bbdf866cc6cae5751db3c/component-ota/25/11/10/7da7bb28a07e4812bfe4b9d85904bb1b.zip",
-        "region": "MY"
-    },
-    {
-        "model": "OPPO A58",
-        "version": "CPH2577_15.0.0.1302(EX01)",
-        "codename": "CPH2577",
-        "rom_type": "OTA",
         "size": "69.88 MB",
         "md5": "022fd90f4db61a444da9315e86aa5120",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-ff99346f560affabc4151866fbb11995/component-ota/25/11/10/e1ff3192b1d14bc0b4cf172e5a1fcc1a.zip",
@@ -1381,16 +1361,6 @@
     },
     {
         "model": "OPPO A6 Pro 4G",
-        "version": "CPH2799_15.0.2.1201(EX01)",
-        "codename": "CPH2799",
-        "rom_type": "OTA",
-        "size": "758.56 MB",
-        "md5": "d86ee16ac5cb2abe651bcac9fee2901a",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-58dad5eb8a09d1c74e78b0f5b26d6d69/component-ota/26/04/09/dc6385412aee4145b807e66a1f1f85d9.zip",
-        "region": "ID"
-    },
-    {
-        "model": "OPPO A6 Pro 4G",
         "version": "CPH2799_15.0.2.906(EX01)",
         "codename": "CPH2799",
         "rom_type": "OTA",
@@ -1398,16 +1368,6 @@
         "md5": "ab797f4ef9c65f0f9eee66edd723eeea",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-577ea18f5c544007a4b868a5dfd7442d/component-ota/26/02/24/75f4b82f7b0c43e1b18298dc10f10a9f.zip",
         "region": "LK"
-    },
-    {
-        "model": "OPPO A6 Pro 4G",
-        "version": "CPH2799_15.0.2.906(EX01)",
-        "codename": "CPH2799",
-        "rom_type": "OTA",
-        "size": "75.94 MB",
-        "md5": "334d81b716b36f9f96b1b1135f8fb053",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e266085cdb489409f9b271f26b330261/component-ota/26/02/24/eb282ddb8a0d44298d704eab70c355d6.zip",
-        "region": "MEA"
     },
     {
         "model": "OPPO A6 Pro 4G",
@@ -1591,12 +1551,12 @@
     },
     {
         "model": "OPPO A77",
-        "version": "CPH2339_14.0.0.2700(EX01)",
+        "version": "CPH2339_14.0.0.2900(EX01)",
         "codename": "CPH2339",
         "rom_type": "OTA",
-        "size": "424.25 MB",
-        "md5": "aa2a9c289dbbbe3fc2871034de062e6b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6e5347459fd21018449c0dfa2ae44097/component-ota/26/01/15/ebf71b993f49490888e15b6214bcdfe9.zip",
+        "size": "343.31 MB",
+        "md5": "3b35bf7c9d9571955bca8237cacf3982",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-829daeab1d4fd4f6807007676de58598/component-ota/26/04/16/2f7bfdd0b2034b7cb2a95495d12041e3.zip",
         "region": "APC"
     },
     {
@@ -1621,32 +1581,32 @@
     },
     {
         "model": "OPPO A77",
-        "version": "CPH2339_14.0.0.2700(EX01)",
+        "version": "CPH2339_14.0.0.2900(EX01)",
         "codename": "CPH2339",
         "rom_type": "OTA",
-        "size": "424.12 MB",
-        "md5": "1cceecfbbede18d749b5434411e8d29e",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-072843e6a677d06bb6765de717d70607/component-ota/26/01/15/30a13902f49a4dab8c5bb0eb48dfc848.zip",
+        "size": "308.75 MB",
+        "md5": "89fdd71c2f857bd35d44fd9f91fbdda1",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c6102cefad85eec6e7d1da24943ea652/component-ota/26/04/16/64d1948c424d4db29e2d38e2f557a74f.zip",
         "region": "OCA"
     },
     {
         "model": "OPPO A77",
-        "version": "CPH2339_14.0.0.2700(EX01)",
+        "version": "CPH2339_14.0.0.2900(EX01)",
         "codename": "CPH2339",
         "rom_type": "OTA",
-        "size": "424.28 MB",
-        "md5": "5a6ffba17fde1dbf06f15b79e5ea9e00",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-32ff4897aeea4bf2916daf242908450b/component-ota/26/01/15/276dc7e01d0f4e14b46339862932911b.zip",
+        "size": "343.34 MB",
+        "md5": "f3a3c92c7ced8520f95d10c7fe11b49f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b56e8e37abbcca06bf483b65d0ce420e/component-ota/26/04/16/4e0beba180584aac9fcfda5a03a9c84b.zip",
         "region": "SA"
     },
     {
         "model": "OPPO A77",
-        "version": "CPH2339_14.0.0.2700(EX01)",
+        "version": "CPH2339_14.0.0.2900(EX01)",
         "codename": "CPH2339",
         "rom_type": "OTA",
-        "size": "424.11 MB",
-        "md5": "f0dc3640091ef95a9a2782e151a8ce2d",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-720699e8739762b0faf45641dc22bbe7/component-ota/26/01/15/6480c887cfcd4b3984641a67b803c702.zip",
+        "size": "333.77 MB",
+        "md5": "8229ee9a92592e1be4c70b1297cc5c05",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-230b79483ebd80b414d3b72a73ee374c/component-ota/26/04/16/f9cd22e0f60a47a3aee15768c452316e.zip",
         "region": "TW"
     },
     {
@@ -1721,12 +1681,12 @@
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1443.44 MB",
-        "md5": "83d00d26e339f2beb7ae8231c8729db4",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-42baf41ee0091c0df14d3ab3e2388420/component-ota/26/01/04/ecdea93e1517420681cd894b6e67cec8.zip",
+        "size": "677.58 MB",
+        "md5": "c84fe1be244aad2c1aaac24dba543a04",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6a180a123f9d06c6f725f86760228aaa/component-ota/26/04/13/1761ff4bb28348b598a9196736a7b6dc.zip",
         "region": "ID"
     },
     {
@@ -1761,12 +1721,12 @@
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1437.18 MB",
-        "md5": "93cd525d36d82caf6b6fabd81ae8501e",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-24235e4487f00d7cda6ab20dc82fa433/component-ota/26/01/04/ba9fd2373e4f4257863364b36d74dd34.zip",
+        "size": "671.25 MB",
+        "md5": "f33cfb1ba5a9f921b2be22ece7150a56",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9f543e9fd8c816759bfdd29a0d64507d/component-ota/26/04/13/720fddbc056045d78c4bfce92a28b207.zip",
         "region": "MY"
     },
     {
@@ -1801,42 +1761,42 @@
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1424.71 MB",
-        "md5": "26c7a9b5e5fc9ce297372a61a719b18e",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-be1983196597323b9687d6d875fddbec/component-ota/26/01/04/1d9af0f9000b4db09f094184531b8719.zip",
+        "size": "671.4 MB",
+        "md5": "ac24e6d69af7b641d05c96e528db3fe0",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e06d447a38fc61e91fba74c35a021cda/component-ota/26/04/13/1c4c0a043ce34c1784120022a177acb4.zip",
         "region": "SG"
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1407.62 MB",
-        "md5": "ca9420eadbd3a32c2af9775e87436476",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-09c1004c1d68b6da964667b57772665a/component-ota/26/01/04/5a74339e49be4ab0a044376e1a3d12df.zip",
+        "size": "671.23 MB",
+        "md5": "aabffe8d8bd0015d6f4b8280dd7d13d2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-55530e7d331a50fdb978fa31ea431435/component-ota/26/04/13/916bb2d54eea41fda3f8a31186fb9730.zip",
         "region": "TH"
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1424.55 MB",
-        "md5": "18a88ca5bc79b612c2c49f4c37469063",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a2e0197940c154af31d49da6b07b357e/component-ota/26/01/04/123d3072e507499586361ae05744f321.zip",
+        "size": "671.23 MB",
+        "md5": "3df6fa14d4d9d1bc2037d0f0148d3fec",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1c51eb7c4aff5d83a0e9f321ee25b246/component-ota/26/04/13/41a9721f3a8b4f9397ac5db39f885c90.zip",
         "region": "TW"
     },
     {
         "model": "OPPO A78",
-        "version": "CPH2483_15.0.0.1600(EX01)",
+        "version": "CPH2483_15.0.0.1800(EX01)",
         "codename": "CPH2483",
         "rom_type": "OTA",
-        "size": "1437.16 MB",
-        "md5": "0c6cb2815819ee5aa4a333d21537000c",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-19bc6aa0b38d6b4286f4828ad6795ffb/component-ota/26/01/04/6ae5ace124c744b2a04146c494338a22.zip",
+        "size": "671.24 MB",
+        "md5": "7a1b111b7cd3b5f9ab4dd8ed47ef034f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-052345b0fe7818992efa7cdac1d9af51/component-ota/26/04/13/02e1766e3d6a43cca31cf9ac0560c6f1.zip",
         "region": "VN"
     },
     {
@@ -2394,18 +2354,8 @@
         "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
-        "size": "5621.46 MB",
-        "md5": "be7d428b03f1fe3f55472f47f58d39c7",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d65b7250485c860ef80c8969d1efd773/component-ota/24/10/30/c7f3cc0d7df24d8d8b7fb42784b74706.zip",
-        "region": "IN"
-    },
-    {
-        "model": "OPPO F27",
-        "version": "CPH2637_16.0.3.501(EX01)",
-        "codename": "CPH2637",
-        "rom_type": "OTA",
         "size": "6172.77 MB",
-        "md5": "a55bd69af27ec7a675c45b37b6a1d6af",
+        "md5": "d45fbd767449b034f3bfa44989ab21a1",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-84e522f5b6b4165dfea0296333c1b270/component-ota/24/10/30/4da7cf24f18b4c64a541ba62ae5c9cf5.zip",
         "region": "SG"
     },
@@ -2806,7 +2756,7 @@
         "rom_type": "OTA",
         "size": "9352.47 MB",
         "md5": "40c7953f5f9a647372a8f748cb8e5ebe",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=1785d7bc5b17fe895fe4b10b859bb4e2&p=f088224e006f1389a4bcc701406fd166417513c72735c0ea78499d819894803012e7361ef4017ab7405f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e8&taste=0&supportDLTaste=0&mode=1&s=18bbfd5aa3735aec16eb5c4b53bf0133",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=1785d7bc5b17fe895fe4b10b859bb4e2&p=f088224e006f1389a4bcc701406fd166417513c72735c0ea78499d819894803012e7361ef4017ab7405f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e8&taste=0&supportDLTaste=0&mode=1&tr=manual&s=9eaac2c0eff94d0ee003ae6967b6cdb3",
         "region": "SA"
     },
     {
@@ -2816,7 +2766,7 @@
         "rom_type": "OTA",
         "size": "9995.54 MB",
         "md5": "d084ff203224e1c34014c9b469a9fb13",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=8f9a438d988e563adb53e8c3714289c8&p=f088224e006f1389a4bc9a0c47628067407912937a35c0e9771d9d849b9f843315e36318f9547be54c08452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e3&taste=0&supportDLTaste=0&mode=1&s=6161ead816f78b78f83e317b8a25070e",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=8f9a438d988e563adb53e8c3714289c8&p=f088224e006f1389a4bc9a0c47628067407912937a35c0e9771d9d849b9f843315e36318f9547be54c08452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e3&taste=0&supportDLTaste=0&mode=1&tr=manual&s=afeb6fd7fa2df208e4b608c20a7afe5f",
         "region": "SG"
     },
     {
@@ -2826,7 +2776,7 @@
         "rom_type": "OTA",
         "size": "9352.47 MB",
         "md5": "1d69675d5f818f65654b84ff6ca84999",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2920ca62927102490487f4b608c33b17&p=f088224e006f1389a4bc90014765d166127e10942e32c0eb2b1dc684c9918a6047b46718ff5c27e71408452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e5&taste=0&supportDLTaste=0&mode=1&s=ca4342f9e41e27ba12e4438506327b4e",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2920ca62927102490487f4b608c33b17&p=f088224e006f1389a4bc90014765d166127e10942e32c0eb2b1dc684c9918a6047b46718ff5c27e71408452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d8480c9e207b01827c05e5&taste=0&supportDLTaste=0&mode=1&tr=manual&s=cef6aa9a7adee3af8de06be910558f2b",
         "region": "TH"
     },
     {
@@ -3116,7 +3066,7 @@
         "rom_type": "OTA",
         "size": "8621.95 MB",
         "md5": "96e27760de1c67aedd8a10a23afbf293",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=37a9cec3ef7d9d8135d3ced368eab68a&p=f088224e00681388a2bcc101436480304f2916c62a67c0ed2e129dd29f9fd56241e63744f45d7de2105a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cac9e207b017bab2144&taste=0&supportDLTaste=0&mode=1&s=ba939cf28ae9052673ce48e888069c54",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=37a9cec3ef7d9d8135d3ced368eab68a&p=f088224e00681388a2bcc101436480304f2916c62a67c0ed2e129dd29f9fd56241e63744f45d7de2105a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cac9e207b017bab2144&taste=0&supportDLTaste=0&mode=1&tr=manual&s=ea3a254f0213220e0b3f389f9b6182b1",
         "region": "ID"
     },
     {
@@ -3126,7 +3076,7 @@
         "rom_type": "OTA",
         "size": "8586.87 MB",
         "md5": "74c512d101993d7b5ac22b269c068ece",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=0e12554ed63e785f08f4dcf51244be80&p=a50845bd674c8544c26014176c4627d82b8c4dab4115446d552285eea191d5d40d08f6c0c09985f9b1594b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69bd2c0e007ddc017e041ad1&taste=0&supportDLTaste=0&mode=1&s=dd9c54f8287c774139d41c624615e177",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=0e12554ed63e785f08f4dcf51244be80&p=a50845bd674c8544c26014176c4627d82b8c4dab4115446d552285eea191d5d40d08f6c0c09985f9b1594b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69bd2c0e007ddc017e041ad1&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6bf95e94b1b935ce17e5bb586922e29d",
         "region": "IN"
     },
     {
@@ -3136,7 +3086,7 @@
         "rom_type": "OTA",
         "size": "8818.17 MB",
         "md5": "193b84863b204bde82b3b40e961f7421",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=fb308e7cd4084af5bcd0058032c4d73e&p=f088224e00681388a2bcc5041566d268167a19942831c0ba294ec6d1c8c185341aea3048a9022fbc4108452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac8199e207b017baafd9a&taste=0&supportDLTaste=0&mode=1&s=fae91f1f22255d2d5ff6a987e1493a81",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=fb308e7cd4084af5bcd0058032c4d73e&p=f088224e00681388a2bcc5041566d268167a19942831c0ba294ec6d1c8c185341aea3048a9022fbc4108452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac8199e207b017baafd9a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=07d9064e7adda7e0b8f738ee904acd84",
         "region": "MY"
     },
     {
@@ -3146,7 +3096,7 @@
         "rom_type": "OTA",
         "size": "8587.61 MB",
         "md5": "73def02f1ec4d8d3480e797905768cbd",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6c933f8d298214e1be49a6be5ce65de5&p=f088224e00681388a2bc97034536d6334e7b17c57c34c0e876499ed1cf90826547b73649ff5c7ae7470f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cad9e207b017bab2146&taste=0&supportDLTaste=0&mode=1&s=57a848b170139b5852e8538570f950a3",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6c933f8d298214e1be49a6be5ce65de5&p=f088224e00681388a2bc97034536d6334e7b17c57c34c0e876499ed1cf90826547b73649ff5c7ae7470f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cad9e207b017bab2146&taste=0&supportDLTaste=0&mode=1&tr=manual&s=4d7f4a3502c0e790ee1f16f446393619",
         "region": "OCA"
     },
     {
@@ -3156,7 +3106,7 @@
         "rom_type": "OTA",
         "size": "8586.87 MB",
         "md5": "7218fd9c341de46e88cd6f3b0282fbb4",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=fa292d764e6d8b3001beee5d71159a23&p=f088224e00681388a2bc91064131de37162845962d30c0ef7e1ec7d4cc94d56411b6374da9532ab64c5e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac819007ddc017e0400be&taste=0&supportDLTaste=0&mode=1&s=94ad03ed97daeb87eba524ea81eaf319",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=fa292d764e6d8b3001beee5d71159a23&p=f088224e00681388a2bc91064131de37162845962d30c0ef7e1ec7d4cc94d56411b6374da9532ab64c5e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac819007ddc017e0400be&taste=0&supportDLTaste=0&mode=1&tr=manual&s=420af6f483bfe22b461e2f7d3fcba5b0",
         "region": "PH"
     },
     {
@@ -3166,7 +3116,7 @@
         "rom_type": "OTA",
         "size": "9229.94 MB",
         "md5": "9dcb0950b0e3ea2811fc4235f1cd89c2",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c362bf74363d9f42af0a84f627a05026&p=f088224e00681388a2bc91504b61d462462914967a3ec0ea761bc6d3cfc1d56010e76044f8502bb2430d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac8199e207b017baafd97&taste=0&supportDLTaste=0&mode=1&s=12e630d970dab3a6b34c855bea851f04",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c362bf74363d9f42af0a84f627a05026&p=f088224e00681388a2bc91504b61d462462914967a3ec0ea761bc6d3cfc1d56010e76044f8502bb2430d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69aac8199e207b017baafd97&taste=0&supportDLTaste=0&mode=1&tr=manual&s=744d37fd3a64d4941e99bcd5ad238799",
         "region": "SG"
     },
     {
@@ -3176,7 +3126,7 @@
         "rom_type": "OTA",
         "size": "8586.87 MB",
         "md5": "1a41a6ef4b2ceb6f84dc3b97ecbfb3cf",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=252691f7ff25ff567d453cf885c4cc85&p=f088224e00681388a2bc95011162de604e2f19937835c0bd7b12c7d4c897d73644b66d4cfa547bb1165d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cab9e207b017bab2143&taste=0&supportDLTaste=0&mode=1&s=d77019d6dce5d0fcdfa6b2900c4b7202",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=252691f7ff25ff567d453cf885c4cc85&p=f088224e00681388a2bc95011162de604e2f19937835c0bd7b12c7d4c897d73644b66d4cfa547bb1165d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cab9e207b017bab2143&taste=0&supportDLTaste=0&mode=1&tr=manual&s=93c510b6e009b36007354f6e17c68fa6",
         "region": "TH"
     },
     {
@@ -3186,7 +3136,7 @@
         "rom_type": "OTA",
         "size": "8655.79 MB",
         "md5": "235c6b465ca4c1298c58be3907474df4",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=bebd16ec0c64ba417d314e2d55a29623&p=f088224e00681388a2bcc05743318066467d14932935c0ef7a1a9ed198c2d06312e13749ac0678e74002452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cac9e207b017bab2145&taste=0&supportDLTaste=0&mode=1&s=600f65a4b29b1257775e301d7045ec66",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=bebd16ec0c64ba417d314e2d55a29623&p=f088224e00681388a2bcc05743318066467d14932935c0ef7a1a9ed198c2d06312e13749ac0678e74002452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cac9e207b017bab2145&taste=0&supportDLTaste=0&mode=1&tr=manual&s=d835beec612064949e282aac6a8b622e",
         "region": "TW"
     },
     {
@@ -3196,7 +3146,7 @@
         "rom_type": "OTA",
         "size": "8586.87 MB",
         "md5": "a6ae216e71c51d972aab4f71263ed176",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=478465e66dd08e36bd62344236494cd7&p=f088224e00681388a2bc92564a63d562147a15c62933c0b87f1d9e88ca938b3f40e06418ac5127b1420f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cab007ddc017e042407&taste=0&supportDLTaste=0&mode=1&s=0a66f4b86e0a902a165a047c3e5f4643",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=478465e66dd08e36bd62344236494cd7&p=f088224e00681388a2bc92564a63d562147a15c62933c0b87f1d9e88ca938b3f40e06418ac5127b1420f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c54cab007ddc017e042407&taste=0&supportDLTaste=0&mode=1&tr=manual&s=42ea1f967dfcd62c5fd440d505b5821d",
         "region": "VN"
     },
     {
@@ -3206,7 +3156,7 @@
         "rom_type": "OTA",
         "size": "10369.48 MB",
         "md5": "0c2133c17820285cb8ad70eeeb535b4b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=f47a597e984e6a6623026b297253fa51&p=f088224e00681388a2bcc1564a62d134462e13942c37c0ed7f199e8798c1d7651aea6c18fe0727b2110e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e08ca1007ddc01813da484&taste=0&supportDLTaste=0&mode=1&s=c1842d76916a2e2486203fb922c3fea9",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=f47a597e984e6a6623026b297253fa51&p=f088224e00681388a2bcc1564a62d134462e13942c37c0ed7f199e8798c1d7651aea6c18fe0727b2110e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e08ca1007ddc01813da484&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6d091f0a7f46a60942236f267fa5e35b",
         "region": "BR"
     },
     {
@@ -3216,7 +3166,7 @@
         "rom_type": "OTA",
         "size": "10406.19 MB",
         "md5": "b45e8b7696a1d7f345793def6455147d",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=24f2446bca245209756f765f3e177f3d&p=f088224e00681388a2bc910d4b35d764117a11952e32c0eb784bc6849c938a6712e06c4ef55127b4145e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd89e207b017bab22e1&taste=0&supportDLTaste=0&mode=1&s=f653b75f62a4cc46d88cae8a881228e8",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=24f2446bca245209756f765f3e177f3d&p=f088224e00681388a2bc910d4b35d764117a11952e32c0eb784bc6849c938a6712e06c4ef55127b4145e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd89e207b017bab22e1&taste=0&supportDLTaste=0&mode=1&tr=manual&s=5df903cd0a0ea075eeebcb908bedbbdd",
         "region": "ID"
     },
     {
@@ -3226,7 +3176,7 @@
         "rom_type": "OTA",
         "size": "10371.12 MB",
         "md5": "005e05490c2043cfeb4d4114bd387599",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=8388387f491f716d49be045962d31082&p=a50845bd674c8544c26015123f1d7581758b4faf464444635922deb8f3c1d4865d0af39596c986afe05a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69ba4777007ddc017e0414e9&taste=0&supportDLTaste=0&mode=1&s=37ccba8162072626f267444cf8b240e0",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=8388387f491f716d49be045962d31082&p=a50845bd674c8544c26015123f1d7581758b4faf464444635922deb8f3c1d4865d0af39596c986afe05a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69ba4777007ddc017e0414e9&taste=0&supportDLTaste=0&mode=1&tr=manual&s=eb2d51a783ef8d4ae5facb2d86caf358",
         "region": "IN"
     },
     {
@@ -3236,7 +3186,7 @@
         "rom_type": "OTA",
         "size": "10373.49 MB",
         "md5": "1b2d022046d784c46ec9fd8c333805b7",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7fbe8336017de51352ab110239ceac01&p=f088224e00681388a2bcc0044566d764457c14957c36c0bf2b4b9d859892d13211e56748ac072ee2130d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cda007ddc017e0425c3&taste=0&supportDLTaste=0&mode=1&s=c90c9508e40a3786204e75eb65411c60",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7fbe8336017de51352ab110239ceac01&p=f088224e00681388a2bcc0044566d764457c14957c36c0bf2b4b9d859892d13211e56748ac072ee2130d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cda007ddc017e0425c3&taste=0&supportDLTaste=0&mode=1&tr=manual&s=939ac53a193f5331a958a2b4bd5f4491",
         "region": "MEA"
     },
     {
@@ -3246,7 +3196,7 @@
         "rom_type": "OTA",
         "size": "10602.42 MB",
         "md5": "46d8bac4fed7e44de73cd2b93e2854e0",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a6e59ee1b5fc79b09b8c45966a375750&p=f088224e00681388a2bc94061065de30467b18947a67c0ec2c1e9e87c4c6d53f14b66248fc062eb1130d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd9007ddc017e0425c2&taste=0&supportDLTaste=0&mode=1&s=b0c7de30bfb3dfcb8b81cd17359387eb",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a6e59ee1b5fc79b09b8c45966a375750&p=f088224e00681388a2bc94061065de30467b18947a67c0ec2c1e9e87c4c6d53f14b66248fc062eb1130d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd9007ddc017e0425c2&taste=0&supportDLTaste=0&mode=1&tr=manual&s=bc6e4e6a610ce2ef431037f5a5dd2704",
         "region": "MY"
     },
     {
@@ -3256,7 +3206,7 @@
         "rom_type": "OTA",
         "size": "10371.85 MB",
         "md5": "bdfff3b63fcfe6bd6ab444749808237a",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=43601b228e8ed8a8ee41f2a3ea8b14b3&p=f088224e00681388a2bc93054b6f8566137a43947f36c0bd7e4b9e889ec1d5601be06219a95429b74d0c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cda9e207b017bab22e2&taste=0&supportDLTaste=0&mode=1&s=3b8345c3d69b5b891b36820b61f52fbf",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=43601b228e8ed8a8ee41f2a3ea8b14b3&p=f088224e00681388a2bc93054b6f8566137a43947f36c0bd7e4b9e889ec1d5601be06219a95429b74d0c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cda9e207b017bab22e2&taste=0&supportDLTaste=0&mode=1&tr=manual&s=0fa5c6e30562478aa45f49f7b326b6b8",
         "region": "OCA"
     },
     {
@@ -3266,7 +3216,7 @@
         "rom_type": "OTA",
         "size": "10371.12 MB",
         "md5": "63db45f1310f67ed50c50297a53dd224",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dc0bea15bdea367c5aa7fda7c86c4fc0&p=f088224e00681388a2bc92004534d165467518c07f32c0ec7649c681c4c6873e1be3364cfa017bb4410e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69abbff39e207b017baafe3a&taste=0&supportDLTaste=0&mode=1&s=8013ee12883b8bd2b8195149907eba87",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dc0bea15bdea367c5aa7fda7c86c4fc0&p=f088224e00681388a2bc92004534d165467518c07f32c0ec7649c681c4c6873e1be3364cfa017bb4410e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69abbff39e207b017baafe3a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b8a8944e01e1eeb735dc706770d64cfb",
         "region": "SA"
     },
     {
@@ -3276,7 +3226,7 @@
         "rom_type": "OTA",
         "size": "11014.19 MB",
         "md5": "5148166663a1e0147fcb3b7983b80bbe",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5a7419f38aa3a0046ddda712234fad39&p=f088224e00681388a2bcc705446e8269137b17952663c0e07f1bc7d29e94d16243e73544af022db14c59452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd79e207b017bab22e0&taste=0&supportDLTaste=0&mode=1&s=30fa510460a6d0c3da5cee4d8240083e",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5a7419f38aa3a0046ddda712234fad39&p=f088224e00681388a2bcc705446e8269137b17952663c0e07f1bc7d29e94d16243e73544af022db14c59452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd79e207b017bab22e0&taste=0&supportDLTaste=0&mode=1&tr=manual&s=d21710e345505ff708c5ed51874fd7c5",
         "region": "SG"
     },
     {
@@ -3286,7 +3236,7 @@
         "rom_type": "OTA",
         "size": "10371.12 MB",
         "md5": "60218f4cf1f5974f219d5e73962eee3e",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2a4786afc1731c0ad6fa2a1fa589ae79&p=f088224e00681388a2bcc0004b63d461127d19907a63c0e12a129e86cdc5843511e2624ba80227bc175a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cdb007ddc017e0425c4&taste=0&supportDLTaste=0&mode=1&s=b83287d2ec78e236916162b000a7c47b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2a4786afc1731c0ad6fa2a1fa589ae79&p=f088224e00681388a2bcc0004b63d461127d19907a63c0e12a129e86cdc5843511e2624ba80227bc175a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cdb007ddc017e0425c4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=c559d74ad9a95abb8371816f6dbccd2e",
         "region": "TH"
     },
     {
@@ -3296,7 +3246,7 @@
         "rom_type": "OTA",
         "size": "10440.04 MB",
         "md5": "e9e09f3eeb2568c20f1670df0e37ddd5",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d69f8050b735c6fa18cf5e9a0360d01a&p=f088224e00681388a2bc90044261d230477911902937c0ea771b9dd49f968a3f1be2301fa9577ab3425e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd7007ddc017e0425bf&taste=0&supportDLTaste=0&mode=1&s=e7e6186717cfcbd81fddcd603ca3f813",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d69f8050b735c6fa18cf5e9a0360d01a&p=f088224e00681388a2bc90044261d230477911902937c0ea771b9dd49f968a3f1be2301fa9577ab3425e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c64cd7007ddc017e0425bf&taste=0&supportDLTaste=0&mode=1&tr=manual&s=0e2e08c8150308387760d95b40687f0a",
         "region": "TW"
     },
     {
@@ -3306,7 +3256,7 @@
         "rom_type": "OTA",
         "size": "10371.12 MB",
         "md5": "05974e4f8843d6da1248d414a67e6238",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=0db2106ee3c80cf2e2b9b222e8335db9&p=f088224e00681388a2bcc0054b618765447d43972c34c0e0294bc689cb97856316e53149ff0728e0110c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69abbff49e207b017baafe42&taste=0&supportDLTaste=0&mode=1&s=1370bb29f7801864cf22e59cfffabaea",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=0db2106ee3c80cf2e2b9b222e8335db9&p=f088224e00681388a2bcc0054b618765447d43972c34c0e0294bc689cb97856316e53149ff0728e0110c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69abbff49e207b017baafe42&taste=0&supportDLTaste=0&mode=1&tr=manual&s=f5b2f3b8e1c606b27e4399a6fcabc9e1",
         "region": "VN"
     },
     {
@@ -3316,7 +3266,7 @@
         "rom_type": "OTA",
         "size": "9432.18 MB",
         "md5": "3381486bf7481acb06a91478007d4d0c",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=674baf93274d4c296b2498bba6e4ca97&p=f088224e006f138aa3bc920415318569467844c72c60c0eb794b9ed3c594836740eb351aab012db21102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b4&taste=0&supportDLTaste=0&mode=1&s=0ecdd62a49ecb63fb405e121fe775577",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=674baf93274d4c296b2498bba6e4ca97&p=f088224e006f138aa3bc920415318569467844c72c60c0eb794b9ed3c594836740eb351aab012db21102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a97fb6fb3c76403b5aaf758d19ed2c24",
         "region": "ID"
     },
     {
@@ -3326,7 +3276,7 @@
         "rom_type": "OTA",
         "size": "9402.12 MB",
         "md5": "09cc87f40261fe8066654f06e2bccc7a",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=fea2364feeaf52fa97f2ba4d2840c30a&p=a50845bd674b8546c3604341381e22d5788c4cfe44174437067bdebea295d4d50e5ba4c1c09dd6feb5074b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f6c8a3007ddc01813db67e&taste=0&supportDLTaste=0&mode=1&s=2dd6e961965a7b578697542710978c7a",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=fea2364feeaf52fa97f2ba4d2840c30a&p=a50845bd674b8546c3604341381e22d5788c4cfe44174437067bdebea295d4d50e5ba4c1c09dd6feb5074b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f6c8a3007ddc01813db67e&taste=0&supportDLTaste=0&mode=1&tr=manual&s=32b49bc2d286a1122178229c7e44461b",
         "region": "IN"
     },
     {
@@ -3336,7 +3286,7 @@
         "rom_type": "OTA",
         "size": "9505.1 MB",
         "md5": "4d78bb996e5d3f4cb999fa2f18a7fdf4",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=15330857a2ac7550e89632e623c76a6b&p=f088224e006f138aa3bc9b06406e8363447810917a31c0ef7a4b9e86ce9e82331ab66219a80078b5455e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b5&taste=0&supportDLTaste=0&mode=1&s=c64908702251edce94838be0cfda3ddb",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=15330857a2ac7550e89632e623c76a6b&p=f088224e006f138aa3bc9b06406e8363447810917a31c0ef7a4b9e86ce9e82331ab66219a80078b5455e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b5&taste=0&supportDLTaste=0&mode=1&tr=manual&s=382adf5a4c60cde8d330bfdf140e967a",
         "region": "MY"
     },
     {
@@ -3346,7 +3296,7 @@
         "rom_type": "OTA",
         "size": "10040.09 MB",
         "md5": "4fa0777daf838d2fd01787d5d03f3cf3",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d376b8a6b890b0590df4ecac37dfb017&p=f088224e006f138aa3bc97564564d663442812972d63c0bf7818c78599c3d73747ea661daf5329b41402452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa007ddc01813db372&taste=0&supportDLTaste=0&mode=1&s=700d40771ccbe9fe25e4135f1d3cb296",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d376b8a6b890b0590df4ecac37dfb017&p=f088224e006f138aa3bc97564564d663442812972d63c0bf7818c78599c3d73747ea661daf5329b41402452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa007ddc01813db372&taste=0&supportDLTaste=0&mode=1&tr=manual&s=d6fce0b1b877f528e32147ebd1eead35",
         "region": "SG"
     },
     {
@@ -3356,7 +3306,7 @@
         "rom_type": "OTA",
         "size": "9397.11 MB",
         "md5": "fda2a2ee63e1704a350bd01c73a33257",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c6d96169ecf9ddee8f5a0e7d10acd5da&p=f088224e006f138aa3bc9507456ed337437a10912d33c0b87a129ed1cac381351bea614da95c7db2455d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b8&taste=0&supportDLTaste=0&mode=1&s=f4a2fd1b9346f2e89ae01955b7ca35aa",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c6d96169ecf9ddee8f5a0e7d10acd5da&p=f088224e006f138aa3bc9507456ed337437a10912d33c0b87a129ed1cac381351bea614da95c7db2455d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87aa9e207b01827c21b8&taste=0&supportDLTaste=0&mode=1&tr=manual&s=1c1664667273f1bda2af366f10ffdd33",
         "region": "TH"
     },
     {
@@ -3366,7 +3316,7 @@
         "rom_type": "OTA",
         "size": "9397.11 MB",
         "md5": "0b8a590c0e2d0bbcf735d0fa9026aa23",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=bb6e9ae5733b43a666713f4366724941&p=f088224e006f138aa3bcc656466082344f2e449c7b31c0e17d1dc781ce94836517b0321df4557de1410f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87ab9e207b01827c21bb&taste=0&supportDLTaste=0&mode=1&s=639519c06371bd6aa461a89adca7919e",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=bb6e9ae5733b43a666713f4366724941&p=f088224e006f138aa3bcc656466082344f2e449c7b31c0e17d1dc781ce94836517b0321df4557de1410f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef87ab9e207b01827c21bb&taste=0&supportDLTaste=0&mode=1&tr=manual&s=7c449a9a93ae36c9fdaec43bca716b0f",
         "region": "VN"
     },
     {
@@ -3551,12 +3501,12 @@
     },
     {
         "model": "OPPO Pad Neo LTE",
-        "version": "OPD2303_14.0.0.2701(EX01)",
+        "version": "OPD2303_14.0.0.2900(EX01)",
         "codename": "OPD2303",
         "rom_type": "OTA",
-        "size": "323.31 MB",
-        "md5": "387b6c3a3ec78f16a5a990d70be16277",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4fad20977ab913954b135a03007b023a/component-ota/26/01/06/69fc02e89411453ba452238905744e1f.zip",
+        "size": "319.83 MB",
+        "md5": "00f8194ed5486acdd29c5ebab33cba5f",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-5a5be7aa1db2a151adc955e67dd7825f/component-ota/26/04/20/6f32f8a7040b48abad7182f67d548108.zip",
         "region": "ID"
     },
     {
@@ -3651,12 +3601,12 @@
     },
     {
         "model": "OPPO Pad Neo WiFi",
-        "version": "OPD2302_14.0.0.2701(EX01)",
+        "version": "OPD2302_14.0.0.2900(EX01)",
         "codename": "OPD2302",
         "rom_type": "OTA",
-        "size": "323.53 MB",
-        "md5": "e9b1d03f07a7bba1b2d6d7db34950465",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8cf65fdae1bdf380d4697246b58e56e9/component-ota/26/01/06/05bdd7b603f442048a7adf8dbcfb16fe.zip",
+        "size": "318.12 MB",
+        "md5": "ac2d1f363c7c5c24c2a015c748fff39a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0a70721a4121296e6393191246c575a8/component-ota/26/04/20/3182fae7dedf42a28785283f64270262.zip",
         "region": "ID"
     },
     {
@@ -4611,6 +4561,16 @@
     },
     {
         "model": "OPPO Reno12",
+        "version": "CPH2625_15.0.0.890(EX01)",
+        "codename": "CPH2625",
+        "rom_type": "OTA",
+        "size": "55.75 MB",
+        "md5": "b5fc63414f7e70366bc59c3a10377d9a",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e24f71ca1a0de91a2f8c51a543257eeb/component-ota/25/10/31/9d1ed4c4e83e4414870e42fecf22d664.zip",
+        "region": "OCA"
+    },
+    {
+        "model": "OPPO Reno12",
         "version": "CPH2625_16.0.5.700(EX01)",
         "codename": "CPH2625",
         "rom_type": "OTA",
@@ -4681,16 +4641,6 @@
     },
     {
         "model": "OPPO Reno12 F",
-        "version": "CPH2687_15.0.0.1600(EX01)",
-        "codename": "CPH2687",
-        "rom_type": "OTA",
-        "size": "5514.97 MB",
-        "md5": "9a37477835d89021e66552f2e7d6fb44",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a4c7557a0d3c4457155b5d6a8b4ebfdb/component-ota/26/01/05/f3c964241d76473fa457476014675678.zip",
-        "region": "KZ"
-    },
-    {
-        "model": "OPPO Reno12 F",
         "version": "CPH2687_16.0.5.701(EX01)",
         "codename": "CPH2687",
         "rom_type": "OTA",
@@ -4751,11 +4701,11 @@
     },
     {
         "model": "OPPO Reno12 F 5G",
-        "version": "CPH2637_16.0.3.501(EX01)",
+        "version": "CPH2637_16.0.5.701(EX01)",
         "codename": "CPH2637",
         "rom_type": "OTA",
         "size": "5499.62 MB",
-        "md5": "cb95422f13ac0704557db7c8631f80e2",
+        "md5": "321eb3392ef4cd3ca95471e38dd240aa",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-7b918b4ece78d5b5da7df8dfa584bf2c/component-ota/24/10/30/d88ad992aee94639ba70274bf0a1c817.zip",
         "region": "OCA"
     },
@@ -5444,6 +5394,16 @@
         "version": "CPH2737_16.0.5.700(EX01)",
         "codename": "CPH2737",
         "rom_type": "OTA",
+        "size": "7848.44 MB",
+        "md5": "5360c9b6f413175ce676241b443e0d12",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0d344925f6020b09d5d7aa2ba332da83/component-ota/25/10/07/429dba4b61994d9a92c606f732d2467e.zip",
+        "region": "TW"
+    },
+    {
+        "model": "OPPO Reno14",
+        "version": "CPH2737_16.0.5.700(EX01)",
+        "codename": "CPH2737",
+        "rom_type": "OTA",
         "size": "7801.51 MB",
         "md5": "d1445ff73c0707ac389b16e5b15adaf9",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-3b5ccb3cf46a9ba4a3d7e942e91909cf/component-ota/25/10/07/b743f474065345cfbb89b475a81f53a1.zip",
@@ -5636,7 +5596,7 @@
         "rom_type": "OTA",
         "size": "8538.56 MB",
         "md5": "9901ce0e5ca832740fc9761d21d98e81",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=356a1dd59491c132aa5dcb632ec93823&p=f088224e006f1388a3bc94044666de66467412927f33c0ee2b48c6899b92853412e5601fff572fbd475e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f549e207b01827bff1e&taste=0&supportDLTaste=0&mode=1&s=a93d79a6fa426780474c8ec6d2082814",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=356a1dd59491c132aa5dcb632ec93823&p=f088224e006f1388a3bc94044666de66467412927f33c0ee2b48c6899b92853412e5601fff572fbd475e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f549e207b01827bff1e&taste=0&supportDLTaste=0&mode=1&tr=manual&s=58a828a59442137ad7b24fb3aa6b5d25",
         "region": "ID"
     },
     {
@@ -5646,7 +5606,7 @@
         "rom_type": "OTA",
         "size": "8503.49 MB",
         "md5": "f900115a18564ce44a1fd9d964879043",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=b1f51389f28df45bb15b8f06ca53d23e&p=a50845bd674b8544c360414f384a7cd52bda1eff4c4244365076deeba593dc84015cf0c6979c82a8ec094b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e61dea9e207b01827c1747&taste=0&supportDLTaste=0&mode=1&s=985129889064334039fdaed8230db467",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=b1f51389f28df45bb15b8f06ca53d23e&p=a50845bd674b8544c360414f384a7cd52bda1eff4c4244365076deeba593dc84015cf0c6979c82a8ec094b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e61dea9e207b01827c1747&taste=0&supportDLTaste=0&mode=1&tr=manual&s=5fc21131bbdd7841d29f15e470905558",
         "region": "IN"
     },
     {
@@ -5656,7 +5616,7 @@
         "rom_type": "OTA",
         "size": "8505.86 MB",
         "md5": "e03e226182e9d3cb39c06861f2250527",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d2fe750790b40a445c75b1ab4e4c13d5&p=f088224e006f1388a3bc950310618537437d16c12a60c0ef2d1a9dd29cc1866010b1324caf562ce14c5a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d912a&taste=0&supportDLTaste=0&mode=1&s=a5ba19cda2a76fc1414fc952fde76c0a",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d2fe750790b40a445c75b1ab4e4c13d5&p=f088224e006f1388a3bc950310618537437d16c12a60c0ef2d1a9dd29cc1866010b1324caf562ce14c5a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d912a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=ed71f78611a879621e74a99ea18f0de9",
         "region": "MEA"
     },
     {
@@ -5666,7 +5626,7 @@
         "rom_type": "OTA",
         "size": "8734.78 MB",
         "md5": "be38b71de362874ba62ce23c5a80d1f5",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d6e8ca01d921a9c4ad6764b847b9b69f&p=f088224e006f1388a3bc91004a6f8366162f10962931c0eb78499e87c59386651bb06d45f4577cb1470b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f569e207b01827bff2e&taste=0&supportDLTaste=0&mode=1&s=e6e10b3aa7d4131e14a40dd24d40420d",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d6e8ca01d921a9c4ad6764b847b9b69f&p=f088224e006f1388a3bc91004a6f8366162f10962931c0eb78499e87c59386651bb06d45f4577cb1470b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f569e207b01827bff2e&taste=0&supportDLTaste=0&mode=1&tr=manual&s=7964025c587be5ad611d3e5267814c7b",
         "region": "MY"
     },
     {
@@ -5676,7 +5636,7 @@
         "rom_type": "OTA",
         "size": "8503.48 MB",
         "md5": "ae0458fdd6fabd6be33ee808362dded5",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6842c9852caff803962d5dcdda20ccb7&p=f088224e006f1388a3bcc50c4666d56344281290263ec0b8291d9dd2cbc4806746b3601af40029b1115a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d912f&taste=0&supportDLTaste=0&mode=1&s=81fe6413fe8085468d93bdc44de9982b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6842c9852caff803962d5dcdda20ccb7&p=f088224e006f1388a3bcc50c4666d56344281290263ec0b8291d9dd2cbc4806746b3601af40029b1115a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d912f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=bd35ce8edd5770a569f7a360a43e3974",
         "region": "PH"
     },
     {
@@ -5686,7 +5646,7 @@
         "rom_type": "OTA",
         "size": "8503.48 MB",
         "md5": "2cf190b1580f8836689ca33b47253229",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=074d2904243f5e6a1c21db43b720c375&p=f088224e006f1388a3bcc6001265d565162e15c12a63c0e92d18c6d4c992866410eb6149f8577fb6140e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f54007ddc01813d9126&taste=0&supportDLTaste=0&mode=1&s=0f8381f0ab1e722d761ffd4103d1444b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=074d2904243f5e6a1c21db43b720c375&p=f088224e006f1388a3bcc6001265d565162e15c12a63c0e92d18c6d4c992866410eb6149f8577fb6140e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f54007ddc01813d9126&taste=0&supportDLTaste=0&mode=1&tr=manual&s=d3f9bcfaab626ee3745d3ef6c6cb0e53",
         "region": "SA"
     },
     {
@@ -5696,7 +5656,7 @@
         "rom_type": "OTA",
         "size": "9146.55 MB",
         "md5": "dcd383969dd2d7a37cfdac08512f022b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3bd307b72d717dba21598312ab482e41&p=f088224e006f1388a3bc900312658432417b139c2834c0bc7e1ac7879e938b621bb3654ef4502ab3420a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f559e207b01827bff25&taste=0&supportDLTaste=0&mode=1&s=1e16e33274e329f4b1356576cf7ef345",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3bd307b72d717dba21598312ab482e41&p=f088224e006f1388a3bc900312658432417b139c2834c0bc7e1ac7879e938b621bb3654ef4502ab3420a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f559e207b01827bff25&taste=0&supportDLTaste=0&mode=1&tr=manual&s=eb7c451995aa554a8aae67b71bcc98cf",
         "region": "SG"
     },
     {
@@ -5706,7 +5666,7 @@
         "rom_type": "OTA",
         "size": "8503.49 MB",
         "md5": "a75ff4ad2f1f8c8e8595d5393d573ee2",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=cc304ab8aa00307bfc68603fef66d16a&p=f088224e006f1388a3bc9256126e82634e7a169d2930c0ec2a4bc78298c1d66741b06449fe557cb01059452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e61de9007ddc01813da918&taste=0&supportDLTaste=0&mode=1&s=4529e315746b26e565e7a1ac77b285e7",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=cc304ab8aa00307bfc68603fef66d16a&p=f088224e006f1388a3bc9256126e82634e7a169d2930c0ec2a4bc78298c1d66741b06449fe557cb01059452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e61de9007ddc01813da918&taste=0&supportDLTaste=0&mode=1&tr=manual&s=4211fbae8b902229a7bb3bcb78593a7d",
         "region": "TH"
     },
     {
@@ -5716,7 +5676,7 @@
         "rom_type": "OTA",
         "size": "8572.41 MB",
         "md5": "c42dbea779757d3949d1b86ab078f6ef",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2d7694504887d12bd67635025c40d0ab&p=f088224e006f1388a3bcc105176f8460167844c02665c0e12d499e82cbc4873543eb371eff537db74102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d9130&taste=0&supportDLTaste=0&mode=1&s=92a905acf3659fb839c87fd1a7ede8c0",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2d7694504887d12bd67635025c40d0ab&p=f088224e006f1388a3bcc105176f8460167844c02665c0e12d499e82cbc4873543eb371eff537db74102452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f55007ddc01813d9130&taste=0&supportDLTaste=0&mode=1&tr=manual&s=2ffb1d818d5d0d930a15dd32c28351bd",
         "region": "TW"
     },
     {
@@ -5726,7 +5686,7 @@
         "rom_type": "OTA",
         "size": "8503.49 MB",
         "md5": "71ae93cfb5fdcd67288a71f2b7ea0816",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5066f2394625c04d56e943e4671c93c7&p=f088224e006f1388a3bc905412668332427d43c67836c0e97a4ec6d6c494863015b66d18f8057ae74202452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f559e207b01827bff2a&taste=0&supportDLTaste=0&mode=1&s=b923358681e8140f77d520771d197e50",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5066f2394625c04d56e943e4671c93c7&p=f088224e006f1388a3bc905412668332427d43c67836c0e97a4ec6d6c494863015b66d18f8057ae74202452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d44f559e207b01827bff2a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=07e02034006918ef49d095c3974105f2",
         "region": "VN"
     },
     {
@@ -5736,7 +5696,7 @@
         "rom_type": "OTA",
         "size": "7041.85 MB",
         "md5": "c40cf0c67183b4bf211dbb0fb007d7eb",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a45c0647972b1bac0cbd10b2b131c9f4&p=f088224e006f1389a5bcc0014b64d267437d45c07b35c0ba7e139e8198c1d56241e16318f9052cb3110d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa9007ddc01813db486&taste=0&supportDLTaste=0&mode=1&s=501d7019d1750a73e62ed2143eaea6ec",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a45c0647972b1bac0cbd10b2b131c9f4&p=f088224e006f1389a5bcc0014b64d267437d45c07b35c0ba7e139e8198c1d56241e16318f9052cb3110d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa9007ddc01813db486&taste=0&supportDLTaste=0&mode=1&tr=manual&s=3e841c53d2c8c1344f617f9d5335a699",
         "region": "ID"
     },
     {
@@ -5746,7 +5706,7 @@
         "rom_type": "OTA",
         "size": "7238.07 MB",
         "md5": "697c7b14a5766b997c2950f9228c375c",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=849db7156dd2ce4d178b544dab95ac5d&p=f088224e006f1389a5bc9b5143658033162f45922a33c0e17d1dc788ce90d03514b1664cfd5127b01059452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afac007ddc01813db489&taste=0&supportDLTaste=0&mode=1&s=2a0fa738952314b75b38fa2b4d4a62c5",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=849db7156dd2ce4d178b544dab95ac5d&p=f088224e006f1389a5bc9b5143658033162f45922a33c0e17d1dc788ce90d03514b1664cfd5127b01059452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afac007ddc01813db489&taste=0&supportDLTaste=0&mode=1&tr=manual&s=3d2794a55b95afdcb3ee398b7c6519a8",
         "region": "MY"
     },
     {
@@ -5756,7 +5716,7 @@
         "rom_type": "OTA",
         "size": "7007.51 MB",
         "md5": "3a227b31f6493cbdce2371bc47927977",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6225c51a7002f90961da08bc0aef20eb&p=f088224e006f1389a5bcc6574767d4604f7e439d2736c0bf7b4b9d83c8978a361be46144f8527cbc4c58452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa8007ddc01813db485&taste=0&supportDLTaste=0&mode=1&s=eb265228e639f83e45fd85689764c70b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6225c51a7002f90961da08bc0aef20eb&p=f088224e006f1389a5bcc6574767d4604f7e439d2736c0bf7b4b9d83c8978a361be46144f8527cbc4c58452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa8007ddc01813db485&taste=0&supportDLTaste=0&mode=1&tr=manual&s=2ffc9cf4f10c456ef68acab2fd0567e5",
         "region": "OCA"
     },
     {
@@ -5766,7 +5726,7 @@
         "rom_type": "OTA",
         "size": "7006.77 MB",
         "md5": "7876c8f96e81a2d88e009937ca1d1f3e",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef600b595cf87c5c85ea8391aabc81b0&p=f088224e006f1389a5bc9706156f8367467443942d32c0e92e4c9e86c8958a3714e3601dff012eb6165f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afaa007ddc01813db487&taste=0&supportDLTaste=0&mode=1&s=ca3c28e7716dfb00a23ced33d1facf00",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef600b595cf87c5c85ea8391aabc81b0&p=f088224e006f1389a5bc9706156f8367467443942d32c0e92e4c9e86c8958a3714e3601dff012eb6165f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afaa007ddc01813db487&taste=0&supportDLTaste=0&mode=1&tr=manual&s=220b19c0ef73e050055efb7e6900a19d",
         "region": "PH"
     },
     {
@@ -5776,7 +5736,7 @@
         "rom_type": "OTA",
         "size": "7006.77 MB",
         "md5": "cfdc903740419e4e64e0e88a4d689acd",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5805014ce2f757c2c6f90fce439598cc&p=f088224e006f1389a5bcc002166087334e29149d7d36c0e97f1e9e89c992806315eb6c1aab552de51703452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afab9e207b01827c22c7&taste=0&supportDLTaste=0&mode=1&s=c53a8cdf9f8a3abc33fd8f0310f8241b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5805014ce2f757c2c6f90fce439598cc&p=f088224e006f1389a5bcc002166087334e29149d7d36c0e97f1e9e89c992806315eb6c1aab552de51703452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afab9e207b01827c22c7&taste=0&supportDLTaste=0&mode=1&tr=manual&s=188f6eb20bab4e42eff027ab45db49e1",
         "region": "SA"
     },
     {
@@ -5786,7 +5746,7 @@
         "rom_type": "OTA",
         "size": "7649.84 MB",
         "md5": "22ae6a8e6c4a5083f8cce29260799dbb",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a0df9a8bf0c4030b1a083f58ee207e12&p=f088224e006f1389a5bc97061133d6664f2f43c27d67c0e878129e879c93d1631ae5651aaf532fb7400b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afad007ddc01813db48a&taste=0&supportDLTaste=0&mode=1&s=7afa93bdcac12f12ea8088c2ee1539c5",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=a0df9a8bf0c4030b1a083f58ee207e12&p=f088224e006f1389a5bc97061133d6664f2f43c27d67c0e878129e879c93d1631ae5651aaf532fb7400b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afad007ddc01813db48a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=fd6cbf6ec5003ae016cae0c47ca83b7f",
         "region": "SG"
     },
     {
@@ -5796,7 +5756,7 @@
         "rom_type": "OTA",
         "size": "7006.77 MB",
         "md5": "9a7ae12f7c93e635cc2bc5c608748270",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e0ea1c7662664be5d91d726b496f03d3&p=f088224e006f1389a5bc910c1532d3324728119d2833c0b82e18c6d49f9e8a3012b1304cfb022cb2440c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afae007ddc01813db48b&taste=0&supportDLTaste=0&mode=1&s=1d25f0227b6f9b316980d72626e97305",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e0ea1c7662664be5d91d726b496f03d3&p=f088224e006f1389a5bc910c1532d3324728119d2833c0b82e18c6d49f9e8a3012b1304cfb022cb2440c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afae007ddc01813db48b&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a761b2b617465b4d9cf9e48f4ed04b69",
         "region": "TH"
     },
     {
@@ -5806,7 +5766,7 @@
         "rom_type": "OTA",
         "size": "7075.69 MB",
         "md5": "4569e4a4253c4fa6239c502810c7cd7c",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef52e24c835e9e3e40bfdbd0d08e884d&p=f088224e006f1389a5bcc006443285664e7c14c22e37c0ee2a129dd49e9f866444e5304ffa0128e74703452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afaa007ddc01813db488&taste=0&supportDLTaste=0&mode=1&s=c0c8fc19799de618a57537f17766483a",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef52e24c835e9e3e40bfdbd0d08e884d&p=f088224e006f1389a5bcc006443285664e7c14c22e37c0ee2a129dd49e9f866444e5304ffa0128e74703452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afaa007ddc01813db488&taste=0&supportDLTaste=0&mode=1&tr=manual&s=52a2da1e9ed6ce39fbdec68a80df0cea",
         "region": "TW"
     },
     {
@@ -5816,7 +5776,7 @@
         "rom_type": "OTA",
         "size": "7006.77 MB",
         "md5": "0d9f8682dd7cc9eca8514e2c7fb53d15",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=563d8dd108f296a0d0ada5d368d765e8&p=f088224e006f1389a5bc900d1262d469117d4793783ec0eb7e1f9d89c592823113e33044ae577bb71658452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa89e207b01827c22c6&taste=0&supportDLTaste=0&mode=1&s=014265ce809a4b51a22aca140064f4fc",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=563d8dd108f296a0d0ada5d368d765e8&p=f088224e006f1389a5bc900d1262d469117d4793783ec0eb7e1f9d89c592823113e33044ae577bb71658452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f0afa89e207b01827c22c6&taste=0&supportDLTaste=0&mode=1&tr=manual&s=71c3d4d500dacfd19b8392706ad6735a",
         "region": "VN"
     },
     {
@@ -5826,7 +5786,7 @@
         "rom_type": "OTA",
         "size": "8287.93 MB",
         "md5": "95d4446be5c2445f6244b1669a883a3d",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3eabd1ef4987c35d749586a8c83ab487&p=a50845bd674b8544c060124068497d857f8a48f84d4244630673dee9f5c2d5d2005da2c0c59ed2f8e55c4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169c007ddc01813daa4f&taste=0&supportDLTaste=0&mode=1&s=4d90a29a8164a9e53ce3063fd1e126b0",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3eabd1ef4987c35d749586a8c83ab487&p=a50845bd674b8544c060124068497d857f8a48f84d4244630673dee9f5c2d5d2005da2c0c59ed2f8e55c4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169c007ddc01813daa4f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=0f3c89ec1374425342dbe3d4a31c912c",
         "region": "IN"
     },
     {
@@ -5836,7 +5796,7 @@
         "rom_type": "OTA",
         "size": "8668.67 MB",
         "md5": "aa05ec46a0f519246417609e700b3779",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=198c1c614b7c835373d2407fd08cba6f&p=f088224e006f1388a2bc90534133d2674f7512977862c0bf7a1d9d83c89ed03643b6634bf5522eb24603452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d29e207b01827c18f5&taste=0&supportDLTaste=0&mode=1&s=149dd400f5c906ba28bb9034153af49d",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=198c1c614b7c835373d2407fd08cba6f&p=f088224e006f1388a2bc90534133d2674f7512977862c0bf7a1d9d83c89ed03643b6634bf5522eb24603452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d29e207b01827c18f5&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a957d144a816779e495c63e6eaa7a0df",
         "region": "MY"
     },
     {
@@ -5846,7 +5806,7 @@
         "rom_type": "OTA",
         "size": "8438.11 MB",
         "md5": "f429efab2d24353508e5eb2990942824",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=706a6e1ac3665ffaa11ceda36408e83b&p=f088224e006f1388a2bc94544567d337137a18942b31c0ed2c49c7d3cdc3d63116e7664df5557ab21402452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d38d2f9e207b01827bfec1&taste=0&supportDLTaste=0&mode=1&s=f3b8f1a662234f34601c2194b2b498c0",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=706a6e1ac3665ffaa11ceda36408e83b&p=f088224e006f1388a2bc94544567d337137a18942b31c0ed2c49c7d3cdc3d63116e7664df5557ab21402452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d38d2f9e207b01827bfec1&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a5dc780ffcf8349ab253961c106398aa",
         "region": "OCA"
     },
     {
@@ -5856,7 +5816,7 @@
         "rom_type": "OTA",
         "size": "8437.38 MB",
         "md5": "ecc6175ae696331170a60d903380cb10",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=977eb9ec1a7e26dc86a56d7eb7ca246c&p=f088224e006f1388a2bcc50c4032d6354e2845922b31c0ea771cc6869fc3d66040e1644baf567fe0130c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d3007ddc01813daaa9&taste=0&supportDLTaste=0&mode=1&s=4e017a8d8e5669b94a67291efbcdaf7a",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=977eb9ec1a7e26dc86a56d7eb7ca246c&p=f088224e006f1388a2bcc50c4032d6354e2845922b31c0ea771cc6869fc3d66040e1644baf567fe0130c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d3007ddc01813daaa9&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6ab427f034bd367269bb082c234e8ac6",
         "region": "PH"
     },
     {
@@ -5866,7 +5826,7 @@
         "rom_type": "OTA",
         "size": "8437.37 MB",
         "md5": "01a4840b7f7444f0e9f2cce030f6c1e5",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2814979457794235e2255af17cd9b31d&p=f088224e006f1388a2bcc7004435df30137943c62b31c0e02d13c683c9c683621ae56419fd5627b21003452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d29e207b01827c18f4&taste=0&supportDLTaste=0&mode=1&s=f475e4a71056e2d488284b284436e227",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2814979457794235e2255af17cd9b31d&p=f088224e006f1388a2bcc7004435df30137943c62b31c0e02d13c683c9c683621ae56419fd5627b21003452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d29e207b01827c18f4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=4c864a0498c531a70d0d867a4de73e13",
         "region": "SA"
     },
     {
@@ -5876,7 +5836,7 @@
         "rom_type": "OTA",
         "size": "8437.38 MB",
         "md5": "70e0d0794641ec61cf120afe7d0c80d2",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e13a46a2deb68c7df685dc75a744dec1&p=f088224e006f1388a2bc92021134d567442847927b63c0e07c1cc7809e9e8b6413eb6744f80128b04459452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e231f39e207b01827c1469&taste=0&supportDLTaste=0&mode=1&s=41648504a42aeddfb8e5aa02f8be0a67",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e13a46a2deb68c7df685dc75a744dec1&p=f088224e006f1388a2bc92021134d567442847927b63c0e07c1cc7809e9e8b6413eb6744f80128b04459452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e231f39e207b01827c1469&taste=0&supportDLTaste=0&mode=1&tr=manual&s=c0b428c10d054be7d8c86643add39107",
         "region": "TH"
     },
     {
@@ -5886,7 +5846,7 @@
         "rom_type": "OTA",
         "size": "8506.3 MB",
         "md5": "0cae4dbaa4784771df3bab872147295e",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b0e9b6e8776abefa96b7b25f18317956&p=f088224e006f1388a2bcc7504567d0664e7a14c72e3fc0ee2b1a9e80ca92d76346e33519fc077db71458452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d19e207b01827c18f3&taste=0&supportDLTaste=0&mode=1&s=0a83bb21505eaace54db627e40bf69d8",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b0e9b6e8776abefa96b7b25f18317956&p=f088224e006f1388a2bcc7504567d0664e7a14c72e3fc0ee2b1a9e80ca92d76346e33519fc077db71458452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e759d19e207b01827c18f3&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b37b3ab77d9f6368a42531d2788a4b81",
         "region": "TW"
     },
     {
@@ -5896,7 +5856,7 @@
         "rom_type": "OTA",
         "size": "8437.31 MB",
         "md5": "02cf03fc2bff24834fda09b29f18d5f3",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=120d3f7ae5652c350faea2efc72c1bc3&p=f088224e00681388a2bcc50d4064d1334f2813937b37c0ed78199ed3cbc5d03440e3311ef8552fb6160e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c6b80f9e207b017bab2384&taste=0&supportDLTaste=0&mode=1&s=0046e88af2b49807679aed08db6172cf",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=120d3f7ae5652c350faea2efc72c1bc3&p=f088224e00681388a2bcc50d4064d1334f2813937b37c0ed78199ed3cbc5d03440e3311ef8552fb6160e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69c6b80f9e207b017bab2384&taste=0&supportDLTaste=0&mode=1&tr=manual&s=afa93ac58f42baed710f72663e76bc47",
         "region": "VN"
     },
     {
@@ -5906,7 +5866,7 @@
         "rom_type": "OTA",
         "size": "8323.0 MB",
         "md5": "13015cace9733a1aa395dc4ce031594a",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef5e943f697df428c252f0b98413e77a&p=f088224e006f1388a0bcc1014a33d668457b13912e36c0bc2c18c7869c9fd16246b0371ff85628e6445d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169c9e207b01827c188d&taste=0&supportDLTaste=0&mode=1&s=ed917c6cd37c9b0a569efcf3fe098ef4",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ef5e943f697df428c252f0b98413e77a&p=f088224e006f1388a0bcc1014a33d668457b13912e36c0bc2c18c7869c9fd16246b0371ff85628e6445d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169c9e207b01827c188d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=e92630e7a91c91ba4dad3e541a778c5a",
         "region": "ID"
     },
     {
@@ -5916,7 +5876,7 @@
         "rom_type": "OTA",
         "size": "8930.99 MB",
         "md5": "087f600238d2a13cc1d4b06dcf41091a",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=efffae0a78cc6f551ad7be94ec040266&p=f088224e006f1388a0bcc0024564d460402816c57b35c0ee7f1a9e88c8c3d76243e76545fd5c2ee6410a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169b9e207b01827c188b&taste=0&supportDLTaste=0&mode=1&s=186cefe6c3aea071d643a84733c76523",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=efffae0a78cc6f551ad7be94ec040266&p=f088224e006f1388a0bcc0024564d460402816c57b35c0ee7f1a9e88c8c3d76243e76545fd5c2ee6410a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169b9e207b01827c188b&taste=0&supportDLTaste=0&mode=1&tr=manual&s=e192d1d99f3c33cfb1100a6407df1651",
         "region": "SG"
     },
     {
@@ -5926,7 +5886,7 @@
         "rom_type": "OTA",
         "size": "8287.93 MB",
         "md5": "a45a27b95bf09c033bd220d150a35f73",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=154443317f5e87a1688f6fe93e0e1068&p=f088224e006f1388a0bcc550156280324e7413c62765c0eb7d1bc783cb90d26314e66d4efb012eb2140f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169b9e207b01827c188c&taste=0&supportDLTaste=0&mode=1&s=2cfccef4bdb6f784e9b08be97039ec44",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=154443317f5e87a1688f6fe93e0e1068&p=f088224e006f1388a0bcc550156280324e7413c62765c0eb7d1bc783cb90d26314e66d4efb012eb2140f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e7169b9e207b01827c188c&taste=0&supportDLTaste=0&mode=1&tr=manual&s=67907436bdf9a95c118d6449019fcc42",
         "region": "TH"
     },
     {
@@ -5936,7 +5896,7 @@
         "rom_type": "OTA",
         "size": "8356.85 MB",
         "md5": "854c1bcd2c0f88fdd4c59cf3f8bd0958",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c38dee5b048d1e80f18127fdeb111d4b&p=f088224e006f1388a0bc9a0217318063117c40902b65c0b87713c7d69b91d0631aea664af5072cbc4c5d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d07f4e9e207b01827bfe92&taste=0&supportDLTaste=0&mode=1&s=5f878fa704bd31d96ce1045a69c4a447",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c38dee5b048d1e80f18127fdeb111d4b&p=f088224e006f1388a0bc9a0217318063117c40902b65c0b87713c7d69b91d0631aea664af5072cbc4c5d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69d07f4e9e207b01827bfe92&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a24cd8aa64c31b7a7d69456a0d914d90",
         "region": "TW"
     },
     {
@@ -5946,7 +5906,7 @@
         "rom_type": "OTA",
         "size": "8437.38 MB",
         "md5": "87686fd806000fb0484982ea48067472",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=633604f986e30d686f5cf1d935b95392&p=a50845bd674b8544c2601214644973d4748e4ff94544446c5621ddebfd94d5845c0aa2c3979ad2fae45a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e741839e207b01827c18d4&taste=0&supportDLTaste=0&mode=1&s=fbfcaefdb60acb5b1e29aa0389f153f9",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=633604f986e30d686f5cf1d935b95392&p=a50845bd674b8544c2601214644973d4748e4ff94544446c5621ddebfd94d5845c0aa2c3979ad2fae45a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e741839e207b01827c18d4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=e35b985af016c3c19be68a56ef440270",
         "region": "IN"
     },
     {
@@ -6626,7 +6586,7 @@
         "rom_type": "OTA",
         "size": "8647.94 MB",
         "md5": "8f4705a5a6d88c01911ee7f6a0d6883a",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3a6d1325b70a7bcff58d4ba76fe90a31&p=f088224e006f1389a7bc955647348068127f15c72f35c0b87c129d89cec1873647e76c18fc547bb4400f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef7355007ddc01813db369&taste=0&supportDLTaste=0&mode=1&s=6cff5cf602f6bdf7889ad34c69e38dbc",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3a6d1325b70a7bcff58d4ba76fe90a31&p=f088224e006f1389a7bc955647348068127f15c72f35c0b87c129d89cec1873647e76c18fc547bb4400f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69ef7355007ddc01813db369&taste=0&supportDLTaste=0&mode=1&tr=manual&s=08e4d74356a311b1935f5e9b71d4f46e",
         "region": "GLO"
     },
     {
@@ -6636,7 +6596,7 @@
         "rom_type": "OTA",
         "size": "8905.85 MB",
         "md5": "1750d1ea5a4f7d08e9753f4e13a740a8",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=2e9a386a1b52a479ae295de774ba8fc4&p=a50845bd674e8546cc601242644971d02fd81fff4c134466507684e4f492db830d5ffec6c0c681ffe0064b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69893c31007ddc017e03e816&taste=0&supportDLTaste=0&mode=1&s=3a320761133fe5ce8e6810f47e239d1e",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=2e9a386a1b52a479ae295de774ba8fc4&p=a50845bd674e8546cc601242644971d02fd81fff4c134466507684e4f492db830d5ffec6c0c681ffe0064b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69893c31007ddc017e03e816&taste=0&supportDLTaste=0&mode=1&tr=manual&s=7894d2ac766fdcb4f8d26d9d1eca566a",
         "region": "IN"
     },
     {
@@ -6646,7 +6606,7 @@
         "rom_type": "OTA",
         "size": "7167.42 MB",
         "md5": "ce566ccb9d77239f3ca7a440986311da",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b4395a1f7497ce5a938b77a59a879a15&p=f088224e00681389a5bcc00d4b36df32422914967b33c0bd7b129ed199c382321ae5624cfa5d7fe74709452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69baa0fb9e207b017bab125c&taste=0&supportDLTaste=0&mode=1&s=8d38dbd943affabf7f2f9f0a4f9afba1",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b4395a1f7497ce5a938b77a59a879a15&p=f088224e00681389a5bcc00d4b36df32422914967b33c0bd7b129ed199c382321ae5624cfa5d7fe74709452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69baa0fb9e207b017bab125c&taste=0&supportDLTaste=0&mode=1&tr=manual&s=002e9de6bece6b8c1ed7dd5b1b7f5995",
         "region": "GLO"
     },
     {
@@ -6656,7 +6616,7 @@
         "rom_type": "OTA",
         "size": "7496.67 MB",
         "md5": "722dfa2e4c68d17231a1aa7839db1445",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=f03f86e006c4f8021913b4695ddb3f77&p=a50845bd674c8545c5601f47394a7cd32edd1cff414e446d032084baf1c2ded10e5da292929ad5f6e1594b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69c0f869007ddc017e041cdc&taste=0&supportDLTaste=0&mode=1&s=f52a640a5378862c34c1d80c82f2ab6e",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=f03f86e006c4f8021913b4695ddb3f77&p=a50845bd674c8545c5601f47394a7cd32edd1cff414e446d032084baf1c2ded10e5da292929ad5f6e1594b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69c0f869007ddc017e041cdc&taste=0&supportDLTaste=0&mode=1&tr=manual&s=cf405640cdd3e49df6fe97d4645e6670",
         "region": "IN"
     },
     {
@@ -7176,7 +7136,7 @@
         "rom_type": "OTA",
         "size": "6904.66 MB",
         "md5": "0353dff50956e0a1f3c2156f547b8956",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=edea3fa9ca3f991f9d20b5b05809d7c7&p=f088224e006f138aa5bc97501260d0654f7515917b64c0ec794f9e8799c1d7621ae06349ae512eb71009452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f06f0b007ddc01813db420&taste=0&supportDLTaste=0&mode=1&s=869e8ef7782217f3c6c6137d3072a8df",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=edea3fa9ca3f991f9d20b5b05809d7c7&p=f088224e006f138aa5bc97501260d0654f7515917b64c0ec794f9e8799c1d7621ae06349ae512eb71009452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69faa806007ddc01813db6ed&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6bdb582a0491cf829a2d732d59c92e33",
         "region": "GLO"
     },
     {
@@ -7184,9 +7144,9 @@
         "version": "CPH2793_16.0.5.702(EX01)",
         "codename": "CPH2793",
         "rom_type": "OTA",
-        "size": "7235.63 MB",
+        "size": "7235.39 MB",
         "md5": "40297974ead5f9fbb2d6b6056a47432c",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=cd9d1ace91f96dc2359ee40c791f9044&p=a50845bd674c8546c16014453e4a21842fde10f9161744635422deebf797dedc0159f1cf91ca81fde50b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69c31f5c007ddc017e042054&taste=0&supportDLTaste=0&mode=1&s=45e956c93e66e3a44043156716d32d4c",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=5300732f71f74d364818694aaa1a0a38&p=a50845bd674b8546c5604142384a70d12edf4daf131444335120deeff5c48edd0c0af1c7c0ca86ade60a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69faa807007ddc01813db6ee&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b2bf7649301702bfba29c49f3faf5237",
         "region": "IN"
     },
     {
@@ -7490,16 +7450,6 @@
         "region": "GLO"
     },
     {
-        "model": "OnePlus Pad",
-        "version": "OPD2203_15.0.0.1351(EX01)",
-        "codename": "OPD2203",
-        "rom_type": "OTA",
-        "size": "339.94 MB",
-        "md5": "f12f0acc0a8f3b84218359d7bccd5ac8",
-        "url": "https://android.googleapis.com/packages/ota-api/package/0354a35e17222a2730ddfce370f80d76b5708313.zip",
-        "region": "NA"
-    },
-    {
         "model": "OnePlus Pad 2",
         "version": "OPD2403_16.0.5.701(EX01)",
         "codename": "OPD2403",
@@ -7596,7 +7546,7 @@
         "rom_type": "OTA",
         "size": "6186.65 MB",
         "md5": "6330792f7a20b73ce1a5e3870f286ea7",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3aa976f631cbc4b8771994a7a085bd2b&p=f088224e00681389acbcc0061060d565122916c27f62c0e97a1a9dd2c897d26015e6361ea95c7de0475f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128f&taste=0&supportDLTaste=0&mode=1&s=9e5207ab259361cd58e941fc257ee9d7",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3aa976f631cbc4b8771994a7a085bd2b&p=f088224e00681389acbcc0061060d565122916c27f62c0e97a1a9dd2c897d26015e6361ea95c7de0475f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=baf456767c535908ed0194eb593fff4f",
         "region": "GLO"
     },
     {
@@ -7606,7 +7556,7 @@
         "rom_type": "OTA",
         "size": "6291.82 MB",
         "md5": "d341aa9df43071fe707267a73fe58df9",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3bc25245591c4ca10c5de60d40b6e66e&p=a50845bd674c8545cc604345651d728478df10f511424430577085b8a1c3da835c0bf3c696c785abb55d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb3a7e007ddc01813db14a&taste=0&supportDLTaste=0&mode=1&s=89764829e1e01b8de7cd3deaeec0f5b9",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3bc25245591c4ca10c5de60d40b6e66e&p=a50845bd674c8545cc604345651d728478df10f511424430577085b8a1c3da835c0bf3c696c785abb55d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb3a7e007ddc01813db14a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=04ad627272cb2b48ecec6c9c7e0fef67",
         "region": "IN"
     },
     {
@@ -7616,7 +7566,7 @@
         "rom_type": "OTA",
         "size": "6095.39 MB",
         "md5": "fbe1142763f1e31385f4081c33a02e94",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=16937eb881db2eaffef29c531b00bcae&p=f088224e00681389acbc96064733de61112914c72c3ec0e92d4b9e879ec58a371bb63749a8557abc1602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128a&taste=0&supportDLTaste=0&mode=1&s=e1b201a7aad8ab3ed3f916d7f5e5bc35",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=16937eb881db2eaffef29c531b00bcae&p=f088224e00681389acbc96064733de61112914c72c3ec0e92d4b9e879ec58a371bb63749a8557abc1602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b1c3dc1233e3039e57a41cdbfb4512f1",
         "region": "GLO"
     },
     {
@@ -7626,7 +7576,7 @@
         "rom_type": "OTA",
         "size": "6200.56 MB",
         "md5": "a8a2ed95c00038574a3dd8e295c65861",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=47ba026fb59889a00cbfc5efecb179f8&p=a50845bd674c8545cc6044406c4f7cd97bd11ff94c1744600576deb8a5c1dad70d0dfe94c7cbd1f6e60f4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb3a7f9e207b01827c1fc4&taste=0&supportDLTaste=0&mode=1&s=a2671cc1ee8b13dee282ce39db59bf33",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=47ba026fb59889a00cbfc5efecb179f8&p=a50845bd674c8545cc6044406c4f7cd97bd11ff94c1744600576deb8a5c1dad70d0dfe94c7cbd1f6e60f4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb3a7f9e207b01827c1fc4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=da1d1d436bb5f435122b9b54b6fbef5c",
         "region": "IN"
     },
     {
@@ -7636,7 +7586,7 @@
         "rom_type": "OTA",
         "size": "6095.39 MB",
         "md5": "91dc3ffcd6dd11bdc0775feb375e421d",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=16937eb881db2eaffef29c531b00bcae&p=f088224e00681389acbc96064733de61112914c72c3ec0e92d4b9e879ec58a371bb63749a8557abc1602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128a&taste=0&supportDLTaste=0&mode=1&s=e1b201a7aad8ab3ed3f916d7f5e5bc35",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=16937eb881db2eaffef29c531b00bcae&p=f088224e00681389acbc96064733de61112914c72c3ec0e92d4b9e879ec58a371bb63749a8557abc1602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69bab8b69e207b017bab128a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b1c3dc1233e3039e57a41cdbfb4512f1",
         "region": "NA"
     },
     {
@@ -7708,6 +7658,16 @@
         "md5": "c3fa5b862bbbed2fe965c2aeb9e828b5",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-3c48b360b03ac3e892686d849c8f3a8c/component-ota/25/10/23/1e52fa4a76e941989fabc9f6bc1d9199.zip",
         "region": "ID"
+    },
+    {
+        "model": "realme 10 4G",
+        "version": "RMX3630_14.0.0.2710(EX01)",
+        "codename": "RMX3630",
+        "rom_type": "OTA",
+        "size": "5687.33 MB",
+        "md5": "748c07a109319b34faef4972e70323a6",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a639056b9d3fba514375316b99a2142d/component-ota/26/01/05/5541dbade44740529d3def1ad02b72ed.zip",
+        "region": "IN"
     },
     {
         "model": "realme 10 4G",
@@ -8114,6 +8074,16 @@
         "version": "RMX3636_15.0.0.1631(EX01)",
         "codename": "RMX3636",
         "rom_type": "OTA",
+        "size": "6487.55 MB",
+        "md5": "1b0a41c87adfe5f9b9a0388074e15553",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-262247274fdbea61a75403daa7daee5b/component-ota/26/03/24/ede801542d0e47ff933461d04fdcf0e9.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme 11 4G",
+        "version": "RMX3636_15.0.0.1631(EX01)",
+        "codename": "RMX3636",
+        "rom_type": "OTA",
         "size": "6304.44 MB",
         "md5": "3b869b6e3fa2fc4a5e239671e745a422",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-01038650dc00d6730005390a50368666/component-ota/26/03/24/fc8b029442db4b5e9c77abe193963aca.zip",
@@ -8161,12 +8131,12 @@
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6704.88 MB",
-        "md5": "4fed4e13f1c6a63fbf8179ac707db379",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-53041f6523935bb22e67bdc2137f5212/component-ota/26/02/25/08586c89e7104fc0a57891ec6e3fd69c.zip",
+        "size": "591.19 MB",
+        "md5": "8e634db666a2c7fd2e42ebaed8f409c8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d607296232074d894527eb91a4dad7d1/component-ota/26/04/20/651c9b2f7b2646e6b27c01f9b4e6474d.zip",
         "region": "ID"
     },
     {
@@ -8191,62 +8161,62 @@
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6672.45 MB",
-        "md5": "8bd87ea7f6e81e21edbd35ca6de87ab4",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8ae0b939cd46419170b43866d7f506f8/component-ota/26/02/25/f451684cd5d44812bce542eba55fa220.zip",
+        "size": "584.85 MB",
+        "md5": "4c6823789705ef077513d16065c80985",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-a8cde4859c739ca673547799ce5d0206/component-ota/26/04/20/4ddfe0977791464e9d59f4fa393f71ce.zip",
         "region": "MEA"
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6901.53 MB",
-        "md5": "f30ae09a79cbfcdd4ed36accff69e819",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4d113279ce7ecd7dcfd5c168f8fe62b4/component-ota/26/02/25/c04c7a5581df44d4ab523d7f6230335e.zip",
+        "size": "584.86 MB",
+        "md5": "d3e0224b18037d504d3b266b1e675654",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-81425073f104d43b7bfb19098e03f34d/component-ota/26/04/20/f9ca3d624d4b451ba19b74958a8901c8.zip",
         "region": "MY"
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6670.06 MB",
-        "md5": "ab6f29adbaf0177070a7a1e78b0a1767",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ccb6f55dee0c86d9a051343a9d17efed/component-ota/26/02/25/2a3bb61bf6d04d369749f0423429c41f.zip",
+        "size": "584.85 MB",
+        "md5": "33ff440686ba6c6e1756e9c8b2d8d2dc",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-88e6e4c5d6e775accf2109e649b0e520/component-ota/26/04/20/a0bf9f45658b4d1683d10b25ca0d6d28.zip",
         "region": "PH"
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6573.1 MB",
-        "md5": "0fb7f3fff32011a0303196a4de6c7b61",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4df062fdb991a1aebaba8822113db392/component-ota/26/02/25/7637a8280185498ea1e4a09c99529669.zip",
+        "size": "584.61 MB",
+        "md5": "8b62ca0b35bd408b73b0141ffc662e24",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8b4a93adae38bf8d79329f7e8c437eef/component-ota/26/04/20/97fb19ebdec8415f92c44e95bcc57cbd.zip",
         "region": "RU"
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6670.06 MB",
-        "md5": "989ebab08aed0055f190f80092ddb38b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ee9ecaac42c94d49ac28f87b5517dda4/component-ota/26/02/25/6c31cf841b184102813a0d265953531d.zip",
+        "size": "584.85 MB",
+        "md5": "cb1fa80913e84987eb98a9d36d75ce62",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-0b89ef3f04ba7eb4829ddc05eb02c682/component-ota/26/04/20/0d6834994d1a409c99ec7af49e235544.zip",
         "region": "SA"
     },
     {
         "model": "realme 11 Pro",
-        "version": "RMX3771_15.0.0.1630(EX01)",
+        "version": "RMX3771_15.0.0.1800(EX01)",
         "codename": "RMX3771",
         "rom_type": "OTA",
-        "size": "6623.34 MB",
-        "md5": "e66a05047f1d83865662f748d1ad6541",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-38967ddc28df72768c2996c09659ed65/component-ota/26/02/25/63671efc70524c29b17a3e1f37c0b3aa.zip",
+        "size": "584.83 MB",
+        "md5": "12b8cdfeb079466f3f5f22e4bf17f992",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d99929d6f8101a6aee7c8e099586ad66/component-ota/26/04/20/7d28ec8a48f64fdca40aff25e9738974.zip",
         "region": "TH"
     },
     {
@@ -8281,12 +8251,12 @@
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6689.8 MB",
-        "md5": "3707d7065bad6b0004bd8c33a320831b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e43a3de0e51d73727dceb4f1482698aa/component-ota/26/02/25/2055f18830174c1b95e7449fc2ff12c2.zip",
+        "size": "564.64 MB",
+        "md5": "3767e472781f3da6f03d4f3e297e2fad",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cf4800b5987c5d3cdc35ea898a82f985/component-ota/26/04/20/9a93853960bc435fa82f862ad5f8bd3e.zip",
         "region": "BR"
     },
     {
@@ -8301,12 +8271,12 @@
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6757.26 MB",
-        "md5": "5cbeee5a42d1b143c123da39bc6804d7",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-dcb319b6f2f4a6f27f94e9f25a23650e/component-ota/26/02/25/9e70d97143804aaca95cee0e2d3283ea.zip",
+        "size": "591.2 MB",
+        "md5": "851950de29dd65b54acdc37ca5cf0484",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-78996e209ef1d861ca9f038d1962fb0f/component-ota/26/04/20/0d8a083ca94448068c78dc3073582c4f.zip",
         "region": "ID"
     },
     {
@@ -8331,62 +8301,62 @@
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6724.83 MB",
-        "md5": "a922bd57b8bbeca9148a28195c372b09",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d72b47fd1cdf65288ff4f85498547247/component-ota/26/02/25/0959f7dd418a4c2e8faa071fb8fa7553.zip",
+        "size": "584.87 MB",
+        "md5": "bd4d1efd573ea9450c1092e7e2172636",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e810aaa9056a0c1df85d6a1944b99473/component-ota/26/04/20/72ef8f2113ef4d5783c6305402b9de58.zip",
         "region": "MEA"
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6953.91 MB",
-        "md5": "a7d610cad0592d218f3aec0c95a9da2b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-64057e6af4cf3cc346a74985a22c8b7e/component-ota/26/02/25/d9e9198dcbd049a294bf0a41226c844d.zip",
+        "size": "584.88 MB",
+        "md5": "7f4a65ef236074b94925fe3c2349e389",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-ffcf44a47c7b38ab4931d2765f77b720/component-ota/26/04/20/abdc097fe97842f9b16cfefbb27129b6.zip",
         "region": "MY"
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6722.44 MB",
-        "md5": "527d2b87e29b14d7ecf9d1c4597fdc5d",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f0bfb8a4052f4dbe032e723449cfe6bf/component-ota/26/02/25/e259c519a234499c911d4fcb90939ce0.zip",
+        "size": "584.86 MB",
+        "md5": "d7c350af7c663cfd89420c9262949262",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-15660e15c6bd31bd7c8a87ab65e3ae5a/component-ota/26/04/20/abe23901569941c59d5b5f54c9be8bde.zip",
         "region": "PH"
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6625.48 MB",
-        "md5": "e109ae660634295cb78ee70f9c950f3c",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-335d7485c3231e6771669d2ec38fe89e/component-ota/26/02/25/e3beef6f472a4be3a56343b83bfb015a.zip",
+        "size": "584.63 MB",
+        "md5": "1231daa33e7ee348b3882f5ade25bcbd",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-87cdde908bd711c0d3a758740fb0c754/component-ota/26/04/20/efb35f16f8cd4a3b88f1228640bb00e9.zip",
         "region": "RU"
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6722.45 MB",
-        "md5": "e1ca6b71e51b8d20ef4d545fcee904af",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-fc753bb88c79d69be395ca10de9e599a/component-ota/26/02/25/7184019f184d431f873a9e3d217a60bf.zip",
+        "size": "584.86 MB",
+        "md5": "b4c51f3a65db4c51bcc272d9a0561adf",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d31a8f31a9df27c8c1018bd3e47f8a65/component-ota/26/04/20/35ba760f06764c0a9fa162664d80f854.zip",
         "region": "SA"
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6675.73 MB",
-        "md5": "6a0d1afc787fd419eb8dcbe1cc44cd0b",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b44f27442d96db0d35914f6d81b46a19/component-ota/26/02/25/13fabaeb9b264933b1506b19bbe28d7e.zip",
+        "size": "584.85 MB",
+        "md5": "b5ab23bec639e207fa58eabd2d65c7f4",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-09c1f8db1ca8caf1e4e0f8c0cc71e4ea/component-ota/26/04/20/b030b341ebfb46e8aa0c788b9a40e761.zip",
         "region": "TH"
     },
     {
@@ -8411,12 +8381,12 @@
     },
     {
         "model": "realme 11 Pro+",
-        "version": "RMX3741_15.0.0.1630(EX01)",
+        "version": "RMX3741_15.0.0.1800(EX01)",
         "codename": "RMX3741",
         "rom_type": "OTA",
-        "size": "6722.45 MB",
-        "md5": "8656f976ed2591eca6b70525bb7a2e4f",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-aad4cbe11dfbc3210c0ed44eedbc1739/component-ota/26/02/25/ad1a903adcd64a3ba346d45040df5810.zip",
+        "size": "584.86 MB",
+        "md5": "460f3aec1526b353d15e8c2fc67e67fb",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-dcc9beb190f64a4caa5cffd5bdf16e2a/component-ota/26/04/20/a4c9982c36e940f289a75ceb68a48e0f.zip",
         "region": "VN"
     },
     {
@@ -9254,16 +9224,6 @@
         "version": "RMX5106_16.0.5.710(EX01)",
         "codename": "RMX5106",
         "rom_type": "OTA",
-        "size": "7539.48 MB",
-        "md5": "cfab16f33219a2e43f2afef4166c3999",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1efde2ac3b34df2d58379ad88d41791f/component-ota/25/11/20/23c7fdf831a7402f977403aae52746b4.zip",
-        "region": "PH"
-    },
-    {
-        "model": "realme 15",
-        "version": "RMX5106_16.0.5.710(EX01)",
-        "codename": "RMX5106",
-        "rom_type": "OTA",
         "size": "7557.21 MB",
         "md5": "f0cb9011c1a507e63699fdd696f5fcb7",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-811341579a5e8ac2b3ea4eaa6baa42a1/component-ota/25/11/20/0b9f35ebca57403688d5921ff4ebaa91.zip",
@@ -9311,11 +9271,11 @@
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7578.12 MB",
-        "md5": "2bb0f29c0a6fbdc580365ce599b310b4",
+        "md5": "1e5c46489fbc0bee6b2b094ca69e8195",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-a0ff81a1e3479529348a11f9d701eaa2/component-ota/25/10/22/9a16941ff9304485aea8f1ea278b2540.zip",
         "region": "ID"
     },
@@ -9351,61 +9311,61 @@
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7505.56 MB",
-        "md5": "0e66b6e37585284cac9ab69812cf27b4",
+        "md5": "d5573e5ff96797c105936d8c0e8f8385",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-29096cd71ddfe66ae181745feae969d4/component-ota/25/10/16/6159b55899824e498fcdbf18000c1a14.zip",
         "region": "MEA"
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7774.84 MB",
-        "md5": "7ea499577b98b4875375d8e6f66e23be",
+        "md5": "9cf56236b9dfdb56d5a3601c1108d32d",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-0559583874fc64d57917ca8e7cd68208/component-ota/25/10/22/fad35fb52b404bd982565a97b3122f6a.zip",
         "region": "MY"
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7543.34 MB",
-        "md5": "5b15c4aefff422178bf7b2406a2c3209",
+        "md5": "6b83c5057bbd361ce44584d4bcf03ee6",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-e08f27fc2a435cbd095d2826d0bcdd3e/component-ota/25/10/22/ac06562a71fc41d89b98d672e72cc5c3.zip",
         "region": "PH"
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
-        "size": "7510.11 MB",
-        "md5": "a73ccf8c9f55af97d4f1cce0c5598b4d",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-676db57d41b6a54538896d5f6e9540fc/component-ota/25/11/12/f6845fe14e3b4aa1b5f1e58ca7d23900.zip",
+        "size": "7510.05 MB",
+        "md5": "90a8de81a8c4b5b4d7d18f7b928e2104",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-23154f06f63cc642feec801e5d55d1bc/component-ota/25/10/22/b48bd710663f4a36bbe66c04dedeb61c.zip",
         "region": "RU"
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7503.18 MB",
-        "md5": "5f97047d7d8f9e2787eddc664ac260e6",
+        "md5": "c8c1338f25e2dcae8bf9f6b1b53f7366",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-343635d5b5a217bf03fbcca8073ed731/component-ota/25/10/16/dc6649bb6a8444ed90738beb8197e259.zip",
         "region": "SA"
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.3.500(EX01)",
+        "version": "RMX5101_16.0.5.701(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7543.34 MB",
-        "md5": "2be9e1c93075391055e839f1009e31ba",
+        "md5": "62d8cba9a391ba87fd7d8cd2eecd779b",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-98074252119cc4866cb7c3352b2a3e2d/component-ota/25/10/22/2316ba756bf4452998e6f701e04fe166.zip",
         "region": "TH"
     },
@@ -9421,11 +9381,11 @@
     },
     {
         "model": "realme 15 Pro",
-        "version": "RMX5101_16.0.0.206(EX01)",
+        "version": "RMX5101_16.0.3.500(EX01)",
         "codename": "RMX5101",
         "rom_type": "OTA",
         "size": "7559.81 MB",
-        "md5": "2eb02b7c796abd2b4a44e6bcb882c3d9",
+        "md5": "939e16880beb141e72a5c68528ed5460",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-c325182c1866a471d45840f3684a9118/component-ota/25/10/22/8679e11cde204d15bf32a86568894364.zip",
         "region": "TW"
     },
@@ -9441,12 +9401,12 @@
     },
     {
         "model": "realme 15T",
-        "version": "RMX5111_15.0.2.903(EX01)",
+        "version": "RMX5111_16.0.5.700(EX01)",
         "codename": "RMX5111",
         "rom_type": "OTA",
         "size": "6338.89 MB",
-        "md5": "12a3587f646e219c36184e8fe46c882a",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-403c3e9e24c99479e9ac297d545386c0/component-ota/26/03/11/085a52cab6aa4d64a4f9024b59bb4370.zip",
+        "md5": "1c93da3c884acf76b798ee4b4841e285",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-b5bfc517428dfbad4bac3b7714689af6/component-ota/26/03/11/085a52cab6aa4d64a4f9024b59bb4370.zip",
         "region": "BR"
     },
     {
@@ -9461,42 +9421,32 @@
     },
     {
         "model": "realme 15T",
-        "version": "RMX5111_15.0.2.903(EX01)",
+        "version": "RMX5111_16.0.5.700(EX01)",
         "codename": "RMX5111",
         "rom_type": "OTA",
         "size": "6369.89 MB",
-        "md5": "a5e3588b3f44e4cd690c1e1c2a39e743",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-6d073b407098b6a62fe50348dd0a7090/component-ota/26/03/11/598aa8509e8f4416aa3f80ab6bcc0eb7.zip",
-        "region": "KZ"
-    },
-    {
-        "model": "realme 15T",
-        "version": "RMX5111_15.0.2.903(EX01)",
-        "codename": "RMX5111",
-        "rom_type": "OTA",
-        "size": "6369.89 MB",
-        "md5": "1cebcec42d5f7ad39fb2c8576e99f45a",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-330e158d71a0d35d4880dd3aaaf71b1c/component-ota/26/03/11/3d93d8107dd34b8490d2a8a4ef5a30f6.zip",
+        "md5": "9b8313868f3c87b62222f7f2b6bf43d8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-c91904f74837714a770c2e088475fc72/component-ota/26/03/11/3d93d8107dd34b8490d2a8a4ef5a30f6.zip",
         "region": "LATAM"
     },
     {
         "model": "realme 15T",
-        "version": "RMX5111_15.0.2.903(EX01)",
+        "version": "RMX5111_16.0.5.700(EX01)",
         "codename": "RMX5111",
         "rom_type": "OTA",
         "size": "6373.92 MB",
-        "md5": "2d5de5583c0e7649a9b390fc1aba5c7d",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-030b628ba7b27c33ebfb003f0e2a61be/component-ota/26/03/11/7374458a533143779465464808e6aaeb.zip",
+        "md5": "80f384aa034b9dd5268c90353cac1b78",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-41714379890493954f56f3d01068d879/component-ota/26/03/11/7374458a533143779465464808e6aaeb.zip",
         "region": "MEA"
     },
     {
         "model": "realme 15T",
-        "version": "RMX5111_15.0.2.903(EX01)",
+        "version": "RMX5111_16.0.5.700(EX01)",
         "codename": "RMX5111",
         "rom_type": "OTA",
         "size": "6371.54 MB",
-        "md5": "6bd3736470dae099e34f5712f1756e28",
-        "url": "https://gauss-componentotamanual.allawnofs.com/remove-77f667eda11897499918f6557296bef9/component-ota/26/03/11/c7c411f35da5459390b186969c83a833.zip",
+        "md5": "263184ad45fe122cda19eb5d1386a471",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-530f9073c007529025808d06630b7b0b/component-ota/26/03/11/c7c411f35da5459390b186969c83a833.zip",
         "region": "SA"
     },
     {
@@ -9516,7 +9466,7 @@
         "rom_type": "OTA",
         "size": "8295.0 MB",
         "md5": "50a711ec383d777edfd2c7660ea7a2c8",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ca0f8af7f12b15c64ff8abe2bace40ca&p=f088224e006f1388a3bcc7004336de66457a18c72b35c0ea7e4b9e89999782331be4671aa8012ab24602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c69e207b01827c1505&taste=0&supportDLTaste=0&mode=1&s=da83107c1f7b1afac7019b0c7740a4db",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=ca0f8af7f12b15c64ff8abe2bace40ca&p=f088224e006f1388a3bcc7004336de66457a18c72b35c0ea7e4b9e89999782331be4671aa8012ab24602452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c69e207b01827c1505&taste=0&supportDLTaste=0&mode=1&tr=manual&s=ab96f2f57121e0f65da9009fcff0b6c3",
         "region": "ID"
     },
     {
@@ -9526,7 +9476,7 @@
         "rom_type": "OTA",
         "size": "8223.24 MB",
         "md5": "78874f295fbf4cccfc4a35d98f681cba",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3c89a9e09943149699f6a7cc076f3428&p=a50845bd674b8544c36016176d1e27d47edc48fb11464436042284b8a7c38dd65d5ea4c7c3c8d3afec5d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da704&taste=0&supportDLTaste=0&mode=1&s=f144127a030a848b58c046f3c58c51db",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=3c89a9e09943149699f6a7cc076f3428&p=a50845bd674b8544c36016176d1e27d47edc48fb11464436042284b8a7c38dd65d5ea4c7c3c8d3afec5d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da704&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8f240696f604211ab221a79ac5668c83",
         "region": "IN"
     },
     {
@@ -9536,7 +9486,7 @@
         "rom_type": "OTA",
         "size": "8258.29 MB",
         "md5": "a265764656e7f9bc89e39ec31745567b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=74eec731074321e5834a7704a2be730d&p=f088224e006f1389a3bc96534133d765112847967f62c0bf2d1c9d89c493d06713b6651fa8567db6420d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e965399e207b01827c1cc8&taste=0&supportDLTaste=0&mode=1&s=836d39d03b8e4b038424244f5760425b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=74eec731074321e5834a7704a2be730d&p=f088224e006f1389a3bc96534133d765112847967f62c0bf2d1c9d89c493d06713b6651fa8567db6420d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e965399e207b01827c1cc8&taste=0&supportDLTaste=0&mode=1&tr=manual&s=a106c97be3569a1100fe6eb90ab8944a",
         "region": "LATAM"
     },
     {
@@ -9546,7 +9496,7 @@
         "rom_type": "OTA",
         "size": "8262.31 MB",
         "md5": "7dea2f19ea2bb7b7a59d5ca6793adaad",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=8958576c35bf4ac9bf56cf58c3882d0e&p=f088224e006f1389a3bc97074a608066427b10917b60c0e87a1e9ed6cac3853e12b7601fae5678b51459452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e9653a007ddc01813dae9d&taste=0&supportDLTaste=0&mode=1&s=b9b8b35592261358bbdecc034c73ea81",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=8958576c35bf4ac9bf56cf58c3882d0e&p=f088224e006f1389a3bc97074a608066427b10917b60c0e87a1e9ed6cac3853e12b7601fae5678b51459452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e9653a007ddc01813dae9d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=141d0af992297a5285255a96578d7dcc",
         "region": "MEA"
     },
     {
@@ -9556,18 +9506,8 @@
         "rom_type": "OTA",
         "size": "8491.22 MB",
         "md5": "9f1d36cd19ac491155c5ed33cfd99cc1",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=59914914b2fa973cfcbc96ab8cb25d2d&p=f088224e006f1388a3bc96064b64d665447e42902f30c0bb781ac6d4c5c28b6043e6304aab5129b2425a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c4007ddc01813da6fd&taste=0&supportDLTaste=0&mode=1&s=401fc6ee6589946fd007d8b2966515f3",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=59914914b2fa973cfcbc96ab8cb25d2d&p=f088224e006f1388a3bc96064b64d665447e42902f30c0bb781ac6d4c5c28b6043e6304aab5129b2425a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c4007ddc01813da6fd&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8ad64e1d095405a38f993455bfc5cfff",
         "region": "MY"
-    },
-    {
-        "model": "realme 16 Pro",
-        "version": "RMX5120_16.0.5.705(EX01)",
-        "codename": "RMX5120",
-        "rom_type": "OTA",
-        "size": "8259.92 MB",
-        "md5": "3cc59343cab416b256ee6a437cef37d9",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=5d12bbf43dff278ea965720fc665de51&p=f088224e006f1388a3bc9a0c4167d233417d44932634c0ba7a1ec6d59b96d53f41eb6c1eac012fb1410c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c6007ddc01813da6ff&taste=0&supportDLTaste=0&mode=1&s=7d7e00c5dd801ec048607c194d340644",
-        "region": "PH"
     },
     {
         "model": "realme 16 Pro",
@@ -9576,7 +9516,7 @@
         "rom_type": "OTA",
         "size": "8258.28 MB",
         "md5": "1894a604abded726967bc183b29a933c",
-        "url": "https://component-ota-eu.allawnos.com/downloadCheck?c=ad6d9d22ea3050ac8298d33f2af63122&p=c25c9713dab1a25e859e65f26b69ef1553a18d4fa7db73752d62d2ad54943bd5423faca5308cd36b63aa181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da703&taste=0&supportDLTaste=0&mode=1&s=abc465eeaa1f7fee26b9b008cbdc0768",
+        "url": "https://component-ota-eu.allawnos.com/downloadCheck?c=ad6d9d22ea3050ac8298d33f2af63122&p=c25c9713dab1a25e859e65f26b69ef1553a18d4fa7db73752d62d2ad54943bd5423faca5308cd36b63aa181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584ca007ddc01813da703&taste=0&supportDLTaste=0&mode=1&tr=manual&s=f264d2b973f03b0b5d0957f9a217ec63",
         "region": "RU"
     },
     {
@@ -9586,7 +9526,7 @@
         "rom_type": "OTA",
         "size": "8259.92 MB",
         "md5": "37d2cfeafee4cec8c5f212e5650f5cac",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=08b272d72fd60573678b492cda1cf830&p=f088224e006f1388a3bcc0541661d465417f45c57a35c0e82d1c9d85c491d13517ea624ef90278b61058452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c9007ddc01813da702&taste=0&supportDLTaste=0&mode=1&s=6e80fbf579b1b44f5675b9d7366e372d",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=08b272d72fd60573678b492cda1cf830&p=f088224e006f1388a3bcc0541661d465417f45c57a35c0e82d1c9d85c491d13517ea624ef90278b61058452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c9007ddc01813da702&taste=0&supportDLTaste=0&mode=1&tr=manual&s=17aacaecca5e7684904d3de27bc0fb94",
         "region": "SA"
     },
     {
@@ -9596,7 +9536,7 @@
         "rom_type": "OTA",
         "size": "8259.92 MB",
         "md5": "c3a858f8b04b76fb81563bc76a69dc75",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dc9e5397d9f97b561b37107bc84b2d98&p=f088224e006f1388a3bcc60543318232137a43c02a60c0bf7e1dc6d49cc1d1641ae06244fb5c2bb6470d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c89e207b01827c1506&taste=0&supportDLTaste=0&mode=1&s=1e76254a8671eee653b7247825ce8498",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=dc9e5397d9f97b561b37107bc84b2d98&p=f088224e006f1388a3bcc60543318232137a43c02a60c0bf7e1dc6d49cc1d1641ae06244fb5c2bb6470d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c89e207b01827c1506&taste=0&supportDLTaste=0&mode=1&tr=manual&s=df3ae962620f2461bd23323e78840be8",
         "region": "TH"
     },
     {
@@ -9606,7 +9546,7 @@
         "rom_type": "OTA",
         "size": "8259.92 MB",
         "md5": "950998b1973026edf10809984c5ccb4b",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=952e96367fbe6588e7b42284ab930c32&p=f088224e006f1388a3bc90014735d368462810957f60c0bf794fc789cec48b3116e23544fa5628e51603452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c7007ddc01813da700&taste=0&supportDLTaste=0&mode=1&s=62b1f76ad851986c57b666ece410fa88",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=952e96367fbe6588e7b42284ab930c32&p=f088224e006f1388a3bc90014735d368462810957f60c0bf794fc789cec48b3116e23544fa5628e51603452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e584c7007ddc01813da700&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6aef224ad2d85bc6f474fa93b801947e",
         "region": "VN"
     },
     {
@@ -9616,7 +9556,7 @@
         "rom_type": "OTA",
         "size": "8793.3 MB",
         "md5": "8fd25335d3252124864c596050f54f6d",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=26481de0c8ae534b9d070579e931af4f&p=f088224e006f1389a1bc9a0d4633d533127e44907a64c0e12d4cc7d2c49ed03615e7654cf5002be74c03452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba9e207b01827c235e&taste=0&supportDLTaste=0&mode=1&s=af46a6df5f7038e05d8b9a46a07015fc",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=26481de0c8ae534b9d070579e931af4f&p=f088224e006f1389a1bc9a0d4633d533127e44907a64c0e12d4cc7d2c49ed03615e7654cf5002be74c03452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba9e207b01827c235e&taste=0&supportDLTaste=0&mode=1&tr=manual&s=acbfb4032c5c24db460781579101eb10",
         "region": "BR"
     },
     {
@@ -9626,7 +9566,7 @@
         "rom_type": "OTA",
         "size": "8830.02 MB",
         "md5": "a3a4a45b050fea902fad87a9f509d2e4",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3722137b3723edfafba16401c89cddd4&p=f088224e006f1389a1bc95511564d261117c40967c3fc0ed291bc685cbc2d0371ae56118a9002ee6475a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bd007ddc01813db531&taste=0&supportDLTaste=0&mode=1&s=1cd698a121d77209de46e3d5bb75b51d",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=3722137b3723edfafba16401c89cddd4&p=f088224e006f1389a1bc95511564d261117c40967c3fc0ed291bc685cbc2d0371ae56118a9002ee6475a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bd007ddc01813db531&taste=0&supportDLTaste=0&mode=1&tr=manual&s=75f9230409f58e6be69e9eb8e50196ee",
         "region": "ID"
     },
     {
@@ -9636,7 +9576,7 @@
         "rom_type": "OTA",
         "size": "8637.53 MB",
         "md5": "c7d90737ad04d4eb0066a0535faf5c85",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=0fae66797b2e1e3d1d941f45973b8fb6&p=a50845bd674b8545c16041106e4b76d3288a1bac44474430042284ecf7948f870f59ffcfca9a81fbe60b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0c09e207b01827c2362&taste=0&supportDLTaste=0&mode=1&s=317972f6ec4da8f8191b4d7775e988d6",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=0fae66797b2e1e3d1d941f45973b8fb6&p=a50845bd674b8545c16041106e4b76d3288a1bac44474430042284ecf7948f870f59ffcfca9a81fbe60b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0c09e207b01827c2362&taste=0&supportDLTaste=0&mode=1&tr=manual&s=bc2e8d77a8d948c9ed2f44eb1149626a",
         "region": "IN"
     },
     {
@@ -9646,7 +9586,7 @@
         "rom_type": "OTA",
         "size": "8793.3 MB",
         "md5": "10679056b57136cb3b0915ddf94ab707",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=177b7c2383c4b3f7b52f606cdd5b84e8&p=f088224e006f1389a1bc9a061164d569452940c22b3fc0e0791cc681989f876010b16444f95627b5420b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bb007ddc01813db530&taste=0&supportDLTaste=0&mode=1&s=33f19786471df044747ce49ec78e4dec",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=177b7c2383c4b3f7b52f606cdd5b84e8&p=f088224e006f1389a1bc9a061164d569452940c22b3fc0e0791cc681989f876010b16444f95627b5420b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0bb007ddc01813db530&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b461b52ebe88b5168e1243e391c95379",
         "region": "LATAM"
     },
     {
@@ -9656,7 +9596,7 @@
         "rom_type": "OTA",
         "size": "8797.32 MB",
         "md5": "928e73849c3f061cea056d32b2cd5373",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=35a8cb8eb6e1749624400696148627ad&p=f088224e006f1389a1bcc05712608232427e10c52c31c0e8794f9d82cd91843046b63018f90627b2460f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b8007ddc01813db52e&taste=0&supportDLTaste=0&mode=1&s=688fd59bf341fbb00774e4c81fb4ff15",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=35a8cb8eb6e1749624400696148627ad&p=f088224e006f1389a1bcc05712608232427e10c52c31c0e8794f9d82cd91843046b63018f90627b2460f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b8007ddc01813db52e&taste=0&supportDLTaste=0&mode=1&tr=manual&s=3cac2f7ed329e8c670798022c4227343",
         "region": "MEA"
     },
     {
@@ -9666,7 +9606,7 @@
         "rom_type": "OTA",
         "size": "9026.24 MB",
         "md5": "72211b2416620995160ef426eb3c28cd",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=17c874ccd354dc395160a2d8a51f2c84&p=f088224e006f1389a1bc91514365d061427819902f30c0e02d129e869e97856315b3324bf4017cb74458452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b99e207b01827c235d&taste=0&supportDLTaste=0&mode=1&s=0c87223d7945b1d189506858e1014148",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=17c874ccd354dc395160a2d8a51f2c84&p=f088224e006f1389a1bc91514365d061427819902f30c0e02d129e869e97856315b3324bf4017cb74458452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b99e207b01827c235d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=f64a6cde40857b29f72e381cc653a5a4",
         "region": "MY"
     },
     {
@@ -9676,7 +9616,7 @@
         "rom_type": "OTA",
         "size": "8794.94 MB",
         "md5": "bab245e2d1a5ae760f2e32aa2626c120",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7235c2925dae819cd22f121ec6c6308d&p=f088224e006f1389a1bc935310628368157d10c77a64c0ea2948c7d3cf9086601ab0634df95c7ab4100b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba007ddc01813db52f&taste=0&supportDLTaste=0&mode=1&s=2b99a0286b74c58817255fc3566a0347",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=7235c2925dae819cd22f121ec6c6308d&p=f088224e006f1389a1bc935310628368157d10c77a64c0ea2948c7d3cf9086601ab0634df95c7ab4100b452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0ba007ddc01813db52f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b301831171e1aa4a049764c684818d67",
         "region": "PH"
     },
     {
@@ -9686,7 +9626,7 @@
         "rom_type": "OTA",
         "size": "8794.94 MB",
         "md5": "9a1180e53a4ae420569bb92b3350b0b9",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d3dd812f1edb56761dabada9f3d61aea&p=f088224e006f1389a1bc9b544131d333117918957d34c0b87b4cc7859fc6853613b0354bf90027e7400a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b79e207b01827c235c&taste=0&supportDLTaste=0&mode=1&s=25aae3ae38d22e5824492332e0677a86",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d3dd812f1edb56761dabada9f3d61aea&p=f088224e006f1389a1bc9b544131d333117918957d34c0b87b4cc7859fc6853613b0354bf90027e7400a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69f1d0b79e207b01827c235c&taste=0&supportDLTaste=0&mode=1&tr=manual&s=4c0ec0e28a1b7619f0421d94ebd25e03",
         "region": "TH"
     },
     {
@@ -9828,6 +9768,16 @@
         "md5": "553021695d10a28ba42dc7b89237bf69",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-9166fd85782d71d1c4c446028a3bee3a/component-ota/24/06/06/ff78119f752f4e7bb0c6ede1e449b5cc.zip",
         "region": "TW"
+    },
+    {
+        "model": "realme 8",
+        "version": "RMX3241_11_F.12",
+        "codename": "RMX3241",
+        "rom_type": "OTA",
+        "size": "5229.94 MB",
+        "md5": "4aba74824668abf8330fff26590382e8",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-dfabb3bb340b6b7bcfdf5805b26b0a08/component-ota/24/06/06/4a0d1c82aeba4785b51f702ee64c28fd.zip",
+        "region": "VN"
     },
     {
         "model": "realme 8 4G",
@@ -10381,21 +10331,21 @@
     },
     {
         "model": "realme C65",
-        "version": "RMX3997_16.0.2.410(EX01)",
+        "version": "RMX3997_16.0.5.700(EX01)",
         "codename": "RMX3997",
         "rom_type": "OTA",
         "size": "5215.05 MB",
-        "md5": "702fcd2dc4a28d1b24f72650008cff97",
+        "md5": "25b913fb2669f9e0a818d9179fe99698",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-76caa186111967a4cf2f303b5c8d988e/component-ota/25/01/22/c13dc2bd79a7474b9549365edb657d84.zip",
         "region": "MEA"
     },
     {
         "model": "realme C65",
-        "version": "RMX3997_16.0.2.410(EX01)",
+        "version": "RMX3997_16.0.5.700(EX01)",
         "codename": "RMX3997",
         "rom_type": "OTA",
         "size": "5418.98 MB",
-        "md5": "8f0f19d56dec3b73204e76f185dd1bc5",
+        "md5": "019d052e9b73697238185855b40c6d46",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-4c8789d461818a52157e438be83a436e/component-ota/25/01/22/f246ecdce3f248448dd47f74504873ed.zip",
         "region": "MY"
     },
@@ -10411,21 +10361,21 @@
     },
     {
         "model": "realme C65",
-        "version": "RMX3997_16.0.2.410(EX01)",
+        "version": "RMX3997_16.0.5.700(EX01)",
         "codename": "RMX3997",
         "rom_type": "OTA",
         "size": "5259.05 MB",
-        "md5": "3323369ddec46acae9600e3ee0d4d81d",
+        "md5": "60e0aeaf5ddd817683c5539d1f16d083",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-04abf4953d4afcdab008bbded3299920/component-ota/25/01/22/eda959085a01478f8249a14aaa03f51a.zip",
         "region": "SA"
     },
     {
         "model": "realme C65",
-        "version": "RMX3997_16.0.2.410(EX01)",
+        "version": "RMX3997_16.0.5.700(EX01)",
         "codename": "RMX3997",
         "rom_type": "OTA",
         "size": "5339.46 MB",
-        "md5": "61a1fd97689065e0e7ddf1f1d2358c97",
+        "md5": "fb457842e3ce159621ee83f307369b97",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-1008efeeab0e4d9bef93ffe2802b5714/component-ota/25/01/22/a03105c0ecdb4857bab14e517766d7c1.zip",
         "region": "TH"
     },
@@ -10438,6 +10388,56 @@
         "md5": "964b596d5e62e2b411a7f5695e2cb75b",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-8a479a978a20252443a74a5358bf7da0/component-ota/25/11/23/3e69ad0af8b6478f9e89730acfd9b306.zip",
         "region": "TW"
+    },
+    {
+        "model": "realme GT 3",
+        "version": "RMX3709_14.0.0.900(EX01)",
+        "codename": "RMX3709",
+        "rom_type": "OTA",
+        "size": "6740.81 MB",
+        "md5": "ab7738dac74d2493b538458128bc1f7b",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-5434b9300d529f31af219518e5627c84/component-ota/24/08/16/6e4309defaa04d70b0c28b4983112086.zip",
+        "region": "MEA"
+    },
+    {
+        "model": "realme GT 3",
+        "version": "RMX3709_14.0.0.900(EX01)",
+        "codename": "RMX3709",
+        "rom_type": "OTA",
+        "size": "6901.16 MB",
+        "md5": "5d585acf6fc7d86387de7fbf96126532",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-24106c6f5d06dab3cf675fc7153286b1/component-ota/24/08/16/61eec3a14fda4423be80ec64c77026ba.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme GT 3",
+        "version": "RMX3709_16.0.3.501(EX01)",
+        "codename": "RMX3709",
+        "rom_type": "OTA",
+        "size": "6438.46 MB",
+        "md5": "10c3c5129ce1601b288bc6a3ce039b15",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-13abbbfbde19e6b80be6bad12400fa4c/component-ota/24/03/01/1194cd259a9f49bfaf8979ab95bceffa.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme GT 3",
+        "version": "RMX3709_14.0.0.900(EX01)",
+        "codename": "RMX3709",
+        "rom_type": "OTA",
+        "size": "6779.36 MB",
+        "md5": "c43114fc41773e06cd92d95fdff62368",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-8ecf38e48f81eed94283991c47b73532/component-ota/24/08/16/e3d6190ec1274fa38a8ba9e91c82fcc3.zip",
+        "region": "SA"
+    },
+    {
+        "model": "realme GT 3",
+        "version": "RMX3709_16.0.3.501(EX01)",
+        "codename": "RMX3709",
+        "rom_type": "OTA",
+        "size": "5601.06 MB",
+        "md5": "0aa5fb9539e72c59aab8129fc312fd76",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cac9e30ef425470b417bf50495578314/component-ota/23/11/09/3d4e741f5dc34154b547d7588b8c7f6c.zip",
+        "region": "TR"
     },
     {
         "model": "realme GT 6",
@@ -10458,6 +10458,16 @@
         "md5": "a7c892a70acee3f3ba9c0f173d6a7338",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-83a22f331fae1433f9bbad7915e19f5c/component-ota/24/09/29/d5166649a7ac4cb5beeecf551617ceee.zip",
         "region": "ID"
+    },
+    {
+        "model": "realme GT 6",
+        "version": "RMX3851_15.0.0.1200(EX01)",
+        "codename": "RMX3851",
+        "rom_type": "OTA",
+        "size": "7616.51 MB",
+        "md5": "295ed30887da184f6aad3bd41ad3164e",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-29776c2a160868ace01e896ca07b7528/component-ota/25/09/04/b9a5829f9ea84d7aaa8dc2d50f9db311.zip",
+        "region": "IN"
     },
     {
         "model": "realme GT 6",
@@ -10726,7 +10736,7 @@
         "rom_type": "OTA",
         "size": "9454.79 MB",
         "md5": "fe08af206a70783a06a1fa757c48381e",
-        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=678092cb128a754445a6fe26e4b079a4&p=a50845bd674c8546c36017133d1b71817fdb1afc414744655122ddb8f091dfd2010aa590929ed3f8e05b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6a9e207b01827c12fc&taste=0&supportDLTaste=0&mode=1&s=03b89bd219b3c1be6188e97f753d2f33",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=678092cb128a754445a6fe26e4b079a4&p=a50845bd674c8546c36017133d1b71817fdb1afc414744655122ddb8f091dfd2010aa590929ed3f8e05b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6a9e207b01827c12fc&taste=0&supportDLTaste=0&mode=1&tr=manual&s=795979cd640877afdd119980744d8ca3",
         "region": "IN"
     },
     {
@@ -10736,7 +10746,7 @@
         "rom_type": "OTA",
         "size": "9457.16 MB",
         "md5": "2450ba453927799f5292f7dca38447cc",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b9cce5c0ecedfe00ebebf4af9ee910e9&p=f088224e0068138aa3bc900215328230157412c02f63c0ec2948c681cdc4d13f43e76244fe012bb4140d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca69007ddc01813da4dd&taste=0&supportDLTaste=0&mode=1&s=75bb541a837ba24898377d72ae48790f",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b9cce5c0ecedfe00ebebf4af9ee910e9&p=f088224e0068138aa3bc900215328230157412c02f63c0ec2948c681cdc4d13f43e76244fe012bb4140d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca69007ddc01813da4dd&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8ddd04d9a827088a50194f6b1bd42b9b",
         "region": "MEA"
     },
     {
@@ -10746,7 +10756,7 @@
         "rom_type": "OTA",
         "size": "9686.08 MB",
         "md5": "fa5931be05df60f7f804cf02581a3fe8",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=4c80c22167e2f051d7e23d2616d506de&p=f088224e0068138aa3bc93061161d062137842942d37c0bf7e1dc782c89582671be36c4ef5022cb0175f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6a9e207b01827c12fb&taste=0&supportDLTaste=0&mode=1&s=1aaac6881020c21c0793d2556b0e2790",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=4c80c22167e2f051d7e23d2616d506de&p=f088224e0068138aa3bc93061161d062137842942d37c0bf7e1dc782c89582671be36c4ef5022cb0175f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6a9e207b01827c12fb&taste=0&supportDLTaste=0&mode=1&tr=manual&s=391bafeb03bc7c0df9b90064b8e61c47",
         "region": "MY"
     },
     {
@@ -10756,7 +10766,7 @@
         "rom_type": "OTA",
         "size": "9454.78 MB",
         "md5": "5b6b51d1a20d6b55708375b5c1ae377e",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6b3aeb79645a0eb5aadcfb865377b4b2&p=f088224e0068138aa3bc9a0411638563422f44972932c0bd29499dd698c38a3011e1661afe512cb7470a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6c9e207b01827c12fe&taste=0&supportDLTaste=0&mode=1&s=443ec9d496c34a4d4176c94f2fba584c",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6b3aeb79645a0eb5aadcfb865377b4b2&p=f088224e0068138aa3bc9a0411638563422f44972932c0bd29499dd698c38a3011e1661afe512cb7470a452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e0ca6c9e207b01827c12fe&taste=0&supportDLTaste=0&mode=1&tr=manual&s=bd642e5f053dc73166e9fcce98f76fed",
         "region": "SA"
     },
     {
@@ -10766,7 +10776,7 @@
         "rom_type": "OTA",
         "size": "9523.71 MB",
         "md5": "067c2ad02d9f40d8f81423ea60a8337e",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d92b11c7c0a0353f2abbce90fefbaaea&p=f088224e0068138aa3bc97504b61d7684f7e18942932c0ed7d139dd4c8c6d76043b76d1dae527cbc4c58452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e6cd64007ddc01813da979&taste=0&supportDLTaste=0&mode=1&s=33dc03eb5209158c5f83d748e0922b5c",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=d92b11c7c0a0353f2abbce90fefbaaea&p=f088224e0068138aa3bc97504b61d7684f7e18942932c0ed7d139dd4c8c6d76043b76d1dae527cbc4c58452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=69e6cd64007ddc01813da979&taste=0&supportDLTaste=0&mode=1&tr=manual&s=781b212a1e42856b58d1297210d83799",
         "region": "TW"
     },
     {
@@ -11320,6 +11330,16 @@
         "region": "RU"
     },
     {
+        "model": "realme NARZO 50",
+        "version": "RMX3571_14.0.0.114(EX01)",
+        "codename": "RMX3571",
+        "rom_type": "OTA",
+        "size": "4958.0 MB",
+        "md5": "97a2fb820675c7b860e3a20a6104d5a9",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-24c125bbee93360c3c86fe32bc909c83/component-ota/25/04/14/d428937aa13040478844f1b094cf15ce.zip",
+        "region": "IN"
+    },
+    {
         "model": "realme NARZO 50 Pro",
         "version": "RMX3395_14.0.0.1015(EX01)",
         "codename": "RMX3395",
@@ -11327,6 +11347,116 @@
         "size": "5973.01 MB",
         "md5": "f4ea2182f5c15ffc684628a3ce2e9a44",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-f51ee7462ea44b7dd431eb7f6b2692e4/component-ota/25/04/17/7e2995ca48054dbcb58029bb58ed6121.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430_11_F.23",
+        "codename": "RMX3430",
+        "rom_type": "OTA",
+        "size": "4257.07 MB",
+        "md5": "d5645fd6c989d51b2cbc608f1cd748d2",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-69d0bd07acb42c2204ef95ce2a3a839d/component-ota/24/07/18/d49b5a639a2b4176993a549a21268333.zip",
+        "region": "EG"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430_11_F.23",
+        "codename": "RMX3430",
+        "rom_type": "OTA",
+        "size": "4497.88 MB",
+        "md5": "bdead366d8450976165e7772d4e643fb",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e885cc83f96e819c879e844fec2f168e/component-ota/24/07/18/8b7b79fbc77845f1938e4cc408054da0.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430_11_F.23",
+        "codename": "RMX3430",
+        "rom_type": "OTA",
+        "size": "4445.0 MB",
+        "md5": "ccb90bfd3203fd9301f25669caebf53d",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f1476510e356d93b30c4eb5ec7b53f7f/component-ota/24/07/18/aa25c9e534c647d0ba58b90a68fd7c52.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430_11_F.23",
+        "codename": "RMX3430",
+        "rom_type": "OTA",
+        "size": "4398.73 MB",
+        "md5": "3ffcad0243e0ebd751304dfa33242ed9",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-f6ebd9d270921de1e3d335ea569ecef4/component-ota/24/07/18/299185d1d9594c12b125711fddbbd470.zip",
+        "region": "PH"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430216B1_11_C.09",
+        "codename": "RMX3430216B1",
+        "rom_type": "OTA",
+        "size": "1.29 MB",
+        "md5": "9381226d9e81edc6b65a7abd88627da1",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3b83376112075f3ba9f632e7896bcd54/component-ota/22/10/24/d3659b323f204f3f976f76c880fd8efa.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme NARZO 50A",
+        "version": "RMX3430_11_F.23",
+        "codename": "RMX3430",
+        "rom_type": "OTA",
+        "size": "4276.69 MB",
+        "md5": "eb17cf911f9a2fab38e32695e525df43",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d9612234e2e3ab3aaf368d79de75837a/component-ota/24/07/18/b10f135e37e04b20abc95c703f29a93c.zip",
+        "region": "TW"
+    },
+    {
+        "model": "realme NARZO 60",
+        "version": "RMX3750_15.0.0.1406(EX01)",
+        "codename": "RMX3750",
+        "rom_type": "OTA",
+        "size": "5988.98 MB",
+        "md5": "d246d9b6cff49230467cc1e6497a8d58",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-cafde4b53c5398ac79523bd7e6ca47c2/component-ota/25/12/02/691125b60d8f4a4e8c9ae1489f816f56.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme NARZO 70",
+        "version": "RMX3869_15.0.0.1310(EX01)",
+        "codename": "RMX3869",
+        "rom_type": "OTA",
+        "size": "6060.91 MB",
+        "md5": "8fb2a1cd04132e13ea542d25aae65fe9",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-9c9eccdf091505b05f0320b9ef1170ec/component-ota/26/01/16/2cfe196fd7fb403c8c122afc39c92dde.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme NARZO 70 Pro",
+        "version": "RMX3868_15.0.0.1310(EX01)",
+        "codename": "RMX3868",
+        "rom_type": "OTA",
+        "size": "6586.62 MB",
+        "md5": "8cd9e597bc1d39410c131848d03b42ba",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-09e852b5512895c6d85051e78b61b2a5/component-ota/26/01/16/84729b294a044d6e8cff35f13699f328.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme NARZO 70 Turbo",
+        "version": "RMX5003_16.0.3.500(EX01)",
+        "codename": "RMX5003",
+        "rom_type": "OTA",
+        "size": "6841.0 MB",
+        "md5": "37513d9a67fe6547dcc1a7a27ed49aaa",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d3a6b93e73eefb6660cdcd0267448405/component-ota/25/02/28/a2f85f929e244461b191325d9db7181a.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme P1 Speed",
+        "version": "RMX5004_16.0.3.500(EX01)",
+        "codename": "RMX5004",
+        "rom_type": "OTA",
+        "size": "7088.3 MB",
+        "md5": "d732890e4a6c3ef39a60998a7f0d65d0",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-72ec8bc5ac7d2e167b5772c7e5ca5257/component-ota/24/12/09/0f24e79fba584a138409bc866e6de3e3.zip",
         "region": "IN"
     },
     {
@@ -11338,6 +11468,66 @@
         "md5": "5ecd92618f4b44e5cf70ffbc9084cb05",
         "url": "https://gauss-componentotamanual.allawnofs.com/remove-650d49d3e481ae4ceb018e24af02db2d/component-ota/25/05/22/b44d92f08020492fa182898a9b542bff.zip",
         "region": "RU"
+    },
+    {
+        "model": "realme P3 Pro",
+        "version": "RMX5032_16.0.0.230(EX01)",
+        "codename": "RMX5032",
+        "rom_type": "OTA",
+        "size": "7374.98 MB",
+        "md5": "0b55b274c9ca6df62fc8f7c5f7e12a83",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-07264833259e0dbec57877622b7781dd/component-ota/25/11/24/b480e1661b0a42c9afe5d0f264533a53.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme P3 Ultra",
+        "version": "RMX5031_15.0.0.533(EX01)",
+        "codename": "RMX5031",
+        "rom_type": "OTA",
+        "size": "7389.66 MB",
+        "md5": "fcfc53884b7246b618c1da9d84b3bd42",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-d9663b536d684daa7f807d9d7f820ced/component-ota/25/07/09/74351a7cb504474e87f344ad14a6932b.zip",
+        "region": "ID"
+    },
+    {
+        "model": "realme P3 Ultra",
+        "version": "RMX5030_16.0.5.700(EX01)",
+        "codename": "RMX5030",
+        "rom_type": "OTA",
+        "size": "7372.28 MB",
+        "md5": "0de75db6a670d7365d212b8a3cf6e589",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-2e26d4cc873f3d79959bec8b7283d7b1/component-ota/25/11/17/e942ea7f858648e58b96173b0c7df6a6.zip",
+        "region": "IN"
+    },
+    {
+        "model": "realme P3 Ultra",
+        "version": "RMX5031_15.0.0.538(EX01)",
+        "codename": "RMX5031",
+        "rom_type": "OTA",
+        "size": "7603.31 MB",
+        "md5": "c8f88bf208069839bf886c9063ab5306",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-1b60e60e4fc1a11acc895a64bbd54900/component-ota/25/11/17/4f8b7d9b7dc748e1ac188c6af535f647.zip",
+        "region": "MY"
+    },
+    {
+        "model": "realme P3 Ultra",
+        "version": "RMX5031_15.0.0.538(EX01)",
+        "codename": "RMX5031",
+        "rom_type": "OTA",
+        "size": "7130.33 MB",
+        "md5": "6cf4360af1200faa957f6c370be1f4b3",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-3ce3e6599e750993d5dfdf428de9556d/component-ota/25/11/17/d9131ad5359a40f6bf78f1ce114ecfa4.zip",
+        "region": "RU"
+    },
+    {
+        "model": "realme P3 Ultra",
+        "version": "RMX5031_15.0.0.538(EX01)",
+        "codename": "RMX5031",
+        "rom_type": "OTA",
+        "size": "7330.32 MB",
+        "md5": "f98f46793c78e138fbdc9b87076f2f5b",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-69a32f7279155aeaf87ba9e17af7036b/component-ota/25/11/17/fce33b9a96d94b81870ced0619d16a64.zip",
+        "region": "TH"
     },
     {
         "model": "realme P4",
