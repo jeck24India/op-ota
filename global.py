@@ -198,9 +198,22 @@ def worker_scan_global_device(device, index, total):
     region_match = re.search(r'\((.*?)\)', full_name)
     region = region_match.group(1) if region_match else "GLO"
 
+    # 🛡️ HARDENED FLY.DEV RETRY ENGINE
+    res = None
+    for attempt in range(3): 
+        try:
+            res = session.get(f"{BASE_URL}/link/{d_id}/1", timeout=12)
+            if res.status_code == 200:
+                break 
+        except requests.exceptions.RequestException:
+            if attempt < 2:
+                time.sleep(1.5) 
+            continue
+            
+    if not res or res.status_code != 200 or "application/json" not in res.headers.get("Content-Type", ""):
+        return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (Fly.dev API Timeout)"
+
     try:
-        res = session.get(f"{BASE_URL}/link/{d_id}/1", timeout=10)
-        if res.status_code != 200: return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (API Error)"
         info = res.json()
         api_version = info.get("version_number", "")
         if not api_version: return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (No baseline string)"
@@ -305,7 +318,6 @@ def main():
                 futures = [executor.submit(worker_scan_global_device, dev, idx + 1, total_global) for idx, dev in enumerate(global_devices)]
                 for future in as_completed(futures): print(future.result())
             
-            # Mid-run disk sync operation
             flush_memory_to_disk()
     except Exception as e:
         print(f"[-] Global API completely unreachable: {e}")
@@ -334,7 +346,6 @@ def main():
         futures = [executor.submit(worker_scan_china_device, code, cn_merged[code], idx + 1, total_cn) for idx, code in enumerate(sorted_cn_codes)]
         for future in as_completed(futures): print(future.result())
 
-    # Final definitive payload disk flush
     flush_memory_to_disk()
 
     # ==========================================
@@ -346,7 +357,6 @@ def main():
     print("\n" + "="*50)
     print(f"[+] Total execution time: {round((time.time() - start_time) / 60, 2)} minutes.")
     
-    # Circuit breaker safeguard to stop broken pushes if GitHub blocks the scraper session midway
     if final_count <= 20:
         print("[⚠️ CRITICAL ERROR] Scraper generated an empty dataset array. Terminating to protect repo history.")
         sys.exit(1)
