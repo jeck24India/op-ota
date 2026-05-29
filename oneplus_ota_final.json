@@ -1,0 +1,23 @@
+[
+    {
+        "model": "OPPO A17",
+        "version": "CPH2477_11_A.57",
+        "codename": "CPH2477",
+        "rom_type": "OTA",
+        "size": "2999.87 MB",
+        "md5": "b0cb0e643602fa9cf1f5c369c4c78762",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-4a8911f65abdc4eb455c3c6fac098b9a/component-ota/25/10/08/c4eca8f61e814c73afa4a43def57b6b1.zip",
+        "region": "eu",
+        "working_model_string": "CPH2477EEA"
+    },
+    {
+        "model": "OPPO A18",
+        "version": "CPH2591_15.0.0.1800(EX01)",
+        "codename": "CPH2591",
+        "rom_type": "OTA",
+        "size": "5004.6 MB",
+        "md5": "56fc49f25ee2a95ddaef5be380ff41e5",
+        "url": "https://gauss-componentotamanual.allawnofs.com/remove-e71df28cc06942b45dab24a4c5a10613/component-ota/26/03/09/2f0d7c72075d4814939646ffceb30e82.zip",
+        "region": "apc"
+    }
+]
