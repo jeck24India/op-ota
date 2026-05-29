@@ -6,12 +6,12 @@ on:
   workflow_dispatch:      # Allows manual "Run" button
 
 env:
-  # Opt into Node 24 now to clear the GitHub Actions deprecation warnings
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  # 🪛 CRITICAL FIX: Forces the Windows Python terminal log to output clean UTF-8 emojis
+  PYTHONIOENCODING: utf-8
 
 jobs:
   scrape_and_update:
-    # Explicitly using windows-2025 to smoothly align with GitHub's upcoming June 15 migration
     runs-on: windows-2025 
     steps:
       - name: Checkout Repo
@@ -28,7 +28,6 @@ jobs:
         run: pip install requests beautifulsoup4 urllib3
 
       - name: Run Scraper
-        # IMPORTANT: Make sure this file matches your python file name exactly (e.g., global.py)
         run: python global.py 
 
       - name: Save JSON to Repo
@@ -37,7 +36,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Check for changes cleanly to prevent exit code 1 crashes on identical runs
           if git diff --quiet oneplus_ota_final.json; then
             echo "[+] No new firmware changes detected. Skipping push."
             exit 0
