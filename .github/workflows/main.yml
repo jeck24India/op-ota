@@ -1,7 +1,7 @@
 name: OTA Database Auto-Update
 on:
   schedule:
-    - cron: '0 0 */3 * *' # Runs every 3 days
+    - cron: '0 0 */5 * *' # Runs every 5 days
   workflow_dispatch:      # Allows manual "Run" button
 
 jobs:
