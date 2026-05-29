@@ -6,12 +6,18 @@ import re
 import time
 import os
 import urllib3
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
 # --- 1. SETUP RESILIENT SESSION ---
 session = requests.Session()
 session.trust_env = False 
 session.verify = False 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+# Max concurrent workers. 15-20 gives blistering speeds without overwhelming GitHub/API endpoints
+MAX_WORKERS = 16  
 
 # --- 2. CONFIGURATION MAPS ---
 REGION_MAP = {
@@ -54,10 +60,13 @@ REGION_MAP = {
 BASE_URL = "https://oosdownloader-gui.fly.dev/api"
 OUTPUT_FILE = "oneplus_ota_final.json"
 
-# Detect binary locally or in current running directory path smoothly
 BINARY_NAME = "func.exe"
 if not os.path.exists(BINARY_NAME):
     BINARY_NAME = os.path.join(os.path.dirname(__file__), "func.exe")
+
+# Thread locks to prevent parallel write racing conditions in memory
+memory_lock = Lock()
+GLOBAL_FIRMWARE_MAP = {}
 
 # --- 3. HELPER UTILITIES ---
 def parse_version_digits(version_str):
@@ -66,52 +75,51 @@ def parse_version_digits(version_str):
         return [int(x) for x in match.group(1).split('.')]
     return [0]
 
-def load_local_json():
+def init_memory_cache():
+    """Loads existing data into global memory dictionary once at startup."""
+    global GLOBAL_FIRMWARE_MAP
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 if isinstance(data, list):
-                    return data
+                    for entry in data:
+                        key = f"{entry['codename']}_{entry['region'].upper()}"
+                        GLOBAL_FIRMWARE_MAP[key] = entry
         except Exception:
             pass
-    return []
 
-def save_and_filter_latest_realtime(new_entries):
+def process_and_merge_memory(new_entries):
+    """Processes entries purely in high-speed RAM. Thread-safe."""
     if not new_entries:
         return
-    current_saved_data = load_local_json()
-    firmware_map = {}
-    for entry in current_saved_data:
-        key = f"{entry['codename']}_{entry['region'].upper()}"
-        firmware_map[key] = entry
-    for entry in new_entries:
-        key = f"{entry['codename']}_{entry['region'].upper()}"
-        if key not in firmware_map:
-            firmware_map[key] = entry
-        else:
-            saved_ver = firmware_map[key]['version']
-            challenger_ver = entry['version']
-            if parse_version_digits(challenger_ver) > parse_version_digits(saved_ver):
-                firmware_map[key] = entry
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(list(firmware_map.values()), f, indent=4, ensure_ascii=False)
+    with memory_lock:
+        for entry in new_entries:
+            key = f"{entry['codename']}_{entry['region'].upper()}"
+            if key not in GLOBAL_FIRMWARE_MAP:
+                GLOBAL_FIRMWARE_MAP[key] = entry
+            else:
+                saved_ver = GLOBAL_FIRMWARE_MAP[key]['version']
+                challenger_ver = entry['version']
+                if parse_version_digits(challenger_ver) > parse_version_digits(saved_ver):
+                    GLOBAL_FIRMWARE_MAP[key] = entry
+
+def flush_memory_to_disk():
+    """Writes compiled memory structures to file instantly in a single operation."""
+    with memory_lock:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            json.dump(list(GLOBAL_FIRMWARE_MAP.values()), f, indent=4, ensure_ascii=False)
 
 def scrape_github_cn_models(url, skip_prefixes):
-    """Scrapes code identifiers and ensures only clean 6-character modern models are kept."""
     model_map = {}
     try:
         response = session.get(url, timeout=15)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
-        
         for element in soup.find_all(['p', 'li']):
             code_tag = element.find('code')
             if code_tag:
                 codename = code_tag.text.strip().upper()
-                
-                # STRICT FIX: Filter to guarantee we only extract actual alphanumeric formats (e.g. PHN110, PJT110)
-                # Must be 6 characters long and must contain numbers to weed out old word-based text codenames
                 if len(codename) == 6 and any(char.isdigit() for char in codename) and not codename.startswith(skip_prefixes):
                     full_text = element.get_text()
                     if ':' in full_text:
@@ -128,7 +136,7 @@ def scrape_github_cn_models(url, skip_prefixes):
 def run_fetch_binary(codename, rev, nv_id, server_id, model_string):
     complex_arg = f"{codename.upper()}_11.{rev}.01_0001_100001010000"
     command = [
-        BINARY_NAME,  # Explicitly scoped location string
+        BINARY_NAME,
         "--model", model_string,
         "--carrier", nv_id,
         "--mode", "0",
@@ -181,120 +189,67 @@ def fetch_with_smart_fallbacks(codename, clean_name, region_name, rev):
             }
     return None
 
-# --- 4. MAIN MASTER SCROLLER ---
-def main():
-    if not os.path.exists(OUTPUT_FILE):
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump([], f)
+# --- 4. PARALLEL THREAD TASKS ---
+def worker_scan_global_device(device, index, total):
+    """Worker task designed to scan a single global device setup layout."""
+    d_id = device.get('id')
+    full_name = device.get('name', 'Unknown')
+    if not d_id:
+        return f"    [{index}/{total}] SKIPPED (Invalid ID)"
 
-    # Check to verify if the file exists on disk to prevent execution failures
-    if not os.path.exists(BINARY_NAME):
-        print(f"[-] Critical Setup Failure: '{BINARY_NAME}' could not be resolved in execution workspace runtime loops.")
-        return
+    clean_model = re.sub(r'\s*\([^)]*\)', '', full_name).strip()
+    region_match = re.search(r'\((.*?)\)', full_name)
+    region = region_match.group(1) if region_match else "GLO"
 
-    # ==========================================
-    # STAGE 1: PARSE GLOBAL/REGIONAL API
-    # ==========================================
-    print("[+] Fetching Global/Regional device repository from Fly.dev...")
     try:
-        res_devices = session.get(f"{BASE_URL}/devices", timeout=15)
-        if "application/json" in res_devices.headers.get("Content-Type", ""):
-            global_devices = res_devices.json()
-            print(f"[+] Loaded {len(global_devices)} items from Global API. Starting scanner...")
+        res = session.get(f"{BASE_URL}/link/{d_id}/1", timeout=10)
+        if res.status_code != 200 or "application/json" not in res.headers.get("Content-Type", ""):
+            return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (API Error)"
             
-            for index, device in enumerate(global_devices):
-                d_id = device.get('id')
-                full_name = device.get('name', 'Unknown')
-                if not d_id: continue
+        info = res.json()
+        api_version = info.get("version_number", "")
+        if not api_version:
+            return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (No baseline string)"
 
-                clean_model = re.sub(r'\s*\([^)]*\)', '', full_name).strip()
-                region_match = re.search(r'\((.*?)\)', full_name)
-                region = region_match.group(1) if region_match else "GLO"
-
-                print(f"    [{index + 1}/{len(global_devices)}] Testing {clean_model} ({region})...", end=" ", flush=True)
-                
-                try:
-                    res = session.get(f"{BASE_URL}/link/{d_id}/1", timeout=10)
-                    if res.status_code != 200 or "application/json" not in res.headers.get("Content-Type", ""):
-                        print("SKIPPED (API dead/timeout)")
-                        continue
-                        
-                    info = res.json()
-                    api_version = info.get("version_number", "")
-                    if not api_version:
-                        print("SKIPPED (No baseline string)")
-                        continue
-
-                    codename = api_version.split("_")[0] if "_" in api_version else api_version[:8]
-                    found_for_device = []
+        codename = api_version.split("_")[0] if "_" in api_version else api_version[:8]
+        found_for_device = []
+        
+        entry_c = fetch_with_smart_fallbacks(codename, clean_model, region, "C")
+        if entry_c:
+            working_string = entry_c.get("working_model_string")
+            found_for_device.append(entry_c)
+            
+            for next_rev in ["F", "H"]:
+                nv_id, server_id, _ = REGION_MAP.get(region.upper(), REGION_MAP["GLO"])
+                res_next = run_fetch_binary(codename, next_rev, nv_id, server_id, working_string)
+                if res_next:
+                    b_next, p_next = res_next
+                    v_str = b_next.get("realVersionName") or b_next.get("versionName") or "Unknown"
+                    r_bytes = int(p_next.get("size", 0))
+                    s_mb = f"{round(r_bytes / (1024**2), 2)} MB" if r_bytes else "Unknown Size"
                     
-                    entry_c = fetch_with_smart_fallbacks(codename, clean_model, region, "C")
-                    if entry_c:
-                        working_string = entry_c.get("working_model_string")
-                        found_for_device.append(entry_c)
-                        
-                        for next_rev in ["F", "H"]:
-                            nv_id, server_id, _ = REGION_MAP.get(region.upper(), REGION_MAP["GLO"])
-                            res_next = run_fetch_binary(codename, next_rev, nv_id, server_id, working_string)
-                            if res_next:
-                                b_next, p_next = res_next
-                                v_str = b_next.get("realVersionName") or b_next.get("versionName") or "Unknown"
-                                r_bytes = int(p_next.get("size", 0))
-                                s_mb = f"{round(r_bytes / (1024**2), 2)} MB" if r_bytes else "Unknown Size"
-                                
-                                found_for_device.append({
-                                    "model": clean_model, "version": v_str, "codename": codename.upper(),
-                                    "rom_type": "OTA", "size": s_mb, "md5": p_next.get("md5") or p_next.get("md5sum"),
-                                    "url": p_next.get("manualUrl") or p_next.get("url"), "region": region.lower()
-                                })
-                    else:
-                        entry_a = fetch_with_smart_fallbacks(codename, clean_model, region, "A")
-                        if entry_a:
-                            found_for_device.append(entry_a)
-
-                    if found_for_device:
-                        save_and_filter_latest_realtime(found_for_device)
-                        print(f"SUCCESS ✅ ({len(found_for_device)} versions captured)")
-                    else:
-                        print("NO MATCH ❌")
-                    
-                    time.sleep(0.01)
-                except Exception as e:
-                    print(f"ERROR ⚠️ ({e})")
+                    found_for_device.append({
+                        "model": clean_model, "version": v_str, "codename": codename.upper(),
+                        "rom_type": "OTA", "size": s_mb, "md5": p_next.get("md5") or p_next.get("md5sum"),
+                        "url": p_next.get("manualUrl") or p_next.get("url"), "region": region.lower()
+                    })
         else:
-            print("[-] Global API failed to yield proper JSON data. Moving to China repositories...")
+            entry_a = fetch_with_smart_fallbacks(codename, clean_model, region, "A")
+            if entry_a:
+                found_for_device.append(entry_a)
+
+        if found_for_device:
+            process_and_merge_memory(found_for_device)
+            return f"    [{index}/{total}] Testing {clean_model} ({region})... SUCCESS ✅ ({len(found_for_device)} versions)"
+        else:
+            return f"    [{index}/{total}] Testing {clean_model} ({region})... NO MATCH ❌"
     except Exception as e:
-        print(f"[-] Global API completely unreachable: {e}")
+        return f"    [{index}/{total}] Testing {clean_model} ({region})... ERROR ⚠️ ({e})"
 
-    # ==========================================
-    # STAGE 2: PARSE CHINA GIT REPOSITORIES
-    # ==========================================
-    print("\n" + "="*50)
-    print("[+] Scoping and parsing China repositories from GitHub...")
-    print("="*50)
-    
-    oneplus_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md"
-    oneplus_skip = ('IN', 'A2', 'ONE A2', 'KB', 'LE', 'OPW', 'PE', 'CPH', 'BE','DN','EB','GM','GN','HD','IV','DE','AC')
-    print("--- Extracting OnePlus CN Catalog ---")
-    oneplus_cn_models = scrape_github_cn_models(oneplus_git, oneplus_skip)
-    print(f"Mapped {len(oneplus_cn_models)} valid modern OnePlus CN models.")
-
-    oppo_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo_cn.md"
-    oppo_skip = ('OB', 'OW', 'OR', 'PA', 'PB', 'PC', 'PE', 'PF', 'PD')
-    print("\n--- Extracting OPPO CN Catalog ---")
-    oppo_cn_models = scrape_github_cn_models(oppo_git, oppo_skip)
-    print(f"Mapped {len(oppo_cn_models)} valid modern OPPO CN models.")
-
-    cn_merged = {**oneplus_cn_models, **oppo_cn_models}
-    sorted_cn_codes = sorted(cn_merged.keys())
-    print(f"\nProcessing matrix scanner across {len(sorted_cn_codes)} unique CN hardware models...")
-
-    for idx, code in enumerate(sorted_cn_codes):
-        clean_name = cn_merged[code]
-        print(f"    [{idx+1}/{len(sorted_cn_codes)}] Testing CN: {code} ({clean_name})...", end=" ", flush=True)
-        
+def worker_scan_china_device(code, clean_name, index, total):
+    """Worker task designed to scan a single China model identifier branch."""
+    try:
         found_for_cn = []
-        
         entry_c = run_fetch_binary(code, "C", "10010111", "1", code)
         if entry_c:
             body_c, pkg_c = entry_c
@@ -336,14 +291,97 @@ def main():
                 })
 
         if found_for_cn:
-            save_and_filter_latest_realtime(found_for_cn)
-            print(f"SUCCESS ✅ ({len(found_for_cn)} versions captured)")
+            process_and_merge_memory(found_for_cn)
+            return f"    [{index}/{total}] Testing CN: {code} ({clean_name})... SUCCESS ✅"
         else:
-            print("FAIL ❌")
-            
-        time.sleep(0.01)
+            return f"    [{idx}/{total}] Testing CN: {code} ({clean_name})... FAIL ❌"
+    except Exception as e:
+        return f"    [{index}/{total}] Testing CN: {code} ({clean_name})... ERROR ⚠️ ({e})"
 
-    print(f"\n[DONE] Entire script completed safely. Output saved to: {OUTPUT_FILE}")
+# --- 5. MAIN MASTER RUNNER SCROLLER ---
+def main():
+    start_time = time.time()
+    
+    # 1. Initialize data from filesystem
+    init_memory_cache()
+    
+    if not os.path.exists(BINARY_NAME):
+        print(f"[-] Critical Setup Failure: '{BINARY_NAME}' could not be resolved.")
+        return
+
+    # ==========================================
+    # STAGE 1: MULTI-THREADED GLOBAL SCANNERS
+    # ==========================================
+    print("[+] Fetching Global/Regional device repository from Fly.dev...")
+    try:
+        res_devices = session.get(f"{BASE_URL}/devices", timeout=15)
+        if "application/json" in res_devices.headers.get("Content-Type", ""):
+            global_devices = res_devices.json()
+            total_global = len(global_devices)
+            print(f"[+] Loaded {total_global} items from Global API. Spinning Concurrent Engine...")
+            
+            # Launch multi-threaded workers for the global stack
+            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+                futures = [
+                    executor.submit(worker_scan_global_device, dev, idx + 1, total_global)
+                    for idx, dev in enumerate(global_devices)
+                ]
+                for future in as_completed(futures):
+                    print(future.result())
+            
+            # Mid-run periodic disk save block to guarantee progress survival
+            flush_memory_to_disk()
+        else:
+            print("[-] Global API dead layout format. Moving ahead...")
+    except Exception as e:
+        print(f"[-] Global API completely unreachable: {e}")
+
+    # ==========================================
+    # STAGE 2: MULTI-THREADED CHINA SCANNERS
+    # ==========================================
+    print("\n" + "="*50)
+    print("[+] Scoping and parsing China repositories from GitHub...")
+    print("="*50)
+    
+    oneplus_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md"
+    oneplus_skip = ('IN', 'A2', 'ONE A2', 'KB', 'LE', 'OPW', 'PE', 'CPH', 'BE','DN','EB','GM','GN','HD','IV','DE','AC')
+    oneplus_cn_models = scrape_github_cn_models(oneplus_git, oneplus_skip)
+
+    oppo_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo_cn.md"
+    oppo_skip = ('OB', 'OW', 'OR', 'PA', 'PB', 'PC', 'PE', 'PF', 'PD')
+    oppo_cn_models = scrape_github_cn_models(oppo_git, oppo_skip)
+
+    cn_merged = {**oneplus_cn_models, **oppo_cn_models}
+    sorted_cn_codes = sorted(cn_merged.keys())
+    total_cn = len(sorted_cn_codes)
+    print(f"\nProcessing concurrent loops across {total_cn} unique CN hardware models...")
+
+    # Launch multi-threaded workers for the China stack
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [
+            executor.submit(worker_scan_china_device, code, cn_merged[code], idx + 1, total_cn)
+            for idx, code in enumerate(sorted_cn_codes)
+        ]
+        for future in as_completed(futures):
+            print(future.result())
+
+    # Final definitive flush back onto disk
+    flush_memory_to_disk()
+
+    # ==========================================
+    # STAGE 3: DATA SAFEGUARD INTEGRITY CHECK
+    # ==========================================
+    with memory_lock:
+        final_count = len(GLOBAL_FIRMWARE_MAP)
+
+    print("\n" + "="*50)
+    print(f"[+] Total execution time: {round((time.time() - start_time) / 60, 2)} minutes.")
+    
+    if final_count <= 10:
+        print("[⚠️ CRITICAL ERROR] Scraper generated a suspiciously empty dataset. Terminating script.")
+        sys.exit(1)
+
+    print(f"[DONE] File completed safely. {final_count} latest unique update maps written to: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
