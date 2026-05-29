@@ -1,4 +1,5 @@
 name: OTA Database Auto-Update
+
 on:
   schedule:
     - cron: '0 0 */5 * *' # Runs every 5 days
@@ -10,22 +11,31 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true # Grants standard write tokens back to the workspace
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install Requests
-        run: pip install requests
+      - name: Install Dependencies
+        # Added beautifulsoup4 and urllib3 to match the unified master script
+        run: pip install requests beautifulsoup4 urllib3
 
       - name: Run Scraper
-        run: python main_scraper.py 
+        # Change this to global.py if that matches your unified script filename
+        run: python global.py 
 
       - name: Save JSON to Repo
+        shell: bash # CRITICAL: Forces Windows to interpret Bash logic for your multi-line script
         run: |
-          git config --global user.name "OnePlus-Bot"
-          git config --global user.email "bot@yourdomain.com"
-          git add oneplus_ota_final.json
-          git commit -m "Auto-update OTA JSON" || exit 0
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Only proceed if oneplus_ota_final.json has actual differences
+          git diff --quiet oneplus_ota_final.json || (
+            git add oneplus_ota_final.json
+            git commit -m "Auto-update OTA JSON: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          )
