@@ -31,17 +31,15 @@ jobs:
         run: python global.py 
 
       - name: Save JSON to Repo
-        shell: bash
+
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if git diff --quiet oneplus_ota_final.json; then
-            echo "[+] No new firmware changes detected. Skipping push."
-            exit 0
-          else
-            echo "[+] New firmware versions found! Committing changes..."
-            git add oneplus_ota_final.json
-            git commit -m "Auto-update OTA JSON: $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          fi
+
+          git config --global user.name "OnePlus-Bot"
+
+          git config --global user.email "bot@yourdomain.com"
+
+          git add oneplus_ota_final.json
+
+          git commit -m "Auto-update OTA JSON" || exit 0
+
+          git push 
