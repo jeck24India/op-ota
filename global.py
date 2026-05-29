@@ -16,7 +16,8 @@ session.trust_env = False
 session.verify = False 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-MAX_WORKERS = 4  # Reduced for tiny 5-model speed check
+# Blistering speed execution limits without overloading CDN or GitHub pipelines
+MAX_WORKERS = 16  
 
 # --- 2. CONFIGURATION MAPS ---
 REGION_MAP = {
@@ -74,6 +75,7 @@ def parse_version_digits(version_str):
     return [0]
 
 def init_memory_cache():
+    """Preloads current repository updates to verify and upgrade in RAM arrays."""
     global GLOBAL_FIRMWARE_MAP
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -87,6 +89,7 @@ def init_memory_cache():
             pass
 
 def process_and_merge_memory(new_entries):
+    """Processes variant matches in super-speed cache arrays. Thread-safe."""
     if not new_entries:
         return
     with memory_lock:
@@ -101,6 +104,7 @@ def process_and_merge_memory(new_entries):
                     GLOBAL_FIRMWARE_MAP[key] = entry
 
 def flush_memory_to_disk():
+    """Writes pure memory database out to flat json in a single operation."""
     with memory_lock:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(list(GLOBAL_FIRMWARE_MAP.values()), f, indent=4, ensure_ascii=False)
@@ -115,6 +119,7 @@ def scrape_github_cn_models(url, skip_prefixes):
             code_tag = element.find('code')
             if code_tag:
                 codename = code_tag.text.strip().upper()
+                # Strict structure filter matching modern 6-char formatting (weed out word boardnames)
                 if len(codename) == 6 and any(char.isdigit() for char in codename) and not codename.startswith(skip_prefixes):
                     full_text = element.get_text()
                     if ':' in full_text:
@@ -184,19 +189,21 @@ def fetch_with_smart_fallbacks(codename, clean_name, region_name, rev):
             }
     return None
 
+# --- 4. PARALLEL THREAD TASKS ---
 def worker_scan_global_device(device, index, total):
     d_id = device.get('id')
     full_name = device.get('name', 'Unknown')
     if not d_id: return "SKIPPED"
     clean_model = re.sub(r'\s*\([^)]*\)', '', full_name).strip()
-    region = re.search(r'\((.*?)\)', full_name).group(1) if re.search(r'\((.*?)\)', full_name) else "GLO"
+    region_match = re.search(r'\((.*?)\)', full_name)
+    region = region_match.group(1) if region_match else "GLO"
 
     try:
         res = session.get(f"{BASE_URL}/link/{d_id}/1", timeout=10)
-        if res.status_code != 200: return f"    [{index}/{total}] Global Item: SKIPPED API error"
+        if res.status_code != 200: return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (API Error)"
         info = res.json()
         api_version = info.get("version_number", "")
-        if not api_version: return f"    [{index}/{total}] Global Item: SKIPPED Missing details"
+        if not api_version: return f"    [{index}/{total}] Testing {clean_model} ({region})... SKIPPED (No baseline string)"
         codename = api_version.split("_")[0] if "_" in api_version else api_version[:8]
         found_for_device = []
         
@@ -223,7 +230,7 @@ def worker_scan_global_device(device, index, total):
 
         if found_for_device:
             process_and_merge_memory(found_for_device)
-            return f"    [{index}/{total}] Testing {clean_model} ({region})... SUCCESS ✅"
+            return f"    [{index}/{total}] Testing {clean_model} ({region})... SUCCESS ✅ ({len(found_for_device)} versions)"
         return f"    [{index}/{total}] Testing {clean_model} ({region})... NO MATCH ❌"
     except Exception as e:
         return f"    [{index}/{total}] Testing {clean_model} ({region})... ERROR ⚠️ ({e})"
@@ -276,47 +283,75 @@ def worker_scan_china_device(code, clean_name, index, total):
 
 # --- 5. MAIN MASTER RUNNER SCROLLER ---
 def main():
+    start_time = time.time()
     init_memory_cache()
-    if not os.path.exists(BINARY_NAME): return
+    
+    if not os.path.exists(BINARY_NAME):
+        print(f"[-] Critical Setup Failure: '{BINARY_NAME}' could not be resolved.")
+        return
 
     # ==========================================
-    # STAGE 1: TEST ONLY THE FIRST 5 GLOBAL ITEMS
+    # STAGE 1: PARALLEL GLOBAL API LOOPS
     # ==========================================
     print("[+] Fetching Global/Regional device repository from Fly.dev...")
     try:
         res_devices = session.get(f"{BASE_URL}/devices", timeout=15)
         if "application/json" in res_devices.headers.get("Content-Type", ""):
-            # ⏱️ FAST TEST FILTER: Keep only the first 5 devices
-            global_devices = res_devices.json()[:5] 
+            global_devices = res_devices.json()
             total_global = len(global_devices)
-            print(f"[⏱️ FAST MODE] Scanning only {total_global} devices for testing...")
+            print(f"[+] Loaded {total_global} items from Global API. Spinning Concurrent Engine...")
             
             with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                futures = [executor.submit(worker_scan_global_device, dev, i+1, total_global) for i, dev in enumerate(global_devices)]
-                for f in as_completed(futures): print(f.result())
+                futures = [executor.submit(worker_scan_global_device, dev, idx + 1, total_global) for idx, dev in enumerate(global_devices)]
+                for future in as_completed(futures): print(future.result())
+            
+            # Mid-run disk sync operation
             flush_memory_to_disk()
     except Exception as e:
-        print(f"[-] Global API error: {e}")
+        print(f"[-] Global API completely unreachable: {e}")
 
     # ==========================================
-    # STAGE 2: TEST ONLY THE FIRST 5 CN ITEMS
+    # STAGE 2: PARALLEL CHINA MARKDOWN LOOPS
     # ==========================================
-    print("\n[+] Scoping and parsing China repositories from GitHub...")
-    oneplus_cn_models = scrape_github_cn_models("https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md", ('IN', 'A2', 'ONE A2', 'KB', 'LE', 'OPW', 'PE', 'CPH', 'BE'))
-    oppo_cn_models = scrape_github_cn_models("https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo_cn.md", ('OB', 'OW', 'OR', 'PA', 'PB', 'PC', 'PE', 'PF', 'PD'))
+    print("\n" + "="*50)
+    print("[+] Scoping and parsing China repositories from GitHub...")
+    print("="*50)
     
+    oneplus_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oneplus.md"
+    oneplus_skip = ('IN', 'A2', 'ONE A2', 'KB', 'LE', 'OPW', 'PE', 'CPH', 'BE','DN','EB','GM','GN','HD','IV','DE','AC')
+    oneplus_cn_models = scrape_github_cn_models(oneplus_git, oneplus_skip)
+
+    oppo_git = "https://github.com/KHwang9883/MobileModels/blob/master/brands/oppo_cn.md"
+    oppo_skip = ('OB', 'OW', 'OR', 'PA', 'PB', 'PC', 'PE', 'PF', 'PD')
+    oppo_cn_models = scrape_github_cn_models(oppo_git, oppo_skip)
+
     cn_merged = {**oneplus_cn_models, **oppo_cn_models}
-    # ⏱️ FAST TEST FILTER: Slice down to keep only the first 5 models
-    sorted_cn_codes = sorted(cn_merged.keys())[:5]
+    sorted_cn_codes = sorted(cn_merged.keys())
     total_cn = len(sorted_cn_codes)
-    print(f"[⏱️ FAST MODE] Scanning only {total_cn} China devices for testing...")
+    print(f"\nProcessing concurrent loops across {total_cn} unique CN hardware models...")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(worker_scan_china_device, code, cn_merged[code], i+1, total_cn) for i, code in enumerate(sorted_cn_codes)]
-        for f in as_completed(futures): print(f.result())
+        futures = [executor.submit(worker_scan_china_device, code, cn_merged[code], idx + 1, total_cn) for idx, code in enumerate(sorted_cn_codes)]
+        for future in as_completed(futures): print(future.result())
 
+    # Final definitive payload disk flush
     flush_memory_to_disk()
-    print(f"\n[DONE] Fast test completed. {len(GLOBAL_FIRMWARE_MAP)} models processed into {OUTPUT_FILE}")
+
+    # ==========================================
+    # STAGE 3: DATA SAFEGUARD CIRCUIT BREAKER
+    # ==========================================
+    with memory_lock:
+        final_count = len(GLOBAL_FIRMWARE_MAP)
+
+    print("\n" + "="*50)
+    print(f"[+] Total execution time: {round((time.time() - start_time) / 60, 2)} minutes.")
+    
+    # Circuit breaker safeguard to stop broken pushes if GitHub blocks the scraper session midway
+    if final_count <= 20:
+        print("[⚠️ CRITICAL ERROR] Scraper generated an empty dataset array. Terminating to protect repo history.")
+        sys.exit(1)
+
+    print(f"[DONE] File completed safely. {final_count} latest unique update records committed to: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
