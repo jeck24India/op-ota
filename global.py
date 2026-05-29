@@ -54,16 +54,19 @@ REGION_MAP = {
 BASE_URL = "https://oosdownloader-gui.fly.dev/api"
 OUTPUT_FILE = "oneplus_ota_final.json"
 
+# Detect binary locally or in current running directory path smoothly
+BINARY_NAME = "func.exe"
+if not os.path.exists(BINARY_NAME):
+    BINARY_NAME = os.path.join(os.path.dirname(__file__), "func.exe")
+
 # --- 3. HELPER UTILITIES ---
 def parse_version_digits(version_str):
-    """Extracts numeric arrays from version names for true sequential sorting logic."""
     match = re.search(r'_(\d+(?:\.\d+)+)', version_str)
     if match:
         return [int(x) for x in match.group(1).split('.')]
     return [0]
 
 def load_local_json():
-    """Safely loads existing progress from disk to prevent data overwrites."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
@@ -75,22 +78,13 @@ def load_local_json():
     return []
 
 def save_and_filter_latest_realtime(new_entries):
-    """
-    Saves data to the JSON file instantly. 
-    Compares new entries against existing file data to ensure only the LATEST version is kept.
-    """
     if not new_entries:
         return
-        
     current_saved_data = load_local_json()
-    
-    # Map out what we already have saved by group_key
     firmware_map = {}
     for entry in current_saved_data:
         key = f"{entry['codename']}_{entry['region'].upper()}"
         firmware_map[key] = entry
-        
-    # Introduce our newly collected versions to the map
     for entry in new_entries:
         key = f"{entry['codename']}_{entry['region'].upper()}"
         if key not in firmware_map:
@@ -98,16 +92,13 @@ def save_and_filter_latest_realtime(new_entries):
         else:
             saved_ver = firmware_map[key]['version']
             challenger_ver = entry['version']
-            # If the new one is newer than the saved one, replace it!
             if parse_version_digits(challenger_ver) > parse_version_digits(saved_ver):
                 firmware_map[key] = entry
-
-    # Write the updated map straight back to disk
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(list(firmware_map.values()), f, indent=4, ensure_ascii=False)
 
 def scrape_github_cn_models(url, skip_prefixes):
-    """Scrapes code identifiers and clean names from markdown tables on GitHub."""
+    """Scrapes code identifiers and ensures only clean 6-character modern models are kept."""
     model_map = {}
     try:
         response = session.get(url, timeout=15)
@@ -118,7 +109,10 @@ def scrape_github_cn_models(url, skip_prefixes):
             code_tag = element.find('code')
             if code_tag:
                 codename = code_tag.text.strip().upper()
-                if len(codename) == 6 and not codename.startswith(skip_prefixes):
+                
+                # STRICT FIX: Filter to guarantee we only extract actual alphanumeric formats (e.g. PHN110, PJT110)
+                # Must be 6 characters long and must contain numbers to weed out old word-based text codenames
+                if len(codename) == 6 and any(char.isdigit() for char in codename) and not codename.startswith(skip_prefixes):
                     full_text = element.get_text()
                     if ':' in full_text:
                         real_name = full_text.split(':', 1)[1].strip()
@@ -132,10 +126,9 @@ def scrape_github_cn_models(url, skip_prefixes):
         return {}
 
 def run_fetch_binary(codename, rev, nv_id, server_id, model_string):
-    """Low-level orchestrator that formats flags cleanly and fires func.exe."""
     complex_arg = f"{codename.upper()}_11.{rev}.01_0001_100001010000"
     command = [
-        "func.exe",
+        BINARY_NAME,  # Explicitly scoped location string
         "--model", model_string,
         "--carrier", nv_id,
         "--mode", "0",
@@ -157,7 +150,6 @@ def run_fetch_binary(codename, rev, nv_id, server_id, model_string):
     return None
 
 def fetch_with_smart_fallbacks(codename, clean_name, region_name, rev):
-    """Loops over specific model flags ensuring target regions receive proper suffixes."""
     region_key = region_name.upper()
     nv_id, server_id, suffix = REGION_MAP.get(region_key, REGION_MAP["GLO"])
     
@@ -191,10 +183,14 @@ def fetch_with_smart_fallbacks(codename, clean_name, region_name, rev):
 
 # --- 4. MAIN MASTER SCROLLER ---
 def main():
-    # Initialize/Clear or preserve existing output structural format
     if not os.path.exists(OUTPUT_FILE):
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump([], f)
+
+    # Check to verify if the file exists on disk to prevent execution failures
+    if not os.path.exists(BINARY_NAME):
+        print(f"[-] Critical Setup Failure: '{BINARY_NAME}' could not be resolved in execution workspace runtime loops.")
+        return
 
     # ==========================================
     # STAGE 1: PARSE GLOBAL/REGIONAL API
@@ -232,7 +228,6 @@ def main():
                     codename = api_version.split("_")[0] if "_" in api_version else api_version[:8]
                     found_for_device = []
                     
-                    # Logic C to F and A branch sequence
                     entry_c = fetch_with_smart_fallbacks(codename, clean_model, region, "C")
                     if entry_c:
                         working_string = entry_c.get("working_model_string")
@@ -258,17 +253,16 @@ def main():
                             found_for_device.append(entry_a)
 
                     if found_for_device:
-                        # Write the data for this device to file IMMEDIATELY
                         save_and_filter_latest_realtime(found_for_device)
-                        print(f"SUCCESS ✅ ({len(found_for_device)} versions captured & saved)")
+                        print(f"SUCCESS ✅ ({len(found_for_device)} versions captured)")
                     else:
                         print("NO MATCH ❌")
                     
-                    time.sleep(0.02)
+                    time.sleep(0.01)
                 except Exception as e:
                     print(f"ERROR ⚠️ ({e})")
         else:
-            print("[-] Global API failed to yield proper JSON data. Falling back onto China scraper...")
+            print("[-] Global API failed to yield proper JSON data. Moving to China repositories...")
     except Exception as e:
         print(f"[-] Global API completely unreachable: {e}")
 
@@ -301,7 +295,6 @@ def main():
         
         found_for_cn = []
         
-        # Logic C to F and A branch sequence
         entry_c = run_fetch_binary(code, "C", "10010111", "1", code)
         if entry_c:
             body_c, pkg_c = entry_c
@@ -343,13 +336,12 @@ def main():
                 })
 
         if found_for_cn:
-            # Write the data for this CN device to file IMMEDIATELY
             save_and_filter_latest_realtime(found_for_cn)
-            print(f"SUCCESS ✅ ({len(found_for_cn)} versions captured & saved)")
+            print(f"SUCCESS ✅ ({len(found_for_cn)} versions captured)")
         else:
             print("FAIL ❌")
             
-        time.sleep(0.02)
+        time.sleep(0.01)
 
     print(f"\n[DONE] Entire script completed safely. Output saved to: {OUTPUT_FILE}")
 
