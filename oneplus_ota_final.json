@@ -13496,12 +13496,12 @@
     },
     {
         "model": "一加 Ace 3 国行版 / 原神刻晴定制机",
-        "version": "PJE110_16.0.5.701(CN01)",
+        "version": "PJE110_16.0.5.1002(CN01)",
         "codename": "PJE110",
         "rom_type": "OTA",
-        "size": "7607.72 MB",
-        "md5": "20e0b3d0af30642118e358cb3cbf6bc8",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=dfcdb3fb1eabbdb6263df2857e4443c6&p=a6c78fdd3751888b39cedaaf109d6464c575f5e64e3254a585b803e9932e0496bbba6389b57b6575ec3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a195df19e207b01827c4947&taste=0&supportDLTaste=0&mode=1&tr=manual&s=5b3656bf9b8847bbe91ca61fed0f9744",
+        "size": "7843.38 MB",
+        "md5": "fd1b0301a17e416e4eab063ec082ac68",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=200d64684787613fd020dcef572e509d&p=a6c78fdd3752888939ced5ad43cd63619176fce61c3354fe80bf00bec27902c6efb737dee07f3671e832d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a954e7f76d168017ee7d76a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=cb2ad3849e98ead2da6752ffb4707066",
         "region": "cn"
     },
     {
@@ -13626,22 +13626,22 @@
     },
     {
         "model": "OPPO Find X8",
-        "version": "PKB110_16.0.9.400(CN01)",
+        "version": "PKB110_16.0.10.500(CN01)",
         "codename": "PKB110",
         "rom_type": "OTA",
-        "size": "8481.02 MB",
-        "md5": "a67f126599cfa60ce6afae282aeffa46",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=79a190fa0d938b0a29e6439639a6c1fa&p=a6c78fdd3752888a3ace8cad4a9739619526f8e9426654a384e800bec52b5194e3bb62d9b4293927ee38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a61fab99e207b01827c88cf&taste=0&supportDLTaste=0&mode=1&tr=manual&s=9d2623d6ae748afebeb063bf11327617",
+        "size": "8516.14 MB",
+        "md5": "97a2f3c7bc5a0afeecf40060d81ccc99",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=dc86b4ec050ada2143ba21a61119561a&p=a6c78fdd375d888a3dcedeac479a37369575fde44b6054f084bc5bb1912d07c0e2be34dde37d6373ef3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a9560c976d168017ee7d79d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=0098eca33db03dbf7b64b3d637c227be",
         "region": "cn"
     },
     {
         "model": "OPPO Find X8 Pro",
-        "version": "PKC110_16.0.9.402(CN01)",
+        "version": "PKC110_16.0.10.500(CN01)",
         "codename": "PKC110",
         "rom_type": "OTA",
-        "size": "8579.94 MB",
-        "md5": "cb9e45c29a54f29dd1c052d573293093",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=81b25bf7a9d5ba5584714988125e5fa5&p=a6c78fdd3752888b38ce88a6139731649526ffe01e6554a387ea03bac32803c4e3ea34dfe5783172b96dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a69d56192ce7c01806f5346&taste=0&supportDLTaste=0&mode=1&tr=manual&s=5ae414e3565eedc4b4d58d482e46212b",
+        "size": "8615.16 MB",
+        "md5": "572f9094f8ee717dcfe102637ea6cae1",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=6694f18a51a5776f67f8b1536b8cddc3&p=a6c78fdd375d888a3dce8fa7109e356dc173ffe6483054f581ea03edc37c50c3b9b9368def7e3325b96fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a954fb592ce7c01836a4f1a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=3e61a5b887541861d5f988c59f25e309",
         "region": "cn"
     },
     {
@@ -13896,12 +13896,12 @@
     },
     {
         "model": "OPPO K13 Turbo Pro",
-        "version": "PLE110_16.0.7.200(CN01)",
+        "version": "PLE110_16.0.9.400(CN01)",
         "codename": "PLE110",
         "rom_type": "OTA",
-        "size": "7529.44 MB",
-        "md5": "13e05f3a85707b47152ae0c587cba85a",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=d0656bce7eca84c7877feaad8de1fedd&p=a6c78fdd3750888b31cedea6149867379271f5b04b3354a1d1b800bd9f7c5394e9bd60dde67e6176e86ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a2a81a3007ddc01813dea54&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6c4d4330f9aefe3c87d608872471e821",
+        "size": "7734.86 MB",
+        "md5": "baf7f212b8d0dd7d8af85ba75bde9758",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=871c3e9cb78ad86fe45c666e144bb71d&p=a6c78fdd3752888b3ace88a9449863609779fce54d6754f280ba03bec42c55c6e3bd628de32b3271b43bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a955eaf92ce7c01836a4f42&taste=0&supportDLTaste=0&mode=1&tr=manual&s=53c2f12eee4605b2f086d51ab47b569f",
         "region": "cn"
     },
     {
@@ -13926,12 +13926,12 @@
     },
     {
         "model": "一加 Ace 5 至尊版 国行版",
-        "version": "PLC110_16.0.9.400(CN01)",
+        "version": "PLC110_16.0.10.500(CN01)",
         "codename": "PLC110",
         "rom_type": "OTA",
-        "size": "8022.66 MB",
-        "md5": "bc6bf9eebb0b756b0326dc0f4b7aa22d",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e8813194ed353d5b206b8181b794454f&p=a6c78fdd3752888a30ced9ab449d39329024fee8436554f785b85bbcc32e5495efbe62d3b279302eee3bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a670ec2007ddc01813e1dbf&taste=0&supportDLTaste=0&mode=1&tr=manual&s=90a89f48642ae023fd795f3731cb22f1",
+        "size": "8060.02 MB",
+        "md5": "8f90672be7775f0235d3365e0cbac9e4",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=d8e2a0cecc5705103478355723ee9ed1&p=a6c78fdd375d888b3bce8fab46ce3564c175fce24d6e54fed6bc5ab8c279049abebf608de7716572ee3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a95474c76d168017ee7d74c&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8d39956942dbc1535cb44e7b4ca47905",
         "region": "cn"
     },
     {
@@ -14006,22 +14006,22 @@
     },
     {
         "model": "OPPO A6v",
-        "version": "PLT130_16.0.5.1000(CN01)",
+        "version": "PLT130_16.0.5.1200(CN01)",
         "codename": "PLT130",
         "rom_type": "OTA",
-        "size": "5783.13 MB",
-        "md5": "a16680f495f865188cefe8a62273914d",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=809ca0235f409b02ea176df88ee6adc6&p=a6c78fdd3753888a3dceddfd469d3431c670fee21b6454f585e800ed93200090bebf30dfb67f3226bc69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a20e397007ddc01813de102&taste=0&supportDLTaste=0&mode=1&tr=manual&s=621e118159e1606bc13e0ae8fcf05da6",
+        "size": "5997.77 MB",
+        "md5": "60deb2f06818dd1c81fa71a9190d80a1",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=488683131580f7e1793c5dbcbdb9c798&p=a6c78fdd375d888b3dcedeab43993835c521f8e61f3754f282ef5abac47b5394e9ba6488e5786625be3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a954fd676d168017ee7d770&taste=0&supportDLTaste=0&mode=1&tr=manual&s=693a905a7faa64f23f4aa76fad635267",
         "region": "cn"
     },
     {
         "model": "OPPO Find X9 Pro 卫星通信版",
-        "version": "PLG120_16.0.9.400(CN01)",
+        "version": "PLG120_16.0.10.501(CN01)",
         "codename": "PLG120",
         "rom_type": "OTA",
-        "size": "8767.87 MB",
-        "md5": "c8b9e8cb4d47eb45cef5696e067b59aa",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=2375a2c8e59cd2243d3bc55068fc5092&p=a6c78fdd375388883cceddaa16cd356dc426ffe9193554a48dbf5bedc321559be2bc6adcb27e6424b439d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a54ccd19e207b01827c7d3f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=9a13b3bb753e7ea01cbea8c624f06ff5",
+        "size": "8802.81 MB",
+        "md5": "f751d912bb4c87aec750c8ac596ed361",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=f7879b0a0961e2f1056f8c6665cf1d12&p=a6c78fdd375d88883ece8ea9419d306c9276fcb74b3454f5d0ba5bb8967b559bb8bd3788b278352fbb38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a95313976d168017ee7d6c2&taste=0&supportDLTaste=0&mode=1&tr=manual&s=c62e352f51f315466354ed2bc0f933cb",
         "region": "cn"
     },
     {
@@ -14096,12 +14096,12 @@
     },
     {
         "model": "OPPO Find X9s Pro",
-        "version": "PME110_16.0.9.402(CN01)",
+        "version": "PME110_16.0.10.500(CN01)",
         "codename": "PME110",
         "rom_type": "OTA",
-        "size": "8905.23 MB",
-        "md5": "1b5f3a971315f9b9dea534017bedf9e4",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=1a5abfcd858875b132befd08417ddcbe&p=a6c78fdd3753888831ced4a816cc3331c473ffe4496754f6d6eb5aea957d5990b9ba3188b67f6274bc32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a5214279e207b01827c7b6d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=fdb89546511391ddaec0abaafcb9660f",
+        "size": "8934.78 MB",
+        "md5": "fa8a6a88ad5e226a795240c1f2275da3",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=614aa3bddb3c794481e998bb3dde1266&p=a6c78fdd3752888939ceddfe169d38659178ace71e3254f6d4e85bb0967b02c3b9ec31dbe2793774b432d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a955bd976d168017ee7d79a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=474b588cece6da7fe1647a2a154c3343",
         "region": "cn"
     },
     {
@@ -14176,12 +14176,12 @@
     },
     {
         "model": "OPPO K15 Pro+",
-        "version": "PMG110_16.0.9.400(CN01)",
+        "version": "PMG110_16.0.10.500(CN01)",
         "codename": "PMG110",
         "rom_type": "OTA",
-        "size": "7947.58 MB",
-        "md5": "5b317e2fb8a2c78211ae6ed1e594812a",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=86a99803d6ff8e2818441fcce735e185&p=a6c78fdd3752888b3ace8ef9149b35609571fdb34c6454ffd7ec03be957e0296e8be64deef2e3027bf3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a69a4e29e207b01827c8f8d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8f4803898fdeec2f48ae3ad3fb69008b",
+        "size": "7982.99 MB",
+        "md5": "02530bf96e1043872421109f33614965",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=5ca7b2f47dabd088ba0829ed55338b9d&p=a6c78fdd375d888b3aced5a8109f38329277fab74c3354f486bb03b1c52159c3bbeb628de42e3271ee38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a9535e576d168017ee7d6c8&taste=0&supportDLTaste=0&mode=1&tr=manual&s=4c8dad8d42bcf36526071930915a21b1",
         "region": "cn"
     },
     {
@@ -14454,12 +14454,12 @@
     },
     {
         "model": "OPPO Reno15 Pro",
-        "version": "PLV110_16.0.9.400(CN01)",
+        "version": "PLV110_16.0.10.500(CN01)",
         "codename": "PLV110",
         "rom_type": "OTA",
-        "size": "8549.89 MB",
-        "md5": "8d37e2745e93bc384d5cc0b27833e49b",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=35b8a36fb6f3996a1a2b16bfcf56601f&p=a6c78fdd3752888a3fced5a64596656cc225a8b4486254a4d3ea00bc907950c0bcba338fe77b6425eb33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a6750859e207b01827c8c39&taste=0&supportDLTaste=0&mode=1&tr=manual&s=eae54ab3ce18a482fb1a25f94e5c0745",
+        "size": "8584.82 MB",
+        "md5": "2da7a615ae7305fbde05ae7136cd04b4",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=024231c17d482e5d3dfeec9b694db0c1&p=a6c78fdd375d888b39ce88a7429d646d9678fae1486154ffd0b65abdc52a52c3e3b86b89b27b6327b93ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a95602792ce7c01836a4f44&taste=0&supportDLTaste=0&mode=1&tr=manual&s=db0d492043083ee5df308c3c5e4dbb54",
         "region": "cn"
     },
     {
