@@ -13549,22 +13549,22 @@
     },
     {
         "model": "OPPO A2x",
-        "version": "PJS110_14.0.0.2900(CN01)",
+        "version": "PJS110_14.0.0.3000(CN01)",
         "codename": "PJS110",
         "rom_type": "OTA",
-        "size": "5623.75 MB",
-        "md5": "cf12616de7973dff9fc4c4cd8f331c76",
-        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-27772fee69d2926b1b4520e308efe851/component-ota/26/04/15/0fae1a9c226d4c7fbc3fd82a29a046ff.zip",
+        "size": "5677.11 MB",
+        "md5": "1bc412ac00f8cae228aa1b0160fefaf1",
+        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-81cf8836eba76fad07bfc09836fc1da8/component-ota/26/07/22/3083d843e3594e8bad98dc488dde6637.zip",
         "region": "cn"
     },
     {
         "model": "OPPO A1i / OPPO A2m",
-        "version": "PJU110_14.0.0.2900(CN01)",
+        "version": "PJU110_14.0.0.3000(CN01)",
         "codename": "PJU110",
         "rom_type": "OTA",
-        "size": "5623.75 MB",
-        "md5": "a2398802c54dd066a45c20a05eba0635",
-        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c0508f634de350ff8027c6c74b01e2ce/component-ota/26/04/15/607a724c33994b3eb3440f0cd20c5148.zip",
+        "size": "5677.12 MB",
+        "md5": "f385128b887c113fd416cce3505baa4d",
+        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c39f99c41d1b8bec4e42017c64ba6f26/component-ota/26/07/22/6881c2c0c9144fc39ecfac7b7212b38a.zip",
         "region": "cn"
     },
     {
@@ -13789,12 +13789,12 @@
     },
     {
         "model": "OPPO A3x",
-        "version": "PKD130_15.0.0.1800(CN01)",
+        "version": "PKD130_15.0.0.1900(CN01)",
         "codename": "PKD130",
         "rom_type": "OTA",
-        "size": "5327.71 MB",
-        "md5": "b43a6003c0309d19fabe189981220a8d",
-        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-693de4c2dea8690d0b764eb9a8a47b40/component-ota/26/05/15/e749872d86b143baa528485190068306.zip",
+        "size": "5339.21 MB",
+        "md5": "d3c761b94256f543bc76a12fd5f951f4",
+        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e6e7fbc78dc3ec5bf3551e95ef84f71c/component-ota/26/08/20/13448b32af364ac49e8091e2fff8ae40.zip",
         "region": "cn"
     },
     {
