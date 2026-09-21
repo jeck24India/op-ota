@@ -13309,12 +13309,12 @@
     },
     {
         "model": "一加 Ace 2 国行版 / 原神定制礼盒",
-        "version": "PHK110_16.0.5.700(CN01)",
+        "version": "PHK110_16.0.5.1201(CN01)",
         "codename": "PHK110",
         "rom_type": "OTA",
-        "size": "7596.31 MB",
-        "md5": "8c594ed2a3ebfe26db223dde03623913",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=578b20aacb6bfb2c32b7158e1fbc9009&p=a6c78fdd3750888b3dcedafc119b3535c223aee74e3054f5d1bf5aebc57b5997ebee33dfb57d6171b869d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a229b59007ddc01813de3ff&taste=0&supportDLTaste=0&mode=1&tr=manual&s=18227ad2c10101aabb873e2d96c326b5",
+        "size": "7895.45 MB",
+        "md5": "1451ab23a9c853b90bc22dbd6904048d",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=fcfd9ad90ad2832708a97cd23fcfbddb&p=a6c78fdd375d888839cedca810ca63669270fbb71c6754f083bc00bcc22b55c4b9ba6bdce379612ebd69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aabde2e92ce7c01836a694b&taste=0&supportDLTaste=0&mode=1&tr=manual&s=91a5c5e654f8623c0e1e912f8a7b10a6",
         "region": "cn"
     },
     {
@@ -13899,12 +13899,12 @@
     },
     {
         "model": "OPPO Reno14",
-        "version": "PLA110_16.0.9.400(CN01)",
+        "version": "PLA110_16.0.10.600(CN01)",
         "codename": "PLA110",
         "rom_type": "OTA",
-        "size": "8727.65 MB",
-        "md5": "05ee05fdcecc020b9790fba9da6d1d04",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=df3f6d2b7b22ccb3a225114fac7ac37c&p=a6c78fdd3752888a30ceddf9139f64359574fdb3496154a1d6bc5abe962f0496e8ec60dee07b3825bf6dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a7d88f892ce7c01806f69b8&taste=0&supportDLTaste=0&mode=1&tr=manual&s=51ce57e4ca192363dcfd2f48f6baabc5",
+        "size": "8750.97 MB",
+        "md5": "9b40f59f1bb2b5abc7b4cdd19fb0a39c",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=cc7955bacb2a8fad8b726ff741579f49&p=a6c78fdd375d88883cceddaa47cb3231c123aeb3486454a480e803e9947d52c0ecbc608fe17b6274bb3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aabc88b92ce7c01836a692d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=cfacf9fb061273ae107ff5ba141e5e83",
         "region": "cn"
     },
     {
@@ -14457,12 +14457,12 @@
     },
     {
         "model": "OPPO A6c",
-        "version": "PMC110_15.0.2.1101(CN01)",
+        "version": "PMC110_16.0.5.1200(CN01)",
         "codename": "PMC110",
         "rom_type": "OTA",
-        "size": "5401.35 MB",
-        "md5": "a6ad717b8b97a16930c25176514dd50f",
-        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a2c330625fcd703bdc84055dcd169f1c/component-ota/26/03/21/550f0babc0264f918b6dd82b8a59994c.zip",
+        "size": "5951.03 MB",
+        "md5": "0861b9a7aedbe0ac8ef39ae3e5a841dc",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=6e04c8c830ca9dbb72cb0f5463dcddae&p=a6c78fdd375d888b3ece8eac409e62359074aee14b6454f286ed5bb9c02954c3ebed37d8e17f632ebe69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aab5ce292ce7c01836a68d2&taste=0&supportDLTaste=0&mode=1&tr=manual&s=55112396657cf7b8a2c4b3ec8f0c84ea",
         "region": "cn"
     },
     {
@@ -16380,12 +16380,12 @@
     },
     {
         "model": "OPPO K15",
-        "version": "PYD110_16.0.9.404(CN01)",
+        "version": "PYD110_16.0.10.500(CN01)",
         "codename": "PYD110",
         "rom_type": "OTA",
-        "size": "7684.16 MB",
-        "md5": "bde919d7392e9b73c85ae76e731926a8",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=3e377a9259a0ba1955ab3769f5d4666a&p=a6c78fdd3752888838ce88af40ce3536c278fbe8196354a484bc03eac37b0494b8bb31ddb67d6421bc3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a5f6921007ddc01813e177b&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6e367b6cb42de707a52bb11b32383ddc",
+        "size": "7715.24 MB",
+        "md5": "f99e2a2378c2085c9ecff28868752923",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e990c4118d34c2672d19000134090cb0&p=a6c78fdd375d88883cce8eae44993460c672ace21b6054f280ba03eac52f5791ebea65d3b27b3123ba3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aacdcae92ce7c01836a6a56&taste=0&supportDLTaste=0&mode=1&tr=manual&s=723d938e61c82db186fc99df1c6e0706",
         "region": "cn"
     },
     {
@@ -16401,12 +16401,12 @@
     },
     {
         "model": "OPPO A7 Pro Max",
-        "version": "PYC110_16.0.9.415(CN01)",
+        "version": "PYC110_16.0.9.416(CN01)",
         "codename": "PYC110",
         "rom_type": "OTA",
-        "size": "6035.62 MB",
-        "md5": "a9d4156699eea8c2d5657e01b0be8086",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=bf843e5cdd13f1d893c657175b26d12d&p=a6c78fdd375d888830ced9ad409d3261c172a9e3483554f382ea03eac2280491beee63dfb67f3822ba33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a9a675476d168017ee7df73&taste=0&supportDLTaste=0&mode=1&tr=manual&s=b287e027413e01496c077cf5d7e193bc",
+        "size": "5989.0 MB",
+        "md5": "24464d6308e1a5a94ea74f2aa4267e54",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=ae54090e2f9c723b03e6f7f757e7fbee&p=a6c78fdd375c888a30ce8ff914cc60609071fbe74c6254f083bd5bbe947e55c6b8bc338dee7d6523b53cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aaf3bf276d168017ee7f3e6&taste=0&supportDLTaste=0&mode=1&tr=manual&s=698f83a3be074c6deafc50a4d5b2b0c1",
         "region": "cn"
     },
     {
