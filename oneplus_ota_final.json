@@ -4529,12 +4529,12 @@
     },
     {
         "model": "OPPO Pad SE WiFi",
-        "version": "OPD2419_16.0.5.701(EX01)",
+        "version": "OPD2419_16.0.5.1301(EX01)",
         "codename": "OPD2419",
         "rom_type": "OTA",
-        "size": "5351.31 MB",
-        "md5": "b63b54cc426e423527be869e040851cc",
-        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=15ebc0c598c34cb4220ed4fb1ecd57c4&p=f088224e006e1389a0bc92071167d165112f40c22c37c0bf7613c7899f93d73241b0354fa8552eb34709452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a197bde9e207b01827c497f&taste=0&supportDLTaste=0&mode=1&tr=manual&s=c5cac056507f83b09a0ae1c02f4ca446",
+        "size": "5471.98 MB",
+        "md5": "ff0966331de34cad724eda0f7936626b",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=b6c7aab488027036448bbc757dd070bf&p=f088224e00621389a4bc93014b318061122a44c22c33c0ee781ac685cf9fd73410b0314eaf547bb4170d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6aba40c492ce7c01836a77a3&taste=0&supportDLTaste=0&mode=1&tr=manual&s=ffba42db12d189ed28a2bcbf74a3f54d",
         "region": "sa",
         "working_model_string": "OPD2419"
     },
@@ -16956,12 +16956,89 @@
     },
     {
         "model": "OPPO K15s",
-        "version": "PYE130_16.0.10.504(CN01)",
+        "version": "PYE130_16.0.10.506(CN01)",
         "codename": "PYE130",
         "rom_type": "OTA",
-        "size": "5992.92 MB",
-        "md5": "b7016656619aa7724185fa81a4eef7ba",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=c89e517a575d8c04bb0fc2859b3b15ff&p=a6c78fdd375c888a3dcedafd40c937319575f9b0426754f2d3ed00bf9e2154c3b8b861d8b4716120e868d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6a9a0cd592ce7c01836a5696&taste=0&supportDLTaste=0&mode=1&tr=manual&s=def9100adbc4f158cf0bf23f5014b1d1",
+        "size": "5964.5 MB",
+        "md5": "2e86542445eb6bed0c308a8de61ccec5",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=8d65c6767b61490f5d99eb7ada808710&p=a6c78fdd375c888831ced8ae469735629623f8b54d3254f183ba00ecc42d5893efbb33d2b17b6223b56fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6aba0b7f76d168017ee7feee&taste=0&supportDLTaste=0&mode=1&tr=manual&s=53fef0fdf4372c589c33f54969d75ba2",
         "region": "cn"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8838.17 MB",
+        "md5": "a3e3f4f8b90245da46aaba6866c7ce1a",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6f70bb83f7aa8beffaff7bab2c97833c&p=f088224e00631388a7bcc20040678268167d12932b37c0e8291dc7d19cc5843446e43749f9057cb21058452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8c3d3092ce7c01836a45d1&taste=0&supportDLTaste=0&mode=1&tr=manual&s=166aae05b8b0ecc643978e5d25cdff25",
+        "region": "id",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8845.23 MB",
+        "md5": "ff3ff5c9729b3e0e3427e182b43d99ed",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=68422702f6fbb37063a9018343034ffc&p=f088224e00631388a7bc92064134d769447b4392783ec0ee29139e859c93876447e36549f55529e1475e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8c3d3376d168017ee7ce5a&taste=0&supportDLTaste=0&mode=1&tr=manual&s=fc52c37ac8ce5ce28d415375bf72ac0f",
+        "region": "my",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "9380.22 MB",
+        "md5": "d37ac58e24220164be988c47cf3b98f5",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=c392f054764979c60b0985793d558b71&p=f088224e00631388a7bc90014261d766137517c22832c0eb2c1ac6829e94826313eb6619af5427b71103452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8c3d3292ce7c01836a45d4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=e33212083456380307a138284b83064b",
+        "region": "sg",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8737.25 MB",
+        "md5": "5a05b3973eeff2be70b29460e1bc346e",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=41f15bde8b6dd5d3a6ad9ab040f1f229&p=f088224e00631388a7bcc6044b36d160437917942d64c0e07b18c788ca9183301ae46519f9027ab2435f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8fb3e776d168017ee7d24b&taste=0&supportDLTaste=0&mode=1&tr=manual&s=ec1b1d584ffe2da2f547b9b314110aea",
+        "region": "th",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8806.16 MB",
+        "md5": "c3b47c8a95d8c021dbb36dc6d086b549",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=411926b09b476b9983832772228b24f6&p=f088224e00631388a7bc9104433180664f7843927f64c0e1764b9d84c997826243e0361da8012cb31058452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8c3d3392ce7c01836a45d5&taste=0&supportDLTaste=0&mode=1&tr=manual&s=62934967331e448f99d06c84d3333e77",
+        "region": "tw",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8737.25 MB",
+        "md5": "9d30e3ba566d3d56e67220e0890af979",
+        "url": "https://component-ota-sg.allawnos.com/downloadCheck?c=0bbeaf26e99d54cdaced55e880e7953c&p=f088224e00631388a7bcc70d4260d065147a18c22a34c0ec2a1a9dd3c4c1823041e6321aa90128e7440c452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8fb3e692ce7c01836a49ed&taste=0&supportDLTaste=0&mode=1&tr=manual&s=72b271ab25f78296dfbfaeb658af524a",
+        "region": "vn",
+        "working_model_string": "CPH2873"
+    },
+    {
+        "model": "OPPO Find X9s",
+        "version": "CPH2873_16.0.10.500(EX01)",
+        "codename": "CPH2873",
+        "rom_type": "OTA",
+        "size": "8742.26 MB",
+        "md5": "0e408d3e3716c32e31fc587e1368f442",
+        "url": "https://component-ota-in.allawnos.com/downloadCheck?c=ab9b89816ea5ba513ddad36837a53938&p=a50845bd67478544c76013103f1c72d17b8a19fb45414437032685bea2998e830c0ba3c1c4cc84fbe20c4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=6a8c3d3192ce7c01836a45d2&taste=0&supportDLTaste=0&mode=1&tr=manual&s=95f0f35f59a361b29f29be036d3df719",
+        "region": "in",
+        "working_model_string": "CPH2873IN"
     }
 ]
