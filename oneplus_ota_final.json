@@ -13319,12 +13319,12 @@
     },
     {
         "model": "OPPO A1 Pro",
-        "version": "PHQ110_14.0.0.3000(CN01)",
+        "version": "PHQ110_14.0.0.3100(CN01)",
         "codename": "PHQ110",
         "rom_type": "OTA",
-        "size": "6395.6 MB",
-        "md5": "34709078369c9f30132bd370c8714f69",
-        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4e4368f10be590046348273637835f20/component-ota/26/07/19/8a2fdaa6323f4480bd7fc10a113a5c97.zip",
+        "size": "6412.03 MB",
+        "md5": "3f7db88019e6b80324595bf18a2ae88a",
+        "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7295d52d383ca72b5c646fc4ef7c9d76/component-ota/26/11/03/404ef184908c4948ba731a03c392d6dd.zip",
         "region": "cn"
     },
     {
@@ -13799,12 +13799,12 @@
     },
     {
         "model": "OPPO A5x / OPPO A5m",
-        "version": "PKW110_16.0.5.1202(CN01)",
+        "version": "PKW110_16.0.5.1300(CN01)",
         "codename": "PKW110",
         "rom_type": "OTA",
-        "size": "6058.32 MB",
-        "md5": "0813a94dae2407505c6d5d9d2668582d",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=fb6e56751af0e55da55191c947d08f8c&p=a6c78fdd375c888b39ce8fac44cc37369421ffe24d6554a1d0b800b1947e5794eaba318ee67e3724be3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6ad6ce977d8131017f157660&taste=0&supportDLTaste=0&mode=1&tr=manual&s=60ed459739bf5534487d6e8b9a9ed265",
+        "size": "6025.28 MB",
+        "md5": "229568cc9591a0487cc74c9529a8e6db",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a9319784eac78ddcc1844b31aab486b5&p=a6c78fdd3654888a3dced9ab169e60679e75f5e44d6354a5d4bd5aed9228589be3ec6b8de07c3576be3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6b0007c5350d39017fff5018&taste=0&supportDLTaste=0&mode=1&tr=manual&s=d0d602ea0f4da919c1926e9fde49770b",
         "region": "cn"
     },
     {
@@ -13859,12 +13859,12 @@
     },
     {
         "model": "OPPO K12s",
-        "version": "PLD110_16.0.5.1001(CN01)",
+        "version": "PLD110_16.0.5.1300(CN01)",
         "codename": "PLD110",
         "rom_type": "OTA",
-        "size": "7010.6 MB",
-        "md5": "3fb16fdfea784dbe7e3e6ea4cd73dfbe",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=caef0a32c7e31a4b42c53fdda76aef06&p=a6c78fdd375d88883dce89af459630669674a9b4496254a584b85bbac57d5192b9b760ddb47a6320ba3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6ab264be76d168017ee7f873&taste=0&supportDLTaste=0&mode=1&tr=manual&s=628db1432daf66f06f6db05767295179",
+        "size": "7050.04 MB",
+        "md5": "6c6c11315993445c2b2d7e6b2f464e14",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=0a77eb37be206ee569709d3dd7acf1ed&p=a6c78fdd365588883ecedcab14ca3035c170f8e61e3454a3d1be5ab8c07b0395ebbc33dfe07d3621ec68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6afaf3ab7d8131017f15a3e4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=6c440fd8f8ffa51eeb698220c4f9b084",
         "region": "cn"
     },
     {
@@ -13999,12 +13999,12 @@
     },
     {
         "model": "OPPO Find X9 Pro 卫星通信版",
-        "version": "PLG120_17.0.0.105(CN01)",
+        "version": "PLG120_17.0.1.201(CN01)",
         "codename": "PLG120",
         "rom_type": "OTA",
-        "size": "9160.59 MB",
-        "md5": "a1381d6de309d2c07b10a53da0a2faec",
-        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=2b4498864cdc4e7b61a2aef2b678bf77&p=a6c78fdd3655888a3ccedaa94b9c30309477acb7436f54a4d3b903eec5795495bbbb638fb27a3320b569d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6acf2f1b7d8131017f156c88&taste=0&supportDLTaste=0&mode=1&tr=manual&s=59b5d4fc023b4dfc1cd532b138ead5ca",
+        "size": "9192.65 MB",
+        "md5": "96812a216d36175b28347ae7933abba7",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=8f2f6f1633e044d0f1d55daa366a31c4&p=a6c78fdd3655888830cedafe4bcb3236c670fce31b3554a1d6bc00b8c07b5892bfed638ee67c3976b46fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6afbbeff7d8131017f15a4a5&taste=0&supportDLTaste=0&mode=1&tr=manual&s=77128c6c39998433a2044e2bd03bf72e",
         "region": "cn"
     },
     {
@@ -17781,5 +17781,25 @@
         "url": "https://component-ota-in.allawnos.com/downloadCheck?c=7e6ca26216b74c08055f0e9dabc036ec&p=a50845bd664e8544c26044403f1d22d17cd14dff454344360120debdf2968a845858ffc1c09d80a8e45a4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=10eab6008d5642cf42abd2aa41f847cb&id=6aeda39c7d8131017f159760&taste=0&supportDLTaste=0&mode=1&tr=manual&s=184801b3cbfe7ee350c00bf081c8c597",
         "region": "in",
         "working_model_string": "OPD2516IN"
+    },
+    {
+        "model": "OPPO Reno17 Pro",
+        "version": "PND110_17.0.1.202(CN01)",
+        "codename": "PND110",
+        "rom_type": "OTA",
+        "size": "8827.52 MB",
+        "md5": "22ac37eeb02e46f064a0ba5195aae30b",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=b138e26d7eb2f21351b3982a02c54465&p=a6c78fdd3654888b3bce8bfd109a64629176fbe8486654f1d6ba5bbc9020579be8bb6bdbe0796176bf6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6afb090c350d39017fff454d&taste=0&supportDLTaste=0&mode=1&tr=manual&s=c875321f1ec4b9190700941aa02448ee",
+        "region": "cn"
+    },
+    {
+        "model": "OPPO Reno17",
+        "version": "PYK110_17.0.1.201(CN01)",
+        "codename": "PYK110",
+        "rom_type": "OTA",
+        "size": "8934.25 MB",
+        "md5": "de84a97bd24beccb042db6c2f34d6ebb",
+        "url": "https://component-ota-cn.allawntech.com/downloadCheck?c=c144aef75d4b0849047ca33499385fb2&p=a6c78fdd3654888b3bcedcfb4a9830659176ace21b6f54f4d7bb5bbb917b5596b9b630d9e17a6473b933d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6afb1035350d39017fff4556&taste=0&supportDLTaste=0&mode=1&tr=manual&s=1f83599e5096a50830a28b297e5cdce6",
+        "region": "cn"
     }
 ]
